@@ -1,0 +1,3160 @@
+{
+ "generatedAt": "2026-11-10T02:30:20+00:00",
+ "sydneyDate": "2026-11-10",
+ "baseline": true,
+ "feedsOk": 28,
+ "feedsTotal": 28,
+ "newCount": 369,
+ "feeds": {
+  "AirTrunk": {
+   "status": "ok",
+   "total": 61,
+   "australia": 19
+  },
+  "Deputy": {
+   "status": "ok",
+   "total": 2,
+   "australia": 2
+  },
+  "Q-CTRL": {
+   "status": "ok",
+   "total": 30,
+   "australia": 15
+  },
+  "Objective Corporation": {
+   "status": "ok",
+   "total": 11,
+   "australia": 8
+  },
+  "Macquarie Technology Group": {
+   "status": "ok",
+   "total": 12,
+   "australia": 10
+  },
+  "SafetyCulture (Mitti)": {
+   "status": "ok",
+   "total": 31,
+   "australia": 15
+  },
+  "Harrison.ai": {
+   "status": "ok",
+   "total": 6,
+   "australia": 3
+  },
+  "SiteMinder": {
+   "status": "ok",
+   "total": 21,
+   "australia": 0
+  },
+  "PEXA": {
+   "status": "ok",
+   "total": 5,
+   "australia": 0
+  },
+  "Firmus": {
+   "status": "ok",
+   "total": 74,
+   "australia": 31
+  },
+  "First Focus": {
+   "status": "ok",
+   "total": 58,
+   "australia": 6
+  },
+  "Rokt": {
+   "status": "ok",
+   "total": 11,
+   "australia": 3
+  },
+  "Immutable": {
+   "status": "ok",
+   "total": 3,
+   "australia": 2
+  },
+  "Eucalyptus": {
+   "status": "ok",
+   "total": 95,
+   "australia": 24
+  },
+  "Silicon Quantum Computing": {
+   "status": "ok",
+   "total": 9,
+   "australia": 9
+  },
+  "CDC Data Centres": {
+   "status": "ok",
+   "total": 61,
+   "australia": 19
+  },
+  "Xero": {
+   "status": "ok",
+   "total": 106,
+   "australia": 34
+  },
+  "Airbnb": {
+   "status": "ok",
+   "total": 205,
+   "australia": 4
+  },
+  "Stripe": {
+   "status": "ok",
+   "total": 772,
+   "australia": 24
+  },
+  "DoorDash": {
+   "status": "ok",
+   "total": 28,
+   "australia": 23
+  },
+  "Block": {
+   "status": "ok",
+   "total": 202,
+   "australia": 11
+  },
+  "Haast": {
+   "status": "ok",
+   "total": 7,
+   "australia": 1
+  },
+  "Legora": {
+   "status": "ok",
+   "total": 325,
+   "australia": 10
+  },
+  "Nebius": {
+   "status": "ok",
+   "total": 380,
+   "australia": 4
+  },
+  "Cursor (Anysphere)": {
+   "status": "ok",
+   "total": 96,
+   "australia": 10
+  },
+  "Anduril Industries": {
+   "status": "ok",
+   "total": 2580,
+   "australia": 65
+  },
+  "Cognition": {
+   "status": "ok",
+   "total": 109,
+   "australia": 5
+  },
+  "Neara": {
+   "status": "ok",
+   "total": 39,
+   "australia": 12
+  }
+ },
+ "newRoles": [
+  {
+   "company": "AirTrunk",
+   "id": "7807675003",
+   "title": "Commercial Manager ",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7807675003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "7997901003",
+   "title": "DCS/BMS Service Engineer",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7997901003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8032434003",
+   "title": "Director, Development & Governance",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8032434003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8045767003",
+   "title": "Electrical Systems Specialist",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045767003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "7983006003",
+   "title": "High Voltage Site Engineer",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7983006003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8197364003",
+   "title": "Maintenance Coordinator",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197364003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8034263003",
+   "title": "Manager, Finance",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8034263003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8014196003",
+   "title": "Principal Electrical Engineer",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8014196003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8009001003",
+   "title": "Principal Fire & Hydraulic Engineer",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8009001003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "7724233003",
+   "title": "Project Director",
+   "location": "Newcastle, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7724233003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8016313003",
+   "title": "Security Compliance Manager",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8016313003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "7633479003",
+   "title": "Senior Design Engineer - Electrical",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7633479003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8168553003",
+   "title": "Senior Director, Originations",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8168553003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8004124003",
+   "title": "Senior Director, Site Engineering",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8004124003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8010160003",
+   "title": "Senior Mechanical Engineer",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8010160003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8028949003",
+   "title": "Senior Security Engineer",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8028949003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8004119003",
+   "title": "Senior Technical Services Manager",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8004119003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8060506003",
+   "title": "Service Delivery Manager",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8060506003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "7900055003",
+   "title": "Services & Commissioning Manager",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7900055003"
+  },
+  {
+   "company": "Deputy",
+   "id": "73af4076-6528-4e07-ac5d-5cfcc215d0a5",
+   "title": "Account Executive",
+   "location": "Sydney | Melbourne | East Coast Australia",
+   "url": "https://jobs.lever.co/deputy/73af4076-6528-4e07-ac5d-5cfcc215d0a5"
+  },
+  {
+   "company": "Deputy",
+   "id": "f22f8969-4a6d-44cc-95fb-a2f205264a10",
+   "title": "Technical Support Engineer - Tier 3",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/deputy/f22f8969-4a6d-44cc-95fb-a2f205264a10"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "c415bb14-9895-4e9e-b294-2a66c905561e",
+   "title": "Electronics Engineer",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/c415bb14-9895-4e9e-b294-2a66c905561e"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "fd79db6d-8a53-4fc8-a518-b50441613e0c",
+   "title": "Product Manager - Quantum Sensing",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/fd79db6d-8a53-4fc8-a518-b50441613e0c"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "07f373bf-2b70-4312-a432-cacc6065d30c",
+   "title": "Production Technician",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/07f373bf-2b70-4312-a432-cacc6065d30c"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "831dfe64-8d6c-4b9f-a4a9-081dfbdcf472",
+   "title": "Q-CTRL Talent Community",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/831dfe64-8d6c-4b9f-a4a9-081dfbdcf472"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef",
+   "title": "Security Engineer",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "034bcae2-8f2d-4bbe-9005-f6ba6b014c6d",
+   "title": "Senior Embedded Software Engineer",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/034bcae2-8f2d-4bbe-9005-f6ba6b014c6d"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "a3911edb-d50d-4151-af5c-791495e897d3",
+   "title": "Senior Embedded Software Engineer",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/a3911edb-d50d-4151-af5c-791495e897d3"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "c37ecfcd-a083-496e-bffa-d31f9473bec1",
+   "title": "Senior Navigation Scientist - Quantum Sensing",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/c37ecfcd-a083-496e-bffa-d31f9473bec1"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "ed3f07cf-7d4d-47ee-b354-ee2542057793",
+   "title": "Senior Scientist, Quantum Sensing (Atom Interferometry)",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/ed3f07cf-7d4d-47ee-b354-ee2542057793"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "d6729274-cba8-4000-af87-79501e6ab194",
+   "title": "Senior Scientist, Quantum Sensing (Magnetometry)",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/d6729274-cba8-4000-af87-79501e6ab194"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "d98559d7-c8c7-4227-b627-c67cb773d110",
+   "title": "Senior Scientist, Quantum Sensing (Modeling and Control)",
+   "location": "Sydney | Oxford",
+   "url": "https://jobs.lever.co/q-ctrl/d98559d7-c8c7-4227-b627-c67cb773d110"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "25250563-f715-4692-b706-e9dacf22e026",
+   "title": "Senior Systems Technician",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/25250563-f715-4692-b706-e9dacf22e026"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "9fdb655f-6d02-44d6-8871-f28d18d2e253",
+   "title": "Staff Embedded Software Engineer",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/9fdb655f-6d02-44d6-8871-f28d18d2e253"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "dbd3451a-b3ee-442e-96bd-6c0ce874eac7",
+   "title": "Staff Project Manager",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/dbd3451a-b3ee-442e-96bd-6c0ce874eac7"
+  },
+  {
+   "company": "Q-CTRL",
+   "id": "1bf319ae-bae8-41d7-80a2-54c004868da8",
+   "title": "Team Lead, Magnetic Navigation",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/q-ctrl/1bf319ae-bae8-41d7-80a2-54c004868da8"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "21d3b66a-af8d-4ec8-b98c-b60b8e0d9f01",
+   "title": "Account Director",
+   "location": "Melbourne | Sydney",
+   "url": "https://jobs.lever.co/objective/21d3b66a-af8d-4ec8-b98c-b60b8e0d9f01"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "ec91cce4-a9b0-4386-9495-4400f1a72a49",
+   "title": "Account Director",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/objective/ec91cce4-a9b0-4386-9495-4400f1a72a49"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "6c7dda47-fe65-4368-af44-4acb394185c5",
+   "title": "Accounts Payable Officer",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/objective/6c7dda47-fe65-4368-af44-4acb394185c5"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "bc3aeea3-4e1c-47aa-a7ce-13443d41add1",
+   "title": "Business Development Director",
+   "location": "Melbourne | Sydney",
+   "url": "https://jobs.lever.co/objective/bc3aeea3-4e1c-47aa-a7ce-13443d41add1"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "101480fe-2381-4843-85e8-f93cb915d894",
+   "title": "Director, Business Development, Channel & Alliances",
+   "location": "Melbourne | Sydney",
+   "url": "https://jobs.lever.co/objective/101480fe-2381-4843-85e8-f93cb915d894"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "c7568f5f-dc2b-412f-bee0-9b8182f2efb8",
+   "title": "Principal Platform Engineer (AWS)",
+   "location": "Sydney | Wollongong",
+   "url": "https://jobs.lever.co/objective/c7568f5f-dc2b-412f-bee0-9b8182f2efb8"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "1271fa98-e7c3-4d05-841e-231cfc25d392",
+   "title": "Product Marketing Manager",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/objective/1271fa98-e7c3-4d05-841e-231cfc25d392"
+  },
+  {
+   "company": "Objective Corporation",
+   "id": "0ae31271-c49b-4819-bd59-0373287366a6",
+   "title": "Software Engineer - Java/React Fullstack",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/objective/0ae31271-c49b-4819-bd59-0373287366a6"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "d2da8d92-a2e2-4702-95b5-02a06d0eb0f3",
+   "title": "2026 Cloud Networking and Cyber Graduate Program",
+   "location": "Sydney, NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/d2da8d92-a2e2-4702-95b5-02a06d0eb0f3"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "0a392b11-72eb-4a21-9f5c-225a0bdead29",
+   "title": "Account Director",
+   "location": "Canberra, ACT 2600 | 2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/0a392b11-72eb-4a21-9f5c-225a0bdead29"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "26edad82-7b7e-447b-a6c9-0cde4d304f8f",
+   "title": "Billings Resolution Specialist",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/26edad82-7b7e-447b-a6c9-0cde4d304f8f"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
+   "title": "Commercial Analyst",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/72bf66fd-a1d9-4e30-8b19-50368357ee9f"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "e6df010f-441e-4061-9799-fc62385d0598",
+   "title": "Cyber Security Architect",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/e6df010f-441e-4061-9799-fc62385d0598"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "e231d96a-44ef-4e02-a952-311272a62954",
+   "title": "Data Centre Facilities Technician",
+   "location": "Macquarie Park, NSW 2113",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/e231d96a-44ef-4e02-a952-311272a62954"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
+   "title": "Demand Generation Manager",
+   "location": "Sydney, NSW 2000 | Melbourne, VIC 3000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/75562216-ed57-4cad-9a12-e3ea7f8a5d6d"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "438402ef-83e3-4759-a131-ab19a053d4d9",
+   "title": "Government Sales Lead",
+   "location": "2 Market Street, Sydney NSW 2000 | Canberra, ACT 2600",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/438402ef-83e3-4759-a131-ab19a053d4d9"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "63f40f56-736b-4629-ad66-fe07963336ab",
+   "title": "Principal Consultant",
+   "location": "2 Market Street, Sydney NSW 2000 | Canberra, ACT 2600",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/63f40f56-736b-4629-ad66-fe07963336ab"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "4abeb8aa-d10a-4432-b1c0-aaca9931d334",
+   "title": "Sales Operations Manager",
+   "location": "Sydney, NSW 2000 | Melbourne, VIC 3000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/4abeb8aa-d10a-4432-b1c0-aaca9931d334"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "645682ac-10cb-4dd4-a741-b46bc661c4c1",
+   "title": "Senior Platform Engineer - Security",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/645682ac-10cb-4dd4-a741-b46bc661c4c1"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "1792b6c6-535c-4e9b-9f74-594d7939ee06",
+   "title": "Senior Infrastructure Engineer",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/1792b6c6-535c-4e9b-9f74-594d7939ee06"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "b7600143-d383-4c0a-bbfe-93f886c77ef1",
+   "title": "Account Executive",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/b7600143-d383-4c0a-bbfe-93f886c77ef1"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "905e6a1c-f6dd-4c99-a146-8341eecca06b",
+   "title": "Senior Manager, Growth Technology Lead",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/905e6a1c-f6dd-4c99-a146-8341eecca06b"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "aa6353e6-0db4-4d0d-a090-d3ef32927436",
+   "title": "Staff Machine Learning Engineer - Search",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/aa6353e6-0db4-4d0d-a090-d3ef32927436"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "6c88ed9e-6f3d-478d-8155-e325067171fb",
+   "title": "Staff Platform Engineer",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/6c88ed9e-6f3d-478d-8155-e325067171fb"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "5a73bfb8-28df-4e89-9864-ca9002cf790b",
+   "title": "Software Engineer II - Backend, CIAM",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/5a73bfb8-28df-4e89-9864-ca9002cf790b"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "4dd0ebe0-b04b-4b83-9952-9d4251a7a58e",
+   "title": "Senior Software Engineer, Frontend - Web Platform ",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/4dd0ebe0-b04b-4b83-9952-9d4251a7a58e"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "0da9a784-d6ed-47a6-a6df-3b3ae6a94c5e",
+   "title": "Head of Property",
+   "location": "Insurance: Sydney | Surry Hills  | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/0da9a784-d6ed-47a6-a6df-3b3ae6a94c5e"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "3288caef-85bc-41f1-9107-ab65c1c5c247",
+   "title": "Quality Engineer II",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/3288caef-85bc-41f1-9107-ab65c1c5c247"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "01f6c3d5-6c06-47c2-b6c5-d97b92635772",
+   "title": "Customer Onboarding Manager ",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/01f6c3d5-6c06-47c2-b6c5-d97b92635772"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "9c69b527-1554-448e-848c-144539c9a0f0",
+   "title": "Senior Manager, Customer Lifecycle Marketing",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/9c69b527-1554-448e-848c-144539c9a0f0"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "fe75ca9d-887d-4094-aa19-739c9d90e572",
+   "title": "Senior Social Media Manager",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/fe75ca9d-887d-4094-aa19-739c9d90e572"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "6b5e07ab-8da4-419f-bff5-7a7cdc9bb623",
+   "title": "Software Engineer II - Fullstack",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/6b5e07ab-8da4-419f-bff5-7a7cdc9bb623"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "ac8bb53e-fd80-444b-9ea2-adf60b763b2a",
+   "title": "Senior Platform Engineer",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/ac8bb53e-fd80-444b-9ea2-adf60b763b2a"
+  },
+  {
+   "company": "Harrison.ai",
+   "id": "0728ecf1-a56e-475a-995a-4a76363c7c74",
+   "title": "Senior Financial Analyst",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/Harrison.ai/0728ecf1-a56e-475a-995a-4a76363c7c74"
+  },
+  {
+   "company": "Harrison.ai",
+   "id": "f93ebf53-acb2-48a1-8409-2f316b0f743c",
+   "title": "Financial Accountant",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/Harrison.ai/f93ebf53-acb2-48a1-8409-2f316b0f743c"
+  },
+  {
+   "company": "Harrison.ai",
+   "id": "f8a1eddc-ca1a-4ad6-b85f-ca9ee50a7605",
+   "title": "Senior Legal Counsel (Mat leave cover)",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/Harrison.ai/f8a1eddc-ca1a-4ad6-b85f-ca9ee50a7605"
+  },
+  {
+   "company": "Firmus",
+   "id": "5425421008",
+   "title": "Accounts Payable Officer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5425421008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5435947008",
+   "title": "Assistant Company Secretary",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5435947008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5430932008",
+   "title": "Connectivity Programme & Delivery Lead",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5430932008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5441921008",
+   "title": "Hardware Engineer, AI Cluster Commissioning",
+   "location": "Launceston, Tasmania, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5441921008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5466634008",
+   "title": "Head of Commissioning",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5466634008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5253313008",
+   "title": "Network Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5253313008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5463220008",
+   "title": "Office Administrator Team Assistant",
+   "location": "Launceston, Tasmania, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5463220008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5464397008",
+   "title": "Platform Reliability Engineering Manager ",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5464397008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5464479008",
+   "title": "Platform Security Operations Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5464479008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5416201008",
+   "title": "Principal Data Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5416201008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5446130008",
+   "title": "Principal Engineer, AI Cloud Software",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5446130008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5449673008",
+   "title": "Principal Engineer, Platform",
+   "location": "Sydney , New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5449673008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5388740008",
+   "title": "Principal Network Architect, Backbone Network",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5388740008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5453541008",
+   "title": "Project Manager - Data Centre Build ",
+   "location": "Tailem Bend, South Australia, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5453541008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5460680008",
+   "title": "Project Manager - FIFO to Tasmania",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5460680008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5472075008",
+   "title": "Project Systems Lead & Control, Construction & Development",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5472075008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5417755008",
+   "title": "Senior AI Engineer, Agents & Applications",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5417755008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5368270008",
+   "title": "Senior AI Infrastructure Engineer, Kubernetes",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5368270008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5414787008",
+   "title": "Senior AI Security Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5414787008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5435949008",
+   "title": "Senior Legal Counsel, Capital Markets & Corporate Development",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5435949008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5435950008",
+   "title": "Senior Legal Counsel: Infrastructure and Construction",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5435950008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5429668008",
+   "title": "Senior Platform Reliability Engineer, Fabric & Interconnection",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5429668008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5429675008",
+   "title": "Senior Platform Security Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5429675008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5407489008",
+   "title": "Senior Security Engineer, AI Platform and Infrastructure",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5407489008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5417463008",
+   "title": "Senior Security Engineer, Application",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5417463008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5290848008",
+   "title": "Senior Technical Program Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5290848008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5429666008",
+   "title": "Service Delivery Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5429666008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5385648008",
+   "title": "Site Manager, Network Deployment",
+   "location": "Wesley Vale, Tasmania, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5385648008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5385655008",
+   "title": "Site Supervisor, Network & Fibre Installation",
+   "location": "Wesley Vale, Tasmania, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5385655008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5464482008",
+   "title": "Systems Administrator",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5464482008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5371157008",
+   "title": "Team Coordinator, Investor Relations ",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5371157008"
+  },
+  {
+   "company": "First Focus",
+   "id": "93BF8DBA9B",
+   "title": "Financial Services Technology Consultant",
+   "location": "Mascot, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/93BF8DBA9B"
+  },
+  {
+   "company": "First Focus",
+   "id": "CFC1EECB82",
+   "title": "Financial Services Technology Consultant",
+   "location": "Mascot, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/CFC1EECB82"
+  },
+  {
+   "company": "First Focus",
+   "id": "278145312B",
+   "title": "Legal Solution Consultant",
+   "location": "Mascot, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/278145312B"
+  },
+  {
+   "company": "First Focus",
+   "id": "62ADE7B504",
+   "title": "Manufacturing Technology Consultant",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/62ADE7B504"
+  },
+  {
+   "company": "First Focus",
+   "id": "A6D09489AF",
+   "title": "Service Experience Manager",
+   "location": "Mascot, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/A6D09489AF"
+  },
+  {
+   "company": "First Focus",
+   "id": "A607FE1FC9",
+   "title": "Support Technician",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/A607FE1FC9"
+  },
+  {
+   "company": "Rokt",
+   "id": "470376CA23",
+   "title": "Enterprise Account Manager - Rokt Ads",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/470376CA23"
+  },
+  {
+   "company": "Rokt",
+   "id": "78589A4D7B",
+   "title": "Enterprise Account Manager - Strategic Key Accounts",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/78589A4D7B"
+  },
+  {
+   "company": "Rokt",
+   "id": "6172DB985A",
+   "title": "Senior Customer Success Manager, Rokt Ads",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/6172DB985A"
+  },
+  {
+   "company": "Immutable",
+   "id": "8fcf6f7a-8cd4-45f8-a799-f731ca476b3a",
+   "title": "Growth Strategy Lead",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/immutable/8fcf6f7a-8cd4-45f8-a799-f731ca476b3a"
+  },
+  {
+   "company": "Immutable",
+   "id": "80353766-d815-497e-bf5f-17594677fcd9",
+   "title": "Senior Security Engineer (Product Security)",
+   "location": "Sydney",
+   "url": "https://jobs.lever.co/immutable/80353766-d815-497e-bf5f-17594677fcd9"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4751733005",
+   "title": "AI & Automation Lead - Creative Production",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4751733005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4738329005",
+   "title": "Ambassador & Affiliate Marketing Lead",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4738329005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4751434005",
+   "title": "Ambassador Partnerships Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4751434005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4721018005",
+   "title": "Clinical Operations Manager (AHPRA Registered)",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4721018005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4751729005",
+   "title": "Creative Strategist",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4751729005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4736508005",
+   "title": "CRM Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4736508005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4740301005",
+   "title": "CRM Manager (Fixed-Term, 6 months)",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4740301005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4738290005",
+   "title": "General Practitioner, Remote Australia (Weight and Men's Health)",
+   "location": "AU - Prescribers - ACT; AU - Prescribers - NSW; AU - Prescribers - NT; AU - Prescribers - QLD; AU - Prescribers - SA; AU - Prescribers - TAS; AU - Prescribers - VIC",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4738290005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4743977005",
+   "title": "Group Product Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4743977005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4740297005",
+   "title": "Growth Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4740297005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4736964005",
+   "title": "Growth Marketing Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4736964005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4709366005",
+   "title": "Lead Product Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4709366005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4750931005",
+   "title": "Lead Product Manager (Sydney Office)",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4750931005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4744409005",
+   "title": "Legal Counsel",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4744409005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4738291005",
+   "title": "Medical Doctor, Remote Australia (Weight and Men's Health)",
+   "location": "AU - HQ - NSW; AU - Prescribers - ACT; AU - Prescribers - NSW; AU - Prescribers - NT; AU - Prescribers - QLD; AU - Prescribers - SA; AU - Prescribers - TAS; AU - Prescribers - VIC",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4738291005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4738292005",
+   "title": "Nurse Practitioner, Australia (Weight + Men's Health)",
+   "location": "AU - HQ - NSW; AU - Prescribers - ACT; AU - Prescribers - NSW; AU - Prescribers - NT; AU - Prescribers - QLD; AU - Prescribers - SA; AU - Prescribers - TAS; AU - Prescribers - VIC",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4738292005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4749344005",
+   "title": "Performance Marketer",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4749344005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4748771005",
+   "title": "Planning & Procurement Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4748771005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4751734005",
+   "title": "Producer",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4751734005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4751738005",
+   "title": "Project Coordinator (Creative)",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4751738005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4732639005",
+   "title": "Senior Manager, Commercial Strategy",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4732639005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4750968005",
+   "title": "Senior Software Engineer I ",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4750968005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4663594005",
+   "title": "Video Editor (Creative Performance)",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4663594005"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4751736005",
+   "title": "Videographer (Lo- to Mid-fi)",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4751736005"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4007736201",
+   "title": "AI Engineer",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4007736201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005060201",
+   "title": "General Application",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005060201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005909201",
+   "title": "Infrastructure Engineer, Hardware & Networks",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005909201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005048201",
+   "title": "Senior Device Processing Engineer",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005048201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4007744201",
+   "title": "Senior Financial Accountant",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4007744201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005907201",
+   "title": "Senior Platform Engineer, Monitoring & Telemetry",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005907201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005906201",
+   "title": "Software Engineer, Compiler Services",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005906201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005904201",
+   "title": "Software Engineer, Control & Error Correction",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005904201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4008605201",
+   "title": "Technical Project Manager (Embedded)",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4008605201"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "C982410A4F",
+   "title": "24/7 Service Technician (HVAC/Electrical)",
+   "location": "Eastern Creek, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/C982410A4F"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "772216EF26",
+   "title": "24/7 Service Technician (HVAC/Electrical)",
+   "location": "Marsden Park, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/772216EF26"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "43322843D4",
+   "title": "Associate Critical Environment Technician",
+   "location": "Beard, Australian Capital Territory, Australia",
+   "url": "https://apply.workable.com/j/43322843D4"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "1D49986404",
+   "title": "Associate Service Technician (24/7 Shift)",
+   "location": "Marsden Park, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/1D49986404"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "3530EDC7A5",
+   "title": "Business Manager - Operations",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/3530EDC7A5"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "B7A4A71774",
+   "title": "Commercial Cleaner - Permanent Full Time (Monday-Friday 7am-3pm)",
+   "location": "Eastern Creek, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/B7A4A71774"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "11628F1A69",
+   "title": "Commercial Contracts Administrator",
+   "location": "Marsden Park, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/11628F1A69"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "05626A9CFB",
+   "title": "Communications Officer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/05626A9CFB"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "6A788D3403",
+   "title": "Community and Social Impact Manager",
+   "location": "Fyshwick, Australian Capital Territory, Australia",
+   "url": "https://apply.workable.com/j/6A788D3403"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "DF6EF7FEFB",
+   "title": "Corporate Finance Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/DF6EF7FEFB"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "DA657E3219",
+   "title": "Critical Environment Technician (Business Hours)",
+   "location": "Eastern Creek, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/DA657E3219"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "5C34BF3173",
+   "title": "Customer Success Manager (Critical Infrastructure)",
+   "location": "Eastern Creek, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/5C34BF3173"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "5FF5E535C6",
+   "title": "Electrical Services Lead",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/5FF5E535C6"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "468A56A229",
+   "title": "Facilities Coordinator",
+   "location": "Fyshwick, Australian Capital Territory, Australia",
+   "url": "https://apply.workable.com/j/468A56A229"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "358675DA81",
+   "title": "INTERNAL: Operations Environmental Compliance Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/358675DA81"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "B9D5078003",
+   "title": "Mechanical Services Lead",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/B9D5078003"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "B42D9810BF",
+   "title": "Operational Readiness Specialist",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/B42D9810BF"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "C7E86CA821",
+   "title": "People Partner",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/C7E86CA821"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "EC98ABBFE8",
+   "title": "Senior Technical Bid Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/EC98ABBFE8"
+  },
+  {
+   "company": "Xero",
+   "id": "ad759cb7-dde3-40d9-b5e7-fb73c907a668",
+   "title": "Engineering Manager - AI Workflows ",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/ad759cb7-dde3-40d9-b5e7-fb73c907a668"
+  },
+  {
+   "company": "Xero",
+   "id": "ef013117-4e51-4d60-81e3-6dd78f9cbede",
+   "title": "Principal Software Engineer - React Native",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/ef013117-4e51-4d60-81e3-6dd78f9cbede"
+  },
+  {
+   "company": "Xero",
+   "id": "bab27026-4afe-4a8d-bdf8-7417ddd4c28e",
+   "title": "Capability Development Partner (Product & Technology)",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | AU: Brisbane (243 Edward St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/bab27026-4afe-4a8d-bdf8-7417ddd4c28e"
+  },
+  {
+   "company": "Xero",
+   "id": "03e1237c-db16-4cd5-8cc8-0a1eef12e36e",
+   "title": "Senior Engineer - AI Builder",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/03e1237c-db16-4cd5-8cc8-0a1eef12e36e"
+  },
+  {
+   "company": "Xero",
+   "id": "989f4292-f94c-48e2-9094-cdeba8c79578",
+   "title": "VP of Growth Content",
+   "location": "US: San Mateo (1875 South Grant Street) | US: Oregon Remote Worker | AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Sydney (45 Clarence St) | US: Washington Remote Worker | San Mateo | California | United States",
+   "url": "https://jobs.ashbyhq.com/xero/989f4292-f94c-48e2-9094-cdeba8c79578"
+  },
+  {
+   "company": "Xero",
+   "id": "e878c8be-687d-459d-a7b0-3578dcc6b3b1",
+   "title": "Senior Engineer - Database",
+   "location": "NZ: Auckland Remote | AU: Melbourne: (260 Burwood Rd) | NZ: Remote Worker | AU: Sydney (45 Clarence St) | NZ: Wellington Remote | NZ: Remote | Auckland | New Zealand",
+   "url": "https://jobs.ashbyhq.com/xero/e878c8be-687d-459d-a7b0-3578dcc6b3b1"
+  },
+  {
+   "company": "Xero",
+   "id": "0c345d63-dcc1-4fa0-b521-a0fb6fff29ca",
+   "title": "Senior Engineer - AI Platform",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/0c345d63-dcc1-4fa0-b521-a0fb6fff29ca"
+  },
+  {
+   "company": "Xero",
+   "id": "3954a3b2-6f34-4b29-984c-77f5d5ca813e",
+   "title": "Senior Forward Deployed Engineer",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/3954a3b2-6f34-4b29-984c-77f5d5ca813e"
+  },
+  {
+   "company": "Xero",
+   "id": "8fed11a8-5109-4787-8a2a-a75d860703e2",
+   "title": "Senior Engineer - AI Agentic",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/8fed11a8-5109-4787-8a2a-a75d860703e2"
+  },
+  {
+   "company": "Xero",
+   "id": "138b9018-6c2a-47cc-93f0-53545fa604a9",
+   "title": "Engineering Manager - Data",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/138b9018-6c2a-47cc-93f0-53545fa604a9"
+  },
+  {
+   "company": "Xero",
+   "id": "e34c8306-7101-477d-b590-b1077a4afc06",
+   "title": "Global Strategy Manager",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/e34c8306-7101-477d-b590-b1077a4afc06"
+  },
+  {
+   "company": "Xero",
+   "id": "61a20e41-cd05-4637-951d-34737c8e17eb",
+   "title": "Engineering Manager - ML & AI Systems (AI Products)",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/61a20e41-cd05-4637-951d-34737c8e17eb"
+  },
+  {
+   "company": "Xero",
+   "id": "468c853d-a9d7-4848-b663-656825ea985e",
+   "title": "Senior Engineer - AI Agentic",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | AU: Brisbane (243 Edward St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/468c853d-a9d7-4848-b663-656825ea985e"
+  },
+  {
+   "company": "Xero",
+   "id": "65b39783-4a06-4bae-8dbe-48afb916886f",
+   "title": "Senior Engineer - Platform",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Queensland Remote Worker | AU: New South Wales Remote Worker | AU: Sydney (45 Clarence St) | AU: Brisbane (243 Edward St) | AU: Victoria Remote Worker | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/65b39783-4a06-4bae-8dbe-48afb916886f"
+  },
+  {
+   "company": "Xero",
+   "id": "5e7fb1a2-f9fc-4e82-b2e4-aeff0201e9ac",
+   "title": "Global Strategy Manager",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/5e7fb1a2-f9fc-4e82-b2e4-aeff0201e9ac"
+  },
+  {
+   "company": "Xero",
+   "id": "ce864d81-9870-412d-85da-c71538790961",
+   "title": "Senior Engineer - ML & AI Systems",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/ce864d81-9870-412d-85da-c71538790961"
+  },
+  {
+   "company": "Xero",
+   "id": "bec9946f-d4fc-4d66-8cda-39aa93dba6dc",
+   "title": "Senior Search Engineer",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | AU: Canberra (68 Northbourne Avenue) | AU: Brisbane (243 Edward St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/bec9946f-d4fc-4d66-8cda-39aa93dba6dc"
+  },
+  {
+   "company": "Xero",
+   "id": "b8dda96e-f152-49a8-822b-aaa6c178c0db",
+   "title": "Head of Product - AI Shared Services",
+   "location": "AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Sydney (45 Clarence St) | NZ: Wellington: Xero One (19-23 Taranaki St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/b8dda96e-f152-49a8-822b-aaa6c178c0db"
+  },
+  {
+   "company": "Xero",
+   "id": "6ab308ab-38ab-434e-a7a8-63c624be51ab",
+   "title": "Lead Product Manager - AI Enablement",
+   "location": "NZ: Wellington: Xero One (19-23 Taranaki St) | AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Sydney (45 Clarence St) | Wellington | Wellington | New Zealand",
+   "url": "https://jobs.ashbyhq.com/xero/6ab308ab-38ab-434e-a7a8-63c624be51ab"
+  },
+  {
+   "company": "Xero",
+   "id": "9bcc876d-22b6-4236-a941-94ff4c5735d4",
+   "title": "SEM Senior Manager",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/9bcc876d-22b6-4236-a941-94ff4c5735d4"
+  },
+  {
+   "company": "Xero",
+   "id": "2ed8d301-092a-4717-92c1-39568e06e7c6",
+   "title": "Senior Security Operations Analyst",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/2ed8d301-092a-4717-92c1-39568e06e7c6"
+  },
+  {
+   "company": "Xero",
+   "id": "8747af12-6df3-45ae-a9ce-434df384c8ca",
+   "title": "Senior Strategy Manager",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/8747af12-6df3-45ae-a9ce-434df384c8ca"
+  },
+  {
+   "company": "Xero",
+   "id": "21751d35-7851-4c2d-a2ab-1ac68cfcdcec",
+   "title": "Senior Site Reliability Engineer",
+   "location": "AU: New South Wales Remote Worker | AU: Remote | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/21751d35-7851-4c2d-a2ab-1ac68cfcdcec"
+  },
+  {
+   "company": "Xero",
+   "id": "3bd7a8c4-25c5-4c3d-829b-feea427ac753",
+   "title": "Senior Data & AI Governance Specialist",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/3bd7a8c4-25c5-4c3d-829b-feea427ac753"
+  },
+  {
+   "company": "Xero",
+   "id": "4208d853-f717-4cae-bbc1-126275760ecf",
+   "title": "Engineering Manager - Cloud Networks",
+   "location": "AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Sydney (45 Clarence St) | NZ: Wellington: Xero One (19-23 Taranaki St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/4208d853-f717-4cae-bbc1-126275760ecf"
+  },
+  {
+   "company": "Xero",
+   "id": "9eef7111-d180-4e9e-a3df-f5f36f8b61f8",
+   "title": "Search Engineer ",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | AU: Canberra (68 Northbourne Avenue) | AU: Brisbane (243 Edward St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/9eef7111-d180-4e9e-a3df-f5f36f8b61f8"
+  },
+  {
+   "company": "Xero",
+   "id": "5513fbd6-3063-4fb4-9b02-400f094ab25a",
+   "title": "Senior Strategy Manager",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/5513fbd6-3063-4fb4-9b02-400f094ab25a"
+  },
+  {
+   "company": "Xero",
+   "id": "0950bd50-2ea2-41c3-8bba-4afd9cf060d6",
+   "title": "Principal Engineer - Payments Products & Platform",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/0950bd50-2ea2-41c3-8bba-4afd9cf060d6"
+  },
+  {
+   "company": "Xero",
+   "id": "1034dc04-f897-47a6-a965-033b61cfc212",
+   "title": "Principal Engineer - Payments Products & Platform",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/1034dc04-f897-47a6-a965-033b61cfc212"
+  },
+  {
+   "company": "Xero",
+   "id": "0c3b23aa-c74b-4c60-9081-6cf104bd4db0",
+   "title": "Marketing and Partnerships Manager, Social Impact",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/0c3b23aa-c74b-4c60-9081-6cf104bd4db0"
+  },
+  {
+   "company": "Xero",
+   "id": "09fa178b-b997-4f48-ae19-b8a61919cef0",
+   "title": "Engineer - SRE",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | AU: Queensland Remote Worker | AU: New South Wales Remote Worker | AU: Brisbane (243 Edward St) | AU: Victoria Remote Worker | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/09fa178b-b997-4f48-ae19-b8a61919cef0"
+  },
+  {
+   "company": "Xero",
+   "id": "1c62a5d8-3fa7-4ff7-a3b6-366198904eed",
+   "title": "Affiliates Manager",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/1c62a5d8-3fa7-4ff7-a3b6-366198904eed"
+  },
+  {
+   "company": "Xero",
+   "id": "476734a4-efd8-488c-ac6a-20c52bc07a5d",
+   "title": "Lead Engineer - Applied AI",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/476734a4-efd8-488c-ac6a-20c52bc07a5d"
+  },
+  {
+   "company": "Xero",
+   "id": "4f9a785e-0cd4-4e96-ba9e-d0cccc2e29e5",
+   "title": "Senior Software Engineer - ML & AI (AI Products)",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/4f9a785e-0cd4-4e96-ba9e-d0cccc2e29e5"
+  },
+  {
+   "company": "Airbnb",
+   "id": "8140993",
+   "title": "Market Manager, Australia",
+   "location": "Sydney, Australia",
+   "url": "https://careers.airbnb.com/positions/8140993?gh_jid=8140993"
+  },
+  {
+   "company": "Airbnb",
+   "id": "7662244",
+   "title": "Senior Data Scientist, Guest & Host",
+   "location": "Remote",
+   "url": "https://careers.airbnb.com/positions/7662244?gh_jid=7662244"
+  },
+  {
+   "company": "Airbnb",
+   "id": "7587869",
+   "title": "Senior Market Manager, Hotels",
+   "location": "Sydney, Australia",
+   "url": "https://careers.airbnb.com/positions/7587869?gh_jid=7587869"
+  },
+  {
+   "company": "Airbnb",
+   "id": "7107054",
+   "title": "Senior Staff Data Scientist, Guest & Host Marketplace AI",
+   "location": "Remote",
+   "url": "https://careers.airbnb.com/positions/7107054?gh_jid=7107054"
+  },
+  {
+   "company": "Stripe",
+   "id": "8258078",
+   "title": "Account Executive, Commercial Hunter, AUNZ",
+   "location": "Sydney",
+   "url": "https://stripe.com/jobs/search?gh_jid=8258078"
+  },
+  {
+   "company": "Stripe",
+   "id": "8330815",
+   "title": "Account Executive Platforms, Grower",
+   "location": "Sydney Or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8330815"
+  },
+  {
+   "company": "Stripe",
+   "id": "8330795",
+   "title": "Account Executive, Platforms Large Users (Grower)",
+   "location": "Sydney or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8330795"
+  },
+  {
+   "company": "Stripe",
+   "id": "8174148",
+   "title": "Account Executive, Product - Buy Now Pay Later (AUNZ)",
+   "location": "Sydney",
+   "url": "https://stripe.com/jobs/search?gh_jid=8174148"
+  },
+  {
+   "company": "Stripe",
+   "id": "8174141",
+   "title": "Account Executive Product - Global Selling",
+   "location": "Sydney Or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8174141"
+  },
+  {
+   "company": "Stripe",
+   "id": "8330813",
+   "title": "Account Executive - SMB (Grower)",
+   "location": "Sydney Or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8330813"
+  },
+  {
+   "company": "Stripe",
+   "id": "8351500",
+   "title": "Account Executive - Startups (Grower), Australia",
+   "location": "Australia",
+   "url": "https://stripe.com/jobs/search?gh_jid=8351500"
+  },
+  {
+   "company": "Stripe",
+   "id": "8330791",
+   "title": "Commercial Account Executive - Grower",
+   "location": "Sydney or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8330791"
+  },
+  {
+   "company": "Stripe",
+   "id": "8336023",
+   "title": "Enterprise Account Executive - Grower",
+   "location": "Sydney Or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8336023"
+  },
+  {
+   "company": "Stripe",
+   "id": "8330801",
+   "title": "Enterprise Account Executive,  Hunter",
+   "location": "Sydney Or Melbourne",
+   "url": "https://stripe.com/jobs/search?gh_jid=8330801"
+  },
+  {
+   "company": "Stripe",
+   "id": "8029128",
+   "title": "Enterprise Account Executive, Revenue Suite (Grower)",
+   "location": "Sydney",
+   "url": "https://stripe.com/jobs/search?gh_jid=8029128"
+  },
+  {
+   "company": "Stripe",
+   "id": "8352045",
+   "title": "Enterprise Sales Manager- FSI & Insurance",
+   "location": "Sydney ",
+   "url": "https://stripe.com/jobs/search?gh_jid=8352045"
+  },
+  {
+   "company": "Stripe",
+   "id": "8179347",
+   "title": "Implementation Consultant (AUNZ)",
+   "location": "Sydney",
+   "url": "https://stripe.com/jobs/search?gh_jid=8179347"
+  },
+  {
+   "company": "Stripe",
+   "id": "8212672",
+   "title": "Instructional Designer, Global Sales Enablement",
+   "location": "Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8212672"
+  },
+  {
+   "company": "Stripe",
+   "id": "8175647",
+   "title": "Integration Engineer (Metronome) ",
+   "location": "Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8175647"
+  },
+  {
+   "company": "Stripe",
+   "id": "8080454",
+   "title": "Integration Engineer, Metronome",
+   "location": "Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8080454"
+  },
+  {
+   "company": "Stripe",
+   "id": "8224617",
+   "title": "Program Manager, Commercial Solutions",
+   "location": "Remote/Hybrid",
+   "url": "https://stripe.com/jobs/search?gh_jid=8224617"
+  },
+  {
+   "company": "Stripe",
+   "id": "7230921",
+   "title": "Risk Operations Analyst",
+   "location": "Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=7230921"
+  },
+  {
+   "company": "Stripe",
+   "id": "8175824",
+   "title": "Risk Operations Analyst - RBO ",
+   "location": "Remote ",
+   "url": "https://stripe.com/jobs/search?gh_jid=8175824"
+  },
+  {
+   "company": "Stripe",
+   "id": "8106775",
+   "title": "Sales Strategy & Operations Business Partner",
+   "location": "Sydney",
+   "url": "https://stripe.com/jobs/search?gh_jid=8106775"
+  },
+  {
+   "company": "Stripe",
+   "id": "7975725",
+   "title": "Software Engineer, Core Infrastructure",
+   "location": "Sydney, Australia",
+   "url": "https://stripe.com/jobs/search?gh_jid=7975725"
+  },
+  {
+   "company": "Stripe",
+   "id": "8325009",
+   "title": "Solutions Architect (ANZ) ",
+   "location": "Australia",
+   "url": "https://stripe.com/jobs/search?gh_jid=8325009"
+  },
+  {
+   "company": "Stripe",
+   "id": "7728618",
+   "title": "Specialist Solutions Architect, Billing",
+   "location": "Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=7728618"
+  },
+  {
+   "company": "Stripe",
+   "id": "8238733",
+   "title": "Staff Engineer, Compute Foundation",
+   "location": "Sydney",
+   "url": "https://stripe.com/jobs/search?gh_jid=8238733"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8300413",
+   "title": "Account Development Executive - APAC",
+   "location": "Melbourne, VIC; Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8300413"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7518634",
+   "title": "Account Executive, SevenRooms powered by DoorDash",
+   "location": "Sydney, NSW; Melbourne, VIC; Brisbane, QLD",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7518634"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7123179",
+   "title": "Account Executive, SevenRooms powered by DoorDash",
+   "location": "Sydney, NSW; Melbourne, VIC; Brisbane, QLD",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7123179"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7154008",
+   "title": "Account Executive, SevenRooms powered by DoorDash",
+   "location": "Sydney, NSW; Melbourne, VIC; Brisbane, QLD",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7154008"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8232996",
+   "title": "Associate Manager, Growth Marketing ANZ (Dasher)",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8232996"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8279393",
+   "title": "Associate Manager, Marketplace Strategy & Operations (In-app Experience)",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8279393"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8301351",
+   "title": "Associate Manager, Revenue Enablement",
+   "location": "Melbourne, VIC; Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8301351"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8120826",
+   "title": "Consumer Growth Marketer",
+   "location": "Melbourne, VIC; Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8120826"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8258640",
+   "title": "Data Scientist",
+   "location": "Melbourne, VIC; Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8258640"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7967490",
+   "title": "Enterprise Account Manager",
+   "location": "Melbourne, VIC; Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7967490"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8105485",
+   "title": "Enterprise Account Manager",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8105485"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8185846",
+   "title": "Head of Ad Sales, ANZ",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8185846"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8155251",
+   "title": "Head of Retail Partnerships, ANZ",
+   "location": "Sydney, NSW ",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8155251"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8155274",
+   "title": "Manager, Brand Partnerships ",
+   "location": "Melbourne; Sydney",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8155274"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7821986",
+   "title": "Manager, Local Markets",
+   "location": "Melbourne, VIC; Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7821986"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8201352",
+   "title": "Manager, Strategy & Operations - DashPass",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8201352"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8256095",
+   "title": "Senior Associate, Lifecycle Marketing, ANZ",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8256095"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8048483",
+   "title": "Senior Associate, Merchant Strategy & Operations",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8048483"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8232945",
+   "title": "Senior Associate, Strategy & Operations - Integrity (International)",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8232945"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7300101",
+   "title": "Senior Associate, Strategy & Operations (International New Verticals)",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7300101"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7195841",
+   "title": "Senior Associate, Strategy & Operations (International New Verticals)",
+   "location": "Sydney, NSW; Melbourne, VIC",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7195841"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8143160",
+   "title": "Senior Manager, Brand and Creative",
+   "location": "Melbourne, Sydney",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8143160"
+  },
+  {
+   "company": "DoorDash",
+   "id": "7126705",
+   "title": "Technical Support Representative, In-Store",
+   "location": "Sydney, NSW; Queensland, QLD; Victoria, VIC; Melbourne, VIC - Remote",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/7126705"
+  },
+  {
+   "company": "Block",
+   "id": "5043053008",
+   "title": "Deputy Chief Compliance Officer, Financial Services, Afterpay",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5043053008?gh_jid=5043053008"
+  },
+  {
+   "company": "Block",
+   "id": "5471298008",
+   "title": "Head of Enterprise Accounts, Australia",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5471298008?gh_jid=5471298008"
+  },
+  {
+   "company": "Block",
+   "id": "5414720008",
+   "title": "Head of SMB Acquisition",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5414720008?gh_jid=5414720008"
+  },
+  {
+   "company": "Block",
+   "id": "5183756008",
+   "title": "Head of Square Partnerships, APAC",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5183756008?gh_jid=5183756008"
+  },
+  {
+   "company": "Block",
+   "id": "5373378008",
+   "title": "Manager, SMB Account Management  ",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5373378008?gh_jid=5373378008"
+  },
+  {
+   "company": "Block",
+   "id": "5428149008",
+   "title": "Mid-Market Account Excutive ",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5428149008?gh_jid=5428149008"
+  },
+  {
+   "company": "Block",
+   "id": "5474380008",
+   "title": "Partner Manager",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5474380008?gh_jid=5474380008"
+  },
+  {
+   "company": "Block",
+   "id": "5431559008",
+   "title": "Senior Technical Account Manager",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5431559008?gh_jid=5431559008"
+  },
+  {
+   "company": "Block",
+   "id": "5467707008",
+   "title": "SMB Account Executive",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5467707008?gh_jid=5467707008"
+  },
+  {
+   "company": "Block",
+   "id": "4983725008",
+   "title": "Strategic Account Manager, Mid Market",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/4983725008?gh_jid=4983725008"
+  },
+  {
+   "company": "Block",
+   "id": "5428275008",
+   "title": "Territory Account Executive, Newcastle",
+   "location": "Newcastle, Australia",
+   "url": "http://block.xyz/careers/jobs/5428275008?gh_jid=5428275008"
+  },
+  {
+   "company": "Haast",
+   "id": "6a602df2-b95e-47e5-903c-6521df4438c0",
+   "title": "AI Implementation Strategist ",
+   "location": "Sydney | Sydney  | New South Wales  | Australia",
+   "url": "https://jobs.ashbyhq.com/Haast/6a602df2-b95e-47e5-903c-6521df4438c0"
+  },
+  {
+   "company": "Legora",
+   "id": "8fa7b485-0429-470c-90d0-671ba14aed9a",
+   "title": "GTM Manager - Public Sector",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/8fa7b485-0429-470c-90d0-671ba14aed9a"
+  },
+  {
+   "company": "Legora",
+   "id": "eac71565-6fd2-40e6-a50c-7c4ea009e286",
+   "title": "Solutions Engineer",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/eac71565-6fd2-40e6-a50c-7c4ea009e286"
+  },
+  {
+   "company": "Legora",
+   "id": "5454001c-481c-490a-8ba5-63a3a80d3d05",
+   "title": "Senior Talent Acquisition Partner, APAC",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/5454001c-481c-490a-8ba5-63a3a80d3d05"
+  },
+  {
+   "company": "Legora",
+   "id": "e9ff9dde-62b4-4c8b-9c43-832ab60e3e9d",
+   "title": "Engagement Associate - Sydney ",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/e9ff9dde-62b4-4c8b-9c43-832ab60e3e9d"
+  },
+  {
+   "company": "Legora",
+   "id": "045b2b5a-1347-4d37-b1cd-7fe77a60154e",
+   "title": "Engagement Manager - Sydney",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/045b2b5a-1347-4d37-b1cd-7fe77a60154e"
+  },
+  {
+   "company": "Legora",
+   "id": "df085356-554f-4d5b-97c0-50db79c83a00",
+   "title": "Deal Desk Manager",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/df085356-554f-4d5b-97c0-50db79c83a00"
+  },
+  {
+   "company": "Legora",
+   "id": "f95543e1-ea7a-46d3-b141-a1cb91f35136",
+   "title": "Value Engineer",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/f95543e1-ea7a-46d3-b141-a1cb91f35136"
+  },
+  {
+   "company": "Legora",
+   "id": "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
+   "title": "Sales Associate - GTM ",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/9a66506b-d584-4d7a-a64d-c284a3dc1b64"
+  },
+  {
+   "company": "Legora",
+   "id": "abc14660-111d-4c03-a86a-a249039dedef",
+   "title": "Talent Acquisition Manager, APAC",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/abc14660-111d-4c03-a86a-a249039dedef"
+  },
+  {
+   "company": "Legora",
+   "id": "3f8ea448-a415-4358-8daa-88fbdeb39a16",
+   "title": "Legal Engineer - Banking & Financial Services",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/3f8ea448-a415-4358-8daa-88fbdeb39a16"
+  },
+  {
+   "company": "Nebius",
+   "id": "4902513101",
+   "title": "Director, Pricing",
+   "location": "Remote",
+   "url": "https://careers.nebius.com/?gh_jid=4902513101"
+  },
+  {
+   "company": "Nebius",
+   "id": "5018716101",
+   "title": "Site Selection & Colocation Manager – Data Centers",
+   "location": "Australia",
+   "url": "https://careers.nebius.com/?gh_jid=5018716101"
+  },
+  {
+   "company": "Nebius",
+   "id": "4911725101",
+   "title": "Supply Chain Manager",
+   "location": "Remote - APAC; Singapore",
+   "url": "https://careers.nebius.com/?gh_jid=4911725101"
+  },
+  {
+   "company": "Nebius",
+   "id": "4913573101",
+   "title": "Transportation Logistics Specialist",
+   "location": "Remote",
+   "url": "https://careers.nebius.com/?gh_jid=4913573101"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "a59371c8-cd50-48e3-9f21-4b79a6f0e3b2",
+   "title": "Sales Development Leader, APJ",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/a59371c8-cd50-48e3-9f21-4b79a6f0e3b2"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "44264403-5674-40b7-8b8d-e60b0a86e9ec",
+   "title": "Forward Deployed Engineer (Australia)",
+   "location": "Australia | Singapore | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "f2cf204b-f469-4997-9508-f218c5869706",
+   "title": "Forward Deployed Strategist",
+   "location": "Singapore | Australia | Singapore",
+   "url": "https://jobs.ashbyhq.com/cursor/f2cf204b-f469-4997-9508-f218c5869706"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "8790d158-7bdc-43c0-bcb1-bbacb6e8f720",
+   "title": "Strategic Account Executive, Federal Sales - Australia",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/8790d158-7bdc-43c0-bcb1-bbacb6e8f720"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "65be8830-8f83-4420-baf3-5070fe19097d",
+   "title": "Strategic Account Executive, Enterprise - Victoria",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/65be8830-8f83-4420-baf3-5070fe19097d"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "7b7362e4-d422-4c82-b536-6c0b40da177c",
+   "title": "Account Executive, Commercial - ANZ",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/7b7362e4-d422-4c82-b536-6c0b40da177c"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "45abdab8-6d12-4e46-8108-e23aba34cec1",
+   "title": "AI Deployment Manager - Australia",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/45abdab8-6d12-4e46-8108-e23aba34cec1"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "6d31e7ae-d3fb-483c-a62a-b1bc843b329e",
+   "title": "Technical Support Engineering Leader, Singapore, Australia, New Zealand, Indonesia ",
+   "location": "Singapore | Australia | Singapore",
+   "url": "https://jobs.ashbyhq.com/cursor/6d31e7ae-d3fb-483c-a62a-b1bc843b329e"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "79b07509-13dc-49d3-b133-2bc10d161f6f",
+   "title": "Solutions Architect - Australia",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/79b07509-13dc-49d3-b133-2bc10d161f6f"
+  },
+  {
+   "company": "Cursor (Anysphere)",
+   "id": "01396f08-3acd-4e0c-9782-a6944fd2a957",
+   "title": "Sales Development Representative - ANZ",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/01396f08-3acd-4e0c-9782-a6944fd2a957"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5210043007",
+   "title": "Account Director, Maritime",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210043007?gh_jid=5210043007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5263876007",
+   "title": "Configuration Management Specialist",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5263876007?gh_jid=5263876007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4865496007",
+   "title": "Director, Business Development",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4865496007?gh_jid=4865496007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5288663007",
+   "title": "EHS Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5288663007?gh_jid=5288663007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5206616007",
+   "title": "Electrical Maintenance Technician",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206616007?gh_jid=5206616007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5032254007",
+   "title": "Electronics Production Technician",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5032254007?gh_jid=5032254007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5171132007",
+   "title": "Electronics Test Technician",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171132007?gh_jid=5171132007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5053420007",
+   "title": "Field Operations Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5053420007?gh_jid=5053420007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5286149007",
+   "title": "Forward Deployed Software Engineer, JBLM (Active Clearance)",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5214661007",
+   "title": "G&A Recruiter, Legal (Contract)",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214661007?gh_jid=5214661007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5246828007",
+   "title": "International Trade and Compliance Leader, APAC",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246828007?gh_jid=5246828007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4950096007",
+   "title": "Manager, Software Engineering",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4950096007?gh_jid=4950096007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5275941007",
+   "title": "Manufacturing Test Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275941007?gh_jid=5275941007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5053421007",
+   "title": "Maritime Technical Operations Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5053421007?gh_jid=5053421007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5206617007",
+   "title": "Mechanical Maintenance Technician",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206617007?gh_jid=5206617007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5198217007",
+   "title": "Mechanical Production Technician",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198217007?gh_jid=5198217007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5285571007",
+   "title": "Mission Operations Specialist ",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5285571007?gh_jid=5285571007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5272031007",
+   "title": "Procurement Specialist",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272031007?gh_jid=5272031007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5223352007",
+   "title": "Production Coordinator",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223352007?gh_jid=5223352007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5286595007",
+   "title": "Product Support Engineer",
+   "location": "Perth, Western Australia, Australia; Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5286595007?gh_jid=5286595007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5288672007",
+   "title": "Program Director",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5288672007?gh_jid=5288672007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5286672007",
+   "title": "Program Integration Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5286672007?gh_jid=5286672007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4961600007",
+   "title": "Robotics Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961600007?gh_jid=4961600007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5281256007",
+   "title": "Senior Commercial Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281256007?gh_jid=5281256007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5224758007",
+   "title": "Senior Contracts Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224758007?gh_jid=5224758007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5270752007",
+   "title": "Senior Electrical Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270752007?gh_jid=5270752007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5274685007",
+   "title": "Senior Electrical Product Engineer - Maritime Engineering",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274685007?gh_jid=5274685007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5234255007",
+   "title": "Senior Executive Assistant",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234255007?gh_jid=5234255007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5234247007",
+   "title": "Senior GNC Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234247007?gh_jid=5234247007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5016403007",
+   "title": "Senior Machine Learning Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5016403007?gh_jid=5016403007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5283890007",
+   "title": "Senior Manager, Australia Communications",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283890007?gh_jid=5283890007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4950090007",
+   "title": "Senior Manager, Software Engineering",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4950090007?gh_jid=4950090007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5229521007",
+   "title": "Senior Mechanical Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229521007?gh_jid=5229521007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5247862007",
+   "title": "Senior Modelling and Simulation Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247862007?gh_jid=5247862007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5263771007",
+   "title": "Senior NPI Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5263771007?gh_jid=5263771007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5253771007",
+   "title": "Senior Product Sourcing Engineer, Counter Intrusion",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253771007?gh_jid=5253771007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5253779007",
+   "title": "Senior Product Sourcing Engineer, Counter Intrusion",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253779007?gh_jid=5253779007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4961601007",
+   "title": "Senior Robotics Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961601007?gh_jid=4961601007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5201424007",
+   "title": "Senior Robotics Software Engineer, Payload Integration",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201424007?gh_jid=5201424007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5172478007",
+   "title": "Senior Site Reliability Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172478007?gh_jid=5172478007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4950086007",
+   "title": "Senior Software Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4950086007?gh_jid=4950086007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5161842007",
+   "title": "Senior Software Engineer (Flight Software)",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5161842007?gh_jid=5161842007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5267096007",
+   "title": "Senior Software Product Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267096007?gh_jid=5267096007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5090415007",
+   "title": "Senior Supplier Industrialization Engineer, Casting ",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5090415007?gh_jid=5090415007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5090414007",
+   "title": "Senior Supplier Industrialization Engineer, Composites",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5090414007?gh_jid=5090414007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5282977007",
+   "title": "Senior Supplier Industrialization Engineer, Composites",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5282977007?gh_jid=5282977007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5079841007",
+   "title": "Senior Supplier Industrialization Engineer, Composite Structures",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5079841007?gh_jid=5079841007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5176763007",
+   "title": "Senior Supplier Industrialization Engineer, Electrical",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176763007?gh_jid=5176763007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5176765007",
+   "title": "Senior Supplier Industrialization Engineer, Electrical (Active Clearance)",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176765007?gh_jid=5176765007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5254411007",
+   "title": "Senior Supplier Industrialization Engineer, Electromagnetic Warfare",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5254411007?gh_jid=5254411007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5272019007",
+   "title": "Senior Supplier Industrialization Engineer, Electromagnetic Warfare",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272019007?gh_jid=5272019007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5055818007",
+   "title": "Senior Supplier Industrialization Engineer, Mechanical ",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5055818007?gh_jid=5055818007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5176757007",
+   "title": "Senior Supplier Industrialization Engineer, Propulsion Engines",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176757007?gh_jid=5176757007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5056468007",
+   "title": "Senior Supplier Manufacturing Engineer, Mechanical ",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5056468007?gh_jid=5056468007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5084913007",
+   "title": "Senior Supply Chain Manufacturing Engineer, Casting ",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5084913007?gh_jid=5084913007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5067380007",
+   "title": "Senior Supply Chain Manufacturing Engineer, Mechanical",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067380007?gh_jid=5067380007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5241796007",
+   "title": "Senior Systems Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241796007?gh_jid=5241796007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5275748007",
+   "title": "Senior Systems Engineer, Army & NGC2 (Active Clearance)",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275748007?gh_jid=5275748007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5064818007",
+   "title": "Snr Manufacturing Engineer [Mech/CI]",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5064818007?gh_jid=5064818007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4948307007",
+   "title": "Software Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4948307007?gh_jid=4948307007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5268176007",
+   "title": "Staff Mechanical Product Engineer (Platform)",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268176007?gh_jid=5268176007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5268178007",
+   "title": "Staff Mechanical Product Engineer (Production)",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268178007?gh_jid=5268178007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4961602007",
+   "title": "Staff Robotics Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961602007?gh_jid=4961602007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "4950085007",
+   "title": "Staff Software Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4950085007?gh_jid=4950085007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5209970007",
+   "title": "Warehouse Associate",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209970007?gh_jid=5209970007"
+  },
+  {
+   "company": "Cognition",
+   "id": "42be09bc-f25a-4b4b-8b78-d247d773d126",
+   "title": "Account Director - ANZ",
+   "location": "Sydney | Australia",
+   "url": "https://jobs.ashbyhq.com/cognition/42be09bc-f25a-4b4b-8b78-d247d773d126"
+  },
+  {
+   "company": "Cognition",
+   "id": "4bf50602-b880-40d2-9c8c-18d4372a8b02",
+   "title": "Forward Deployed Engineer - ANZ",
+   "location": "Sydney | Melbourne | Australia",
+   "url": "https://jobs.ashbyhq.com/cognition/4bf50602-b880-40d2-9c8c-18d4372a8b02"
+  },
+  {
+   "company": "Cognition",
+   "id": "bcb56d79-24fd-46f9-8719-d389a3641f40",
+   "title": "Regional Vice President of Sales - ANZ",
+   "location": "Sydney | Australia",
+   "url": "https://jobs.ashbyhq.com/cognition/bcb56d79-24fd-46f9-8719-d389a3641f40"
+  },
+  {
+   "company": "Cognition",
+   "id": "8e4c141b-ca44-459d-a842-474f6e090da1",
+   "title": "Applied AI Engineer - ANZ",
+   "location": "Sydney | Australia",
+   "url": "https://jobs.ashbyhq.com/cognition/8e4c141b-ca44-459d-a842-474f6e090da1"
+  },
+  {
+   "company": "Cognition",
+   "id": "392b0b95-26e6-4fb8-841f-97e528acd711",
+   "title": "Applied AI Transformation Manager - ANZ",
+   "location": "Sydney | Australia",
+   "url": "https://jobs.ashbyhq.com/cognition/392b0b95-26e6-4fb8-841f-97e528acd711"
+  },
+  {
+   "company": "Neara",
+   "id": "1ea30af7-974f-49cf-8742-edcfc4230c52",
+   "title": "Senior Machine Learning Engineer - Australia",
+   "location": "Sydney | Melbourne | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/1ea30af7-974f-49cf-8742-edcfc4230c52"
+  },
+  {
+   "company": "Neara",
+   "id": "7542aea3-0d9c-4f22-8727-eeb1b720084c",
+   "title": "Senior Full Stack Engineer ",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/7542aea3-0d9c-4f22-8727-eeb1b720084c"
+  },
+  {
+   "company": "Neara",
+   "id": "e36a2d43-e6fe-442d-b2cc-34a76b76e57d",
+   "title": "Customer Success Engineer - Sydney",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/e36a2d43-e6fe-442d-b2cc-34a76b76e57d"
+  },
+  {
+   "company": "Neara",
+   "id": "70ff4fd8-ae81-43d7-82b1-9a01321ea298",
+   "title": "Senior Customer Value Architect - Sydney",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/70ff4fd8-ae81-43d7-82b1-9a01321ea298"
+  },
+  {
+   "company": "Neara",
+   "id": "5d5bc539-94cc-46dc-b3cb-8336e03e6378",
+   "title": "AI Product Engineer",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/5d5bc539-94cc-46dc-b3cb-8336e03e6378"
+  },
+  {
+   "company": "Neara",
+   "id": "b89c5fc1-3997-4a43-bb4e-99f791622742",
+   "title": "Staff Machine Learning Engineer (Platform)",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/b89c5fc1-3997-4a43-bb4e-99f791622742"
+  },
+  {
+   "company": "Neara",
+   "id": "250fc7e8-efa6-4af6-a643-cb029133e0d6",
+   "title": "Accountant",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/250fc7e8-efa6-4af6-a643-cb029133e0d6"
+  },
+  {
+   "company": "Neara",
+   "id": "196f8d8c-6556-4eca-8b03-b34e1946e76a",
+   "title": "Senior Machine Learning Engineer (Platform)",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/196f8d8c-6556-4eca-8b03-b34e1946e76a"
+  },
+  {
+   "company": "Neara",
+   "id": "7e8276c4-3d97-439c-8975-59ccf1884a2d",
+   "title": "Engineering Team Lead - Experience Platform",
+   "location": "Sydney | Melbourne | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/7e8276c4-3d97-439c-8975-59ccf1884a2d"
+  },
+  {
+   "company": "Neara",
+   "id": "357478aa-cfae-42c0-b2b9-b90dd9be1e38",
+   "title": "Senior Software Engineer - Digitisation",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/357478aa-cfae-42c0-b2b9-b90dd9be1e38"
+  },
+  {
+   "company": "Neara",
+   "id": "11e025a4-7697-46f1-b9ad-bbf3f0980949",
+   "title": "Director, Grid Connections",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/11e025a4-7697-46f1-b9ad-bbf3f0980949"
+  },
+  {
+   "company": "Neara",
+   "id": "42e1da92-26a4-44ff-87c4-d6295de17fb8",
+   "title": "Technical Product Marketing Manager",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/neara/42e1da92-26a4-44ff-87c4-d6295de17fb8"
+  }
+ ],
+ "openIds": {
+  "AirTrunk": [
+   "7633479003",
+   "7724233003",
+   "7807675003",
+   "7900055003",
+   "7983006003",
+   "7997901003",
+   "8004119003",
+   "8004124003",
+   "8009001003",
+   "8010160003",
+   "8014196003",
+   "8016313003",
+   "8028949003",
+   "8032434003",
+   "8034263003",
+   "8045767003",
+   "8060506003",
+   "8168553003",
+   "8197364003"
+  ],
+  "Deputy": [
+   "73af4076-6528-4e07-ac5d-5cfcc215d0a5",
+   "f22f8969-4a6d-44cc-95fb-a2f205264a10"
+  ],
+  "Q-CTRL": [
+   "034bcae2-8f2d-4bbe-9005-f6ba6b014c6d",
+   "07f373bf-2b70-4312-a432-cacc6065d30c",
+   "1bf319ae-bae8-41d7-80a2-54c004868da8",
+   "25250563-f715-4692-b706-e9dacf22e026",
+   "831dfe64-8d6c-4b9f-a4a9-081dfbdcf472",
+   "9fdb655f-6d02-44d6-8871-f28d18d2e253",
+   "a3911edb-d50d-4151-af5c-791495e897d3",
+   "ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef",
+   "c37ecfcd-a083-496e-bffa-d31f9473bec1",
+   "c415bb14-9895-4e9e-b294-2a66c905561e",
+   "d6729274-cba8-4000-af87-79501e6ab194",
+   "d98559d7-c8c7-4227-b627-c67cb773d110",
+   "dbd3451a-b3ee-442e-96bd-6c0ce874eac7",
+   "ed3f07cf-7d4d-47ee-b354-ee2542057793",
+   "fd79db6d-8a53-4fc8-a518-b50441613e0c"
+  ],
+  "Objective Corporation": [
+   "0ae31271-c49b-4819-bd59-0373287366a6",
+   "101480fe-2381-4843-85e8-f93cb915d894",
+   "1271fa98-e7c3-4d05-841e-231cfc25d392",
+   "21d3b66a-af8d-4ec8-b98c-b60b8e0d9f01",
+   "6c7dda47-fe65-4368-af44-4acb394185c5",
+   "bc3aeea3-4e1c-47aa-a7ce-13443d41add1",
+   "c7568f5f-dc2b-412f-bee0-9b8182f2efb8",
+   "ec91cce4-a9b0-4386-9495-4400f1a72a49"
+  ],
+  "Macquarie Technology Group": [
+   "0a392b11-72eb-4a21-9f5c-225a0bdead29",
+   "26edad82-7b7e-447b-a6c9-0cde4d304f8f",
+   "438402ef-83e3-4759-a131-ab19a053d4d9",
+   "4abeb8aa-d10a-4432-b1c0-aaca9931d334",
+   "63f40f56-736b-4629-ad66-fe07963336ab",
+   "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
+   "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
+   "d2da8d92-a2e2-4702-95b5-02a06d0eb0f3",
+   "e231d96a-44ef-4e02-a952-311272a62954",
+   "e6df010f-441e-4061-9799-fc62385d0598"
+  ],
+  "SafetyCulture (Mitti)": [
+   "01f6c3d5-6c06-47c2-b6c5-d97b92635772",
+   "0da9a784-d6ed-47a6-a6df-3b3ae6a94c5e",
+   "1792b6c6-535c-4e9b-9f74-594d7939ee06",
+   "3288caef-85bc-41f1-9107-ab65c1c5c247",
+   "4dd0ebe0-b04b-4b83-9952-9d4251a7a58e",
+   "5a73bfb8-28df-4e89-9864-ca9002cf790b",
+   "645682ac-10cb-4dd4-a741-b46bc661c4c1",
+   "6b5e07ab-8da4-419f-bff5-7a7cdc9bb623",
+   "6c88ed9e-6f3d-478d-8155-e325067171fb",
+   "905e6a1c-f6dd-4c99-a146-8341eecca06b",
+   "9c69b527-1554-448e-848c-144539c9a0f0",
+   "aa6353e6-0db4-4d0d-a090-d3ef32927436",
+   "ac8bb53e-fd80-444b-9ea2-adf60b763b2a",
+   "b7600143-d383-4c0a-bbfe-93f886c77ef1",
+   "fe75ca9d-887d-4094-aa19-739c9d90e572"
+  ],
+  "Harrison.ai": [
+   "0728ecf1-a56e-475a-995a-4a76363c7c74",
+   "f8a1eddc-ca1a-4ad6-b85f-ca9ee50a7605",
+   "f93ebf53-acb2-48a1-8409-2f316b0f743c"
+  ],
+  "SiteMinder": [],
+  "PEXA": [],
+  "Firmus": [
+   "5253313008",
+   "5290848008",
+   "5368270008",
+   "5371157008",
+   "5385648008",
+   "5385655008",
+   "5388740008",
+   "5407489008",
+   "5414787008",
+   "5416201008",
+   "5417463008",
+   "5417755008",
+   "5425421008",
+   "5429666008",
+   "5429668008",
+   "5429675008",
+   "5430932008",
+   "5435947008",
+   "5435949008",
+   "5435950008",
+   "5441921008",
+   "5446130008",
+   "5449673008",
+   "5453541008",
+   "5460680008",
+   "5463220008",
+   "5464397008",
+   "5464479008",
+   "5464482008",
+   "5466634008",
+   "5472075008"
+  ],
+  "First Focus": [
+   "278145312B",
+   "62ADE7B504",
+   "93BF8DBA9B",
+   "A607FE1FC9",
+   "A6D09489AF",
+   "CFC1EECB82"
+  ],
+  "Rokt": [
+   "470376CA23",
+   "6172DB985A",
+   "78589A4D7B"
+  ],
+  "Immutable": [
+   "80353766-d815-497e-bf5f-17594677fcd9",
+   "8fcf6f7a-8cd4-45f8-a799-f731ca476b3a"
+  ],
+  "Eucalyptus": [
+   "4663594005",
+   "4709366005",
+   "4721018005",
+   "4732639005",
+   "4736508005",
+   "4736964005",
+   "4738290005",
+   "4738291005",
+   "4738292005",
+   "4738329005",
+   "4740297005",
+   "4740301005",
+   "4743977005",
+   "4744409005",
+   "4748771005",
+   "4749344005",
+   "4750931005",
+   "4750968005",
+   "4751434005",
+   "4751729005",
+   "4751733005",
+   "4751734005",
+   "4751736005",
+   "4751738005"
+  ],
+  "Silicon Quantum Computing": [
+   "4005048201",
+   "4005060201",
+   "4005904201",
+   "4005906201",
+   "4005907201",
+   "4005909201",
+   "4007736201",
+   "4007744201",
+   "4008605201"
+  ],
+  "CDC Data Centres": [
+   "05626A9CFB",
+   "11628F1A69",
+   "1D49986404",
+   "3530EDC7A5",
+   "358675DA81",
+   "43322843D4",
+   "468A56A229",
+   "5C34BF3173",
+   "5FF5E535C6",
+   "6A788D3403",
+   "772216EF26",
+   "B42D9810BF",
+   "B7A4A71774",
+   "B9D5078003",
+   "C7E86CA821",
+   "C982410A4F",
+   "DA657E3219",
+   "DF6EF7FEFB",
+   "EC98ABBFE8"
+  ],
+  "Xero": [
+   "03e1237c-db16-4cd5-8cc8-0a1eef12e36e",
+   "0950bd50-2ea2-41c3-8bba-4afd9cf060d6",
+   "09fa178b-b997-4f48-ae19-b8a61919cef0",
+   "0c345d63-dcc1-4fa0-b521-a0fb6fff29ca",
+   "0c3b23aa-c74b-4c60-9081-6cf104bd4db0",
+   "1034dc04-f897-47a6-a965-033b61cfc212",
+   "138b9018-6c2a-47cc-93f0-53545fa604a9",
+   "1c62a5d8-3fa7-4ff7-a3b6-366198904eed",
+   "21751d35-7851-4c2d-a2ab-1ac68cfcdcec",
+   "2ed8d301-092a-4717-92c1-39568e06e7c6",
+   "3954a3b2-6f34-4b29-984c-77f5d5ca813e",
+   "3bd7a8c4-25c5-4c3d-829b-feea427ac753",
+   "4208d853-f717-4cae-bbc1-126275760ecf",
+   "468c853d-a9d7-4848-b663-656825ea985e",
+   "476734a4-efd8-488c-ac6a-20c52bc07a5d",
+   "4f9a785e-0cd4-4e96-ba9e-d0cccc2e29e5",
+   "5513fbd6-3063-4fb4-9b02-400f094ab25a",
+   "5e7fb1a2-f9fc-4e82-b2e4-aeff0201e9ac",
+   "61a20e41-cd05-4637-951d-34737c8e17eb",
+   "65b39783-4a06-4bae-8dbe-48afb916886f",
+   "6ab308ab-38ab-434e-a7a8-63c624be51ab",
+   "8747af12-6df3-45ae-a9ce-434df384c8ca",
+   "8fed11a8-5109-4787-8a2a-a75d860703e2",
+   "989f4292-f94c-48e2-9094-cdeba8c79578",
+   "9bcc876d-22b6-4236-a941-94ff4c5735d4",
+   "9eef7111-d180-4e9e-a3df-f5f36f8b61f8",
+   "ad759cb7-dde3-40d9-b5e7-fb73c907a668",
+   "b8dda96e-f152-49a8-822b-aaa6c178c0db",
+   "bab27026-4afe-4a8d-bdf8-7417ddd4c28e",
+   "bec9946f-d4fc-4d66-8cda-39aa93dba6dc",
+   "ce864d81-9870-412d-85da-c71538790961",
+   "e34c8306-7101-477d-b590-b1077a4afc06",
+   "e878c8be-687d-459d-a7b0-3578dcc6b3b1",
+   "ef013117-4e51-4d60-81e3-6dd78f9cbede"
+  ],
+  "Airbnb": [
+   "7107054",
+   "7587869",
+   "7662244",
+   "8140993"
+  ],
+  "Stripe": [
+   "7230921",
+   "7728618",
+   "7975725",
+   "8029128",
+   "8080454",
+   "8106775",
+   "8174141",
+   "8174148",
+   "8175647",
+   "8175824",
+   "8179347",
+   "8212672",
+   "8224617",
+   "8238733",
+   "8258078",
+   "8325009",
+   "8330791",
+   "8330795",
+   "8330801",
+   "8330813",
+   "8330815",
+   "8336023",
+   "8351500",
+   "8352045"
+  ],
+  "DoorDash": [
+   "7123179",
+   "7126705",
+   "7154008",
+   "7195841",
+   "7300101",
+   "7518634",
+   "7821986",
+   "7967490",
+   "8048483",
+   "8105485",
+   "8120826",
+   "8143160",
+   "8155251",
+   "8155274",
+   "8185846",
+   "8201352",
+   "8232945",
+   "8232996",
+   "8256095",
+   "8258640",
+   "8279393",
+   "8300413",
+   "8301351"
+  ],
+  "Block": [
+   "4983725008",
+   "5043053008",
+   "5183756008",
+   "5373378008",
+   "5414720008",
+   "5428149008",
+   "5428275008",
+   "5431559008",
+   "5467707008",
+   "5471298008",
+   "5474380008"
+  ],
+  "Haast": [
+   "6a602df2-b95e-47e5-903c-6521df4438c0"
+  ],
+  "Legora": [
+   "045b2b5a-1347-4d37-b1cd-7fe77a60154e",
+   "3f8ea448-a415-4358-8daa-88fbdeb39a16",
+   "5454001c-481c-490a-8ba5-63a3a80d3d05",
+   "8fa7b485-0429-470c-90d0-671ba14aed9a",
+   "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
+   "abc14660-111d-4c03-a86a-a249039dedef",
+   "df085356-554f-4d5b-97c0-50db79c83a00",
+   "e9ff9dde-62b4-4c8b-9c43-832ab60e3e9d",
+   "eac71565-6fd2-40e6-a50c-7c4ea009e286",
+   "f95543e1-ea7a-46d3-b141-a1cb91f35136"
+  ],
+  "Nebius": [
+   "4902513101",
+   "4911725101",
+   "4913573101",
+   "5018716101"
+  ],
+  "Cursor (Anysphere)": [
+   "01396f08-3acd-4e0c-9782-a6944fd2a957",
+   "44264403-5674-40b7-8b8d-e60b0a86e9ec",
+   "45abdab8-6d12-4e46-8108-e23aba34cec1",
+   "65be8830-8f83-4420-baf3-5070fe19097d",
+   "6d31e7ae-d3fb-483c-a62a-b1bc843b329e",
+   "79b07509-13dc-49d3-b133-2bc10d161f6f",
+   "7b7362e4-d422-4c82-b536-6c0b40da177c",
+   "8790d158-7bdc-43c0-bcb1-bbacb6e8f720",
+   "a59371c8-cd50-48e3-9f21-4b79a6f0e3b2",
+   "f2cf204b-f469-4997-9508-f218c5869706"
+  ],
+  "Anduril Industries": [
+   "4865496007",
+   "4948307007",
+   "4950085007",
+   "4950086007",
+   "4950090007",
+   "4950096007",
+   "4961600007",
+   "4961601007",
+   "4961602007",
+   "5016403007",
+   "5032254007",
+   "5053420007",
+   "5053421007",
+   "5055818007",
+   "5056468007",
+   "5064818007",
+   "5067380007",
+   "5079841007",
+   "5084913007",
+   "5090414007",
+   "5090415007",
+   "5161842007",
+   "5171132007",
+   "5172478007",
+   "5176757007",
+   "5176763007",
+   "5176765007",
+   "5198217007",
+   "5201424007",
+   "5206616007",
+   "5206617007",
+   "5209970007",
+   "5210043007",
+   "5214661007",
+   "5223352007",
+   "5224758007",
+   "5229521007",
+   "5234247007",
+   "5234255007",
+   "5241796007",
+   "5246828007",
+   "5247862007",
+   "5253771007",
+   "5253779007",
+   "5254411007",
+   "5263771007",
+   "5263876007",
+   "5267096007",
+   "5268176007",
+   "5268178007",
+   "5270752007",
+   "5272019007",
+   "5272031007",
+   "5274685007",
+   "5275748007",
+   "5275941007",
+   "5281256007",
+   "5282977007",
+   "5283890007",
+   "5285571007",
+   "5286149007",
+   "5286595007",
+   "5286672007",
+   "5288663007",
+   "5288672007"
+  ],
+  "Cognition": [
+   "392b0b95-26e6-4fb8-841f-97e528acd711",
+   "42be09bc-f25a-4b4b-8b78-d247d773d126",
+   "4bf50602-b880-40d2-9c8c-18d4372a8b02",
+   "8e4c141b-ca44-459d-a842-474f6e090da1",
+   "bcb56d79-24fd-46f9-8719-d389a3641f40"
+  ],
+  "Neara": [
+   "11e025a4-7697-46f1-b9ad-bbf3f0980949",
+   "196f8d8c-6556-4eca-8b03-b34e1946e76a",
+   "1ea30af7-974f-49cf-8742-edcfc4230c52",
+   "250fc7e8-efa6-4af6-a643-cb029133e0d6",
+   "357478aa-cfae-42c0-b2b9-b90dd9be1e38",
+   "42e1da92-26a4-44ff-87c4-d6295de17fb8",
+   "5d5bc539-94cc-46dc-b3cb-8336e03e6378",
+   "70ff4fd8-ae81-43d7-82b1-9a01321ea298",
+   "7542aea3-0d9c-4f22-8727-eeb1b720084c",
+   "7e8276c4-3d97-439c-8975-59ccf1884a2d",
+   "b89c5fc1-3997-4a43-bb4e-99f791622742",
+   "e36a2d43-e6fe-442d-b2cc-34a76b76e57d"
+  ]
+ }
+}

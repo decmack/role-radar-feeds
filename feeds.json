@@ -1,0 +1,144 @@
+{
+ "feeds": [
+  {
+   "name": "AirTrunk",
+   "kind": "greenhouse",
+   "slug": "airtrunk"
+  },
+  {
+   "name": "Deputy",
+   "kind": "lever",
+   "slug": "deputy"
+  },
+  {
+   "name": "Q-CTRL",
+   "kind": "lever",
+   "slug": "q-ctrl"
+  },
+  {
+   "name": "Objective Corporation",
+   "kind": "lever",
+   "slug": "objective"
+  },
+  {
+   "name": "Macquarie Technology Group",
+   "kind": "lever",
+   "slug": "macquarietechnologygroup"
+  },
+  {
+   "name": "SafetyCulture (Mitti)",
+   "kind": "ashby",
+   "slug": "mitti"
+  },
+  {
+   "name": "Harrison.ai",
+   "kind": "ashby",
+   "slug": "harrison.ai"
+  },
+  {
+   "name": "SiteMinder",
+   "kind": "ashby",
+   "slug": "SiteMinder"
+  },
+  {
+   "name": "PEXA",
+   "kind": "lever",
+   "slug": "pexa"
+  },
+  {
+   "name": "Firmus",
+   "kind": "greenhouse",
+   "slug": "firmus"
+  },
+  {
+   "name": "First Focus",
+   "kind": "workable",
+   "slug": "first-focus"
+  },
+  {
+   "name": "Rokt",
+   "kind": "workable",
+   "slug": "rokt"
+  },
+  {
+   "name": "Immutable",
+   "kind": "lever",
+   "slug": "immutable"
+  },
+  {
+   "name": "Eucalyptus",
+   "kind": "greenhouse",
+   "slug": "eucalyptus"
+  },
+  {
+   "name": "Silicon Quantum Computing",
+   "kind": "greenhouse",
+   "slug": "sqc"
+  },
+  {
+   "name": "CDC Data Centres",
+   "kind": "workable",
+   "slug": "cdc-data-centres"
+  },
+  {
+   "name": "Xero",
+   "kind": "ashby",
+   "slug": "xero"
+  },
+  {
+   "name": "Airbnb",
+   "kind": "greenhouse",
+   "slug": "airbnb"
+  },
+  {
+   "name": "Stripe",
+   "kind": "greenhouse",
+   "slug": "stripe"
+  },
+  {
+   "name": "DoorDash",
+   "kind": "greenhouse",
+   "slug": "doordashaustralia"
+  },
+  {
+   "name": "Block",
+   "kind": "greenhouse",
+   "slug": "block"
+  },
+  {
+   "name": "Haast",
+   "kind": "ashby",
+   "slug": "Haast"
+  },
+  {
+   "name": "Legora",
+   "kind": "ashby",
+   "slug": "legora"
+  },
+  {
+   "name": "Nebius",
+   "kind": "greenhouse",
+   "slug": "nebius"
+  },
+  {
+   "name": "Cursor (Anysphere)",
+   "kind": "ashby",
+   "slug": "cursor"
+  },
+  {
+   "name": "Anduril Industries",
+   "kind": "greenhouse",
+   "slug": "andurilindustries"
+  },
+  {
+   "name": "Cognition",
+   "kind": "ashby",
+   "slug": "cognition"
+  },
+  {
+   "name": "Neara",
+   "kind": "ashby",
+   "slug": "neara"
+  }
+ ]
+}
