@@ -194,6 +194,11 @@
    "name": "Global Switch",
    "kind": "teamtailor",
    "slug": "careers.globalswitch.com"
+  },
+  {
+   "name": "Inference Jobs (Sydney)",
+   "kind": "inferencejobs",
+   "slug": "sydney-nsw-australia"
   }
  ]
 }

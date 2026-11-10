@@ -30,7 +30,8 @@ def urls(f):
             'lever': f'https://api.lever.co/v0/postings/{s}?mode=json',
             'workable': f'https://apply.workable.com/api/v1/widget/accounts/{s}',
             'smartrecruiters': f'https://api.smartrecruiters.com/v1/companies/{s}/postings?limit=100',
-            'teamtailor': f'https://{s}/jobs.rss'}[f['kind']]
+            'teamtailor': f'https://{s}/jobs.rss',
+            'inferencejobs': f'https://www.inferencejobs.com/jobs/locations/{s}'}[f['kind']]
 
 def get(url, tries=3):
     err = None
@@ -43,11 +44,14 @@ def get(url, tries=3):
             time.sleep(2 * (i + 1))
     raise err
 
-def get_text(url, tries=3):
+BROWSER = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+           'Accept': 'text/html,application/xhtml+xml', 'Accept-Language': 'en-AU,en;q=0.9'}
+
+def get_text(url, tries=3, headers=None):
     err = None
     for i in range(tries):
         try:
-            h = dict(UA); h['Accept'] = 'application/rss+xml, application/xml, text/xml'
+            h = dict(headers or UA); h.setdefault('Accept', 'application/rss+xml, application/xml, text/xml')
             with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=30) as r:
                 return r.read().decode('utf-8', 'replace')
         except Exception as e:
@@ -58,6 +62,7 @@ def get_text(url, tries=3):
 def fetch(f):
     k = f['kind']
     if k == 'teamtailor': return get_text(urls(f))
+    if k == 'inferencejobs': return get_text(urls(f), headers=BROWSER)
     if k == 'smartrecruiters':
         base, content, off = urls(f), [], 0
         while True:
@@ -89,6 +94,17 @@ def norm_teamtailor(xml):
         out.append((rid, title, ', '.join(dict.fromkeys(locs)), link))
     return out
 
+def norm_inferencejobs(html, loc='Sydney, NSW'):
+    out, seen = [], set()
+    for m in re.finditer(r'<a\b[^>]*href="(?:https://www\.inferencejobs\.com)?(/companies/([^/"?#]+)/jobs/([^"?#]+))[^"]*"[^>]*>(.*?)</a>', html, re.S | re.I):
+        href, comp, slug, inner = m.groups()
+        if href in seen: continue
+        seen.add(href)
+        text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', inner)).strip()
+        title = text if text and len(text) < 160 else slug.replace('-', ' ')
+        out.append((slug, f"{comp.replace('-', ' ').title()}: {title}", loc, 'https://www.inferencejobs.com' + href))
+    return out
+
 def norm(kind, data):
     out = []
     if kind == 'greenhouse':
@@ -108,6 +124,8 @@ def norm(kind, data):
             out.append((str(j['id']), j.get('text', ''), ' | '.join(dict.fromkeys(x for x in locs if x)), j.get('hostedUrl', '')))
     elif kind == 'teamtailor':
         return norm_teamtailor(data)
+    elif kind == 'inferencejobs':
+        return norm_inferencejobs(data)
     elif kind == 'smartrecruiters':
         for j in data.get('content', []):
             l = j.get('location') or {}
@@ -132,7 +150,7 @@ def run(offline=None, now=None):
     def one(f):
         try:
             if offline:
-                ext = 'xml' if f['kind'] == 'teamtailor' else 'json'
+                ext = 'xml' if f['kind'] in ('teamtailor', 'inferencejobs') else 'json'
                 with open(os.path.join(offline, f"{f['kind']}-{f['slug']}.{ext}")) as fh: data = fh.read() if ext == 'xml' else json.load(fh)
                 if f['kind'] == 'smartrecruiters': data['company'] = f['slug']
             else:

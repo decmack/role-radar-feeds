@@ -24,7 +24,13 @@ TT = '''<?xml version="1.0"?><rss xmlns:tt="http://teamtailor.com/locations"><ch
 <item><title>Brisbane Role</title><link>https://x.teamtailor.com/jobs/222-bne</link><tt:locations><tt:location><tt:city>Brisbane</tt:city><tt:country>Australia</tt:country></tt:location></tt:locations></item>
 </channel></rss>'''
 
+IJ = '<a class="x" href="/companies/acme-ai/jobs/head-of-strategy-123"><div>Head of Strategy</div></a><a href="/companies/acme-ai/jobs/head-of-strategy-123">dup</a><a href="/jobs/locations/sydney">x</a>'
+
 class Loc(unittest.TestCase):
+    def test_ij(self):
+        r = radar.norm('inferencejobs', IJ)
+        self.assertEqual(len(r), 1); self.assertEqual(r[0][1], 'Acme Ai: Head of Strategy')
+
     def test_new_kinds(self):
         r = radar.norm('smartrecruiters', dict(SR, company='X'))
         self.assertEqual(r[0], ('s1', 'Head of Strategy', 'Sydney, NSW, au', 'https://jobs.smartrecruiters.com/X/s1'))
@@ -43,11 +49,12 @@ class T(unittest.TestCase):
         self.d = tempfile.mkdtemp()
         cfg = json.load(open(os.path.join(radar.HERE, 'feeds.json')))
         pick = {'greenhouse': GH, 'ashby': ASHBY, 'lever': LEVER, 'workable': WORK}
-        pick['smartrecruiters'] = SR; pick['teamtailor'] = TT
+        pick['smartrecruiters'] = SR; pick['teamtailor'] = TT; pick['inferencejobs'] = IJ
         self.written = set()
         for f in cfg['feeds']:
             if f['kind'] in pick and f['kind'] not in self.written:
                 if f['kind'] == 'teamtailor': open(os.path.join(self.d, f"{f['kind']}-{f['slug']}.xml"), 'w').write(TT)
+                elif f['kind'] == 'inferencejobs': open(os.path.join(self.d, f"{f['kind']}-{f['slug']}.xml"), 'w').write(IJ)
                 else: json.dump(pick[f['kind']], open(os.path.join(self.d, f"{f['kind']}-{f['slug']}.json"), 'w'))
                 self.written.add(f['kind'])
         self.seen = os.path.join(radar.HERE, 'state', 'seen.json')
@@ -61,7 +68,7 @@ class T(unittest.TestCase):
         out, seen = radar.run(offline=self.d)
         self.assertTrue(out['baseline'])
         gh = [n for n, v in out['feeds'].items() if v['status'] == 'ok' and 'australia' in v]
-        self.assertEqual(out['feedsOk'], 6)                     # only 4 fixtures exist, rest error out
+        self.assertEqual(out['feedsOk'], 7)                     # only 4 fixtures exist, rest error out
         first = {k: v for k, v in out['feeds'].items() if v['status'] == 'ok'}
         titles = {(r['company'], r['title']) for r in out['newRoles']}
         # greenhouse: London excluded, blank-location + AU - HQ - NSW kept, 
