@@ -17,7 +17,21 @@ LEVER = [{'id': 'l1', 'text': 'FP&A Business Partner', 'categories': {'location'
 WORK = {'jobs': [{'shortcode': 'W1', 'title': 'Treasury Analyst', 'city': 'Sydney', 'state': 'NSW', 'country': 'Australia', 'url': 'uw1'},
                  {'shortcode': 'W2', 'title': 'Director, Investments', 'city': 'Austin', 'state': 'TX', 'country': 'United States', 'url': 'uw2'}]}
 
+SR = {'content': [{'id': 's1', 'name': 'Head of Strategy', 'location': {'city': 'Sydney', 'region': 'NSW', 'country': 'au'}},
+                   {'id': 's2', 'name': 'Analyst', 'location': {'city': 'Dallas', 'country': 'us'}}]}
+TT = '''<?xml version="1.0"?><rss xmlns:tt="http://teamtailor.com/locations"><channel>
+<item><title>Strategy &amp; Planning Lead</title><link>https://x.teamtailor.com/jobs/111-strategy</link><tt:locations><tt:location><tt:name>HQ</tt:name><tt:city>Sydney</tt:city><tt:country>Australia</tt:country></tt:location></tt:locations></item>
+<item><title>Brisbane Role</title><link>https://x.teamtailor.com/jobs/222-bne</link><tt:locations><tt:location><tt:city>Brisbane</tt:city><tt:country>Australia</tt:country></tt:location></tt:locations></item>
+</channel></rss>'''
+
 class Loc(unittest.TestCase):
+    def test_new_kinds(self):
+        r = radar.norm('smartrecruiters', dict(SR, company='X'))
+        self.assertEqual(r[0], ('s1', 'Head of Strategy', 'Sydney, NSW, au', 'https://jobs.smartrecruiters.com/X/s1'))
+        t = radar.norm('teamtailor', TT)
+        self.assertEqual([x[0] for x in t], ['111', '222'])
+        self.assertTrue(radar.is_sydney_eligible(t[0][2])); self.assertFalse(radar.is_sydney_eligible(t[1][2]))
+
     def test_rules(self):
         ok = ['Sydney', 'Sydney or Melbourne', 'AU - HQ - NSW', 'Sydney (45 Clarence St) | Melbourne | Australia', 'Australia', 'ANZ', 'APAC', '', 'Remote', 'Remote | Hybrid', 'Remote, Australia', 'North Sydney, New South Wales']
         no = ['Melbourne, Victoria, Australia', 'US-Remote', 'Remote in the US', 'London, UK', 'Brisbane', 'Remote US', 'Singapore', 'Perth, Western Australia']
@@ -29,10 +43,12 @@ class T(unittest.TestCase):
         self.d = tempfile.mkdtemp()
         cfg = json.load(open(os.path.join(radar.HERE, 'feeds.json')))
         pick = {'greenhouse': GH, 'ashby': ASHBY, 'lever': LEVER, 'workable': WORK}
+        pick['smartrecruiters'] = SR; pick['teamtailor'] = TT
         self.written = set()
         for f in cfg['feeds']:
             if f['kind'] in pick and f['kind'] not in self.written:
-                json.dump(pick[f['kind']], open(os.path.join(self.d, f"{f['kind']}-{f['slug']}.json"), 'w'))
+                if f['kind'] == 'teamtailor': open(os.path.join(self.d, f"{f['kind']}-{f['slug']}.xml"), 'w').write(TT)
+                else: json.dump(pick[f['kind']], open(os.path.join(self.d, f"{f['kind']}-{f['slug']}.json"), 'w'))
                 self.written.add(f['kind'])
         self.seen = os.path.join(radar.HERE, 'state', 'seen.json')
         self.had = os.path.exists(self.seen)
@@ -45,7 +61,7 @@ class T(unittest.TestCase):
         out, seen = radar.run(offline=self.d)
         self.assertTrue(out['baseline'])
         gh = [n for n, v in out['feeds'].items() if v['status'] == 'ok' and 'australia' in v]
-        self.assertEqual(out['feedsOk'], 4)                     # only 4 fixtures exist, rest error out
+        self.assertEqual(out['feedsOk'], 6)                     # only 4 fixtures exist, rest error out
         first = {k: v for k, v in out['feeds'].items() if v['status'] == 'ok'}
         titles = {(r['company'], r['title']) for r in out['newRoles']}
         # greenhouse: London excluded, blank-location + AU - HQ - NSW kept, 

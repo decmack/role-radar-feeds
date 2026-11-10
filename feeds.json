@@ -139,6 +139,66 @@
    "name": "Neara",
    "kind": "ashby",
    "slug": "neara"
+  },
+  {
+   "name": "Morse Micro",
+   "kind": "greenhouse",
+   "slug": "morsemicro"
+  },
+  {
+   "name": "Quantium",
+   "kind": "greenhouse",
+   "slug": "quantium"
+  },
+  {
+   "name": "Lyrebird Health",
+   "kind": "ashby",
+   "slug": "lyrebird-health"
+  },
+  {
+   "name": "NEXTDC",
+   "kind": "smartrecruiters",
+   "slug": "NEXTDC"
+  },
+  {
+   "name": "Presien",
+   "kind": "smartrecruiters",
+   "slug": "Presien"
+  },
+  {
+   "name": "Tyro Payments",
+   "kind": "teamtailor",
+   "slug": "careers.tyro.com"
+  },
+  {
+   "name": "Nuix",
+   "kind": "teamtailor",
+   "slug": "careers.nuix.com"
+  },
+  {
+   "name": "Orro Group",
+   "kind": "teamtailor",
+   "slug": "orrogroup.teamtailor.com"
+  },
+  {
+   "name": "Pet Circle",
+   "kind": "teamtailor",
+   "slug": "petcircle-1744336448.teamtailor.com"
+  },
+  {
+   "name": "Koala",
+   "kind": "teamtailor",
+   "slug": "careers.koala.com"
+  },
+  {
+   "name": "DiUS",
+   "kind": "teamtailor",
+   "slug": "dius-1742167156.teamtailor.com"
+  },
+  {
+   "name": "Global Switch",
+   "kind": "teamtailor",
+   "slug": "careers.globalswitch.com"
   }
  ]
 }

@@ -3,6 +3,7 @@
 diffs against the previous snapshot and writes latest.json.
 Stdlib only. Usage: radar.py [--offline-dir DIR]  (offline dir = fixtures named <kind>-<slug>.json, for tests)"""
 import json, os, re, sys, time, datetime as dt, urllib.request, urllib.error
+import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
 
@@ -27,7 +28,9 @@ def urls(f):
     return {'greenhouse': f'https://boards-api.greenhouse.io/v1/boards/{s}/jobs',
             'ashby': f'https://api.ashbyhq.com/posting-api/job-board/{s}',
             'lever': f'https://api.lever.co/v0/postings/{s}?mode=json',
-            'workable': f'https://apply.workable.com/api/v1/widget/accounts/{s}'}[f['kind']]
+            'workable': f'https://apply.workable.com/api/v1/widget/accounts/{s}',
+            'smartrecruiters': f'https://api.smartrecruiters.com/v1/companies/{s}/postings?limit=100',
+            'teamtailor': f'https://{s}/jobs.rss'}[f['kind']]
 
 def get(url, tries=3):
     err = None
@@ -39,6 +42,52 @@ def get(url, tries=3):
             err = e
             time.sleep(2 * (i + 1))
     raise err
+
+def get_text(url, tries=3):
+    err = None
+    for i in range(tries):
+        try:
+            h = dict(UA); h['Accept'] = 'application/rss+xml, application/xml, text/xml'
+            with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=30) as r:
+                return r.read().decode('utf-8', 'replace')
+        except Exception as e:
+            err = e
+            time.sleep(2 * (i + 1))
+    raise err
+
+def fetch(f):
+    k = f['kind']
+    if k == 'teamtailor': return get_text(urls(f))
+    if k == 'smartrecruiters':
+        base, content, off = urls(f), [], 0
+        while True:
+            d = get(f'{base}&offset={off}')
+            page = d.get('content', [])
+            content += page
+            off += len(page)
+            if not page or off >= int(d.get('totalFound', 0)) or off > 2000: break
+        return {'content': content, 'company': f['slug']}
+    return get(urls(f))
+
+def _local(t): return t.rsplit('}', 1)[-1]
+
+def norm_teamtailor(xml):
+    out = []
+    root = ET.fromstring(xml)
+    for it in root.iter('item'):
+        title = link = ''
+        locs = []
+        for el in it.iter():
+            t = _local(el.tag)
+            if el is it: continue
+            if t == 'title' and not title: title = (el.text or '').strip()
+            elif t == 'link' and not link: link = (el.text or '').strip()
+            elif t == 'locations' or t == 'location':
+                locs += [(x.text or '').strip() for x in el.iter() if x is not el and _local(x.tag) in ('city', 'state', 'region', 'country', 'name') and (x.text or '').strip()]
+        m = re.search(r'/jobs/(\d+)', link)
+        rid = m.group(1) if m else (link or title)
+        out.append((rid, title, ', '.join(dict.fromkeys(locs)), link))
+    return out
 
 def norm(kind, data):
     out = []
@@ -57,6 +106,14 @@ def norm(kind, data):
             c = j.get('categories') or {}
             locs = [c.get('location') or ''] + list(c.get('allLocations') or [])
             out.append((str(j['id']), j.get('text', ''), ' | '.join(dict.fromkeys(x for x in locs if x)), j.get('hostedUrl', '')))
+    elif kind == 'teamtailor':
+        return norm_teamtailor(data)
+    elif kind == 'smartrecruiters':
+        for j in data.get('content', []):
+            l = j.get('location') or {}
+            loc = ', '.join(x for x in [l.get('city', ''), l.get('region', ''), l.get('country', '')] if x)
+            if l.get('remote'): loc = (loc + ', Remote').strip(', ')
+            out.append((str(j['id']), j.get('name', ''), loc, f"https://jobs.smartrecruiters.com/{data.get('company', '')}/{j['id']}"))
     elif kind == 'workable':
         for j in data.get('jobs', []):
             locs = [j.get('city', ''), j.get('state', ''), j.get('country', '')]
@@ -75,9 +132,11 @@ def run(offline=None, now=None):
     def one(f):
         try:
             if offline:
-                with open(os.path.join(offline, f"{f['kind']}-{f['slug']}.json")) as fh: data = json.load(fh)
+                ext = 'xml' if f['kind'] == 'teamtailor' else 'json'
+                with open(os.path.join(offline, f"{f['kind']}-{f['slug']}.{ext}")) as fh: data = fh.read() if ext == 'xml' else json.load(fh)
+                if f['kind'] == 'smartrecruiters': data['company'] = f['slug']
             else:
-                data = get(urls(f))
+                data = fetch(f)
             return f, norm(f['kind'], data), None
         except Exception as e:
             return f, None, f'{type(e).__name__}: {e}'[:200]
