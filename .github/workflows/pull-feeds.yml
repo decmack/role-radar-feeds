@@ -1,30 +1,49 @@
 name: Pull feeds
 on:
   schedule:
-    - cron: '0 12 * * *'   # 23:00 Sydney (AEDT) / 22:00 (AEST)
+    # Two runs a day so one bad night never leaves the data stale.
+    # Off-the-hour minutes: GitHub delays ":00" schedules by hours at peak.
+    - cron: '23 4 * * *'   # ~15:23 Sydney (AEDT)
+    - cron: '41 8 * * *'   # ~19:41 Sydney (AEDT), backup run
   workflow_dispatch:
-permissions:
-  contents: write
 concurrency:
   group: pull-feeds
   cancel-in-progress: false
 jobs:
-  pull:
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
+  # Tests run on their own and can never block or fail the data pull.
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    continue-on-error: true
+    permissions:
+      contents: read
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - run: python3 -m unittest tests.test_radar -v
+
+  pull:
+    runs-on: ubuntu-24.04          # pinned: avoids the ubuntu-latest -> 26.04 migration
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
         with:
-          python-version: '3.12'
-      - name: Run tests (non-blocking)
-        run: python3 -m unittest tests.test_radar
-        continue-on-error: true
-      - run: python3 radar.py
-      - name: Commit results
+          fetch-depth: 0
+      - name: Pull feeds (system Python, stdlib only)
+        run: |
+          python3 --version
+          python3 radar.py
+      - name: Commit and push results
         run: |
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
           git add latest.json state/seen.json
-          git diff --cached --quiet || git commit -m "Feed pull $(date -u +%F)"
-          git push
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Feed pull $(date -u +%F)"
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+            echo "Push attempt $i failed; retrying"; sleep $((i * 5))
+          done
+          echo "::error::Could not push results after 3 attempts"
+          exit 1
