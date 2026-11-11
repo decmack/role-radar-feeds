@@ -68,7 +68,7 @@ class T(unittest.TestCase):
         out, seen = radar.run(offline=self.d)
         self.assertTrue(out['baseline'])
         gh = [n for n, v in out['feeds'].items() if v['status'] == 'ok' and 'australia' in v]
-        self.assertEqual(out['feedsOk'], 7)                     # only 4 fixtures exist, rest error out
+                self.assertEqual(out['feedsOk'], 6)                     # greenhouse, ashby, lever, workable, smartrecruiters, teamtailor -- inferencejobs dropped from feeds.json (robots.txt)
         first = {k: v for k, v in out['feeds'].items() if v['status'] == 'ok'}
         titles = {(r['company'], r['title']) for r in out['newRoles']}
         # greenhouse: London excluded, blank-location + AU - HQ - NSW kept, 
