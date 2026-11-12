@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-12T12:58:51+00:00",
- "sydneyDate": "2026-11-12",
+ "generatedAt": "2026-11-12T17:03:47+00:00",
+ "sydneyDate": "2026-11-13",
  "baseline": false,
- "feedsOk": 39,
+ "feedsOk": 33,
  "feedsTotal": 39,
- "newCount": 1,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -73,7 +73,7 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 96,
+   "total": 95,
    "australia": 24
   },
   "Silicon Quantum Computing": {
@@ -88,17 +88,17 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 101,
+   "total": 100,
    "australia": 32
   },
   "Airbnb": {
    "status": "ok",
-   "total": 208,
+   "total": 215,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 785,
+   "total": 783,
    "australia": 24
   },
   "DoorDash": {
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 329,
+   "total": 330,
    "australia": 11
   },
   "Nebius": {
    "status": "ok",
-   "total": 375,
+   "total": 372,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2586,
+   "total": 2582,
    "australia": 69
   },
   "Cognition": {
@@ -167,34 +167,28 @@
    "australia": 0
   },
   "Tyro Payments": {
-   "status": "ok",
-   "total": 10,
-   "australia": 9
+   "status": "error",
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   "Nuix": {
-   "status": "ok",
-   "total": 24,
-   "australia": 11
+   "status": "error",
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   "Orro Group": {
-   "status": "ok",
-   "total": 11,
-   "australia": 4
+   "status": "error",
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   "Pet Circle": {
-   "status": "ok",
-   "total": 9,
-   "australia": 6
+   "status": "error",
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   "Koala": {
-   "status": "ok",
-   "total": 8,
-   "australia": 5
+   "status": "error",
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   "DiUS": {
-   "status": "ok",
-   "total": 2,
-   "australia": 2
+   "status": "error",
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   "Global Switch": {
    "status": "ok",
@@ -202,15 +196,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "Legora",
-   "id": "1b2e302c-2f65-4d7a-8070-46d241f108cd",
-   "title": "Applied AI Specialist, Legal Engineering",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/1b2e302c-2f65-4d7a-8070-46d241f108cd"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -679,55 +665,6 @@
    "744000160544864"
   ],
   "Presien": [],
-  "Tyro Payments": [
-   "7801758",
-   "8027776",
-   "8226013",
-   "8370294",
-   "8514235",
-   "8534442",
-   "8541728",
-   "8654410",
-   "8676668"
-  ],
-  "Nuix": [
-   "8093426",
-   "8093495",
-   "8093595",
-   "8093715",
-   "8202008",
-   "8263046",
-   "8294799",
-   "8348739",
-   "8348741",
-   "8593500",
-   "8620788"
-  ],
-  "Orro Group": [
-   "7968016",
-   "8669995",
-   "8686294",
-   "8701348"
-  ],
-  "Pet Circle": [
-   "8514210",
-   "8534392",
-   "8586986",
-   "8587435",
-   "8654874",
-   "8661315"
-  ],
-  "Koala": [
-   "8326480",
-   "8482499",
-   "8612236",
-   "8633202",
-   "8669583"
-  ],
-  "DiUS": [
-   "8305897",
-   "8445946"
-  ],
   "Global Switch": []
  }
 }
