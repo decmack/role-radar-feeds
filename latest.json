@@ -1,24 +1,24 @@
 {
- "generatedAt": "2026-11-12T02:19:54+00:00",
+ "generatedAt": "2026-11-12T12:58:51+00:00",
  "sydneyDate": "2026-11-12",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 29,
+ "newCount": 1,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 65,
+   "total": 66,
    "australia": 22
   },
   "Deputy": {
    "status": "ok",
-   "total": 3,
+   "total": 2,
    "australia": 2
   },
   "Q-CTRL": {
    "status": "ok",
-   "total": 33,
+   "total": 34,
    "australia": 17
   },
   "Objective Corporation": {
@@ -43,8 +43,8 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 27,
-   "australia": 5
+   "total": 26,
+   "australia": 4
   },
   "PEXA": {
    "status": "ok",
@@ -53,7 +53,7 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 70,
+   "total": 71,
    "australia": 31
   },
   "First Focus": {
@@ -73,13 +73,13 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 95,
+   "total": 96,
    "australia": 24
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 8,
-   "australia": 8
+   "total": 7,
+   "australia": 7
   },
   "CDC Data Centres": {
    "status": "ok",
@@ -88,17 +88,17 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 103,
-   "australia": 34
+   "total": 101,
+   "australia": 32
   },
   "Airbnb": {
    "status": "ok",
-   "total": 207,
+   "total": 208,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 787,
+   "total": 785,
    "australia": 24
   },
   "DoorDash": {
@@ -119,11 +119,11 @@
   "Legora": {
    "status": "ok",
    "total": 329,
-   "australia": 10
+   "australia": 11
   },
   "Nebius": {
    "status": "ok",
-   "total": 377,
+   "total": 375,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -168,13 +168,13 @@
   },
   "Tyro Payments": {
    "status": "ok",
-   "total": 11,
-   "australia": 10
+   "total": 10,
+   "australia": 9
   },
   "Nuix": {
    "status": "ok",
-   "total": 25,
-   "australia": 12
+   "total": 24,
+   "australia": 11
   },
   "Orro Group": {
    "status": "ok",
@@ -204,207 +204,11 @@
  },
  "newRoles": [
   {
-   "company": "AirTrunk",
-   "id": "8042310003",
-   "title": "Practice Lead, AI & Data Management ",
-   "location": "Melbourne; Melbourne, Victoria, Australia; North Shore, Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8042310003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "8198727003",
-   "title": "Senior Analyst, Asset Management & New Markets",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8198727003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "8168410003",
-   "title": "Senior Manager, Australia Government Relations",
-   "location": "Australia",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8168410003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "7671493003",
-   "title": "Senior Water Delivery Project Manager",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671493003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "7796557003",
-   "title": "Staff AI Engineer",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/7796557003"
-  },
-  {
-   "company": "Q-CTRL",
-   "id": "876f51d6-7e6c-410f-8fcb-b5dd31a4c107",
-   "title": "Laboratory and Safety Manager (WHS)",
-   "location": "Sydney",
-   "url": "https://jobs.lever.co/q-ctrl/876f51d6-7e6c-410f-8fcb-b5dd31a4c107"
-  },
-  {
-   "company": "Q-CTRL",
-   "id": "d50cfb67-4b37-4ba9-9974-5e27659dd991",
-   "title": "People Operations Coordinator",
-   "location": "Sydney",
-   "url": "https://jobs.lever.co/q-ctrl/d50cfb67-4b37-4ba9-9974-5e27659dd991"
-  },
-  {
-   "company": "Objective Corporation",
-   "id": "9f5190e5-1186-4838-bef4-e0c285a0f1a8",
-   "title": "Principal Software Engineer - TypeScript/React",
-   "location": "Sydney",
-   "url": "https://jobs.lever.co/objective/9f5190e5-1186-4838-bef4-e0c285a0f1a8"
-  },
-  {
-   "company": "Objective Corporation",
-   "id": "2bd11560-d0a6-4947-89b2-91bfb7a2e097",
-   "title": "Senior Software Engineer - AI Applications",
-   "location": "Sydney",
-   "url": "https://jobs.lever.co/objective/2bd11560-d0a6-4947-89b2-91bfb7a2e097"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "0d233b80-0970-49a5-adf0-dd43c9d5ab19",
-   "title": "Senior Product Manager (AI)",
+   "company": "Legora",
+   "id": "1b2e302c-2f65-4d7a-8070-46d241f108cd",
+   "title": "Applied AI Specialist, Legal Engineering",
    "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/0d233b80-0970-49a5-adf0-dd43c9d5ab19"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "d54974b3-42fc-49ad-aa9e-1fba630b210e",
-   "title": "Senior Product Manager ",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/d54974b3-42fc-49ad-aa9e-1fba630b210e"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "e97edf32-9db8-4792-9aa3-201a551f6f87",
-   "title": "Lead Product Designer",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/e97edf32-9db8-4792-9aa3-201a551f6f87"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "c75ddb78-49cf-441f-831c-4c47b823fd8c",
-   "title": "Head of Growth",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/c75ddb78-49cf-441f-831c-4c47b823fd8c"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "a34e20a3-a7cf-4d62-afc1-1122822d388f",
-   "title": "VP Product",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/a34e20a3-a7cf-4d62-afc1-1122822d388f"
-  },
-  {
-   "company": "Firmus",
-   "id": "5464412008",
-   "title": "Platform Reliability Engineer",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://job-boards.greenhouse.io/firmus/jobs/5464412008"
-  },
-  {
-   "company": "CDC Data Centres",
-   "id": "C0CE6208F9",
-   "title": "Data Centre Manager (NV1/NV2 Cleared)",
-   "location": "Fyshwick, Australian Capital Territory, Australia",
-   "url": "https://apply.workable.com/j/C0CE6208F9"
-  },
-  {
-   "company": "Xero",
-   "id": "5a81fcc0-a3a5-410e-8f96-22afd2c09116",
-   "title": "Data Engineer - Performance Insights",
-   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/5a81fcc0-a3a5-410e-8f96-22afd2c09116"
-  },
-  {
-   "company": "Xero",
-   "id": "e068b107-cf80-4f07-bcfb-947fd05afaa0",
-   "title": "Lead Engineer - Making Payments",
-   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/e068b107-cf80-4f07-bcfb-947fd05afaa0"
-  },
-  {
-   "company": "Airbnb",
-   "id": "8377478",
-   "title": "Senior Recruiter, Commercial (12-Month Contract)",
-   "location": "Sydney, Australia",
-   "url": "https://careers.airbnb.com/positions/8377478?gh_jid=8377478"
-  },
-  {
-   "company": "Stripe",
-   "id": "8352148",
-   "title": "Customer Success Manager",
-   "location": "Sydney",
-   "url": "https://stripe.com/jobs/search?gh_jid=8352148"
-  },
-  {
-   "company": "Haast",
-   "id": "2e9b6ff7-9564-4f39-a009-0ae9d501b76f",
-   "title": "Legal AI Implementation Strategist ",
-   "location": "Sydney | Sydney  | New South Wales  | Australia",
-   "url": "https://jobs.ashbyhq.com/Haast/2e9b6ff7-9564-4f39-a009-0ae9d501b76f"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5290454007",
-   "title": "Accounts Payable Specialist",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290454007?gh_jid=5290454007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5292048007",
-   "title": "Division Operations Senior Associate, Undersea Dominance",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5292048007?gh_jid=5292048007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5286928007",
-   "title": "Product Quality Engineer - Field Operations",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5286928007?gh_jid=5286928007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5283885007",
-   "title": "Senior Payroll Specialist (APAC)",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283885007?gh_jid=5283885007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5278315007",
-   "title": "Senior Technical Recruiter",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278315007?gh_jid=5278315007"
-  },
-  {
-   "company": "Orro Group",
-   "id": "8701348",
-   "title": "Cyber Security Analyst",
-   "location": "Sydney HQ, Sydney, Australia",
-   "url": "https://orrogroup.teamtailor.com/jobs/8701348-cyber-security-analyst"
-  },
-  {
-   "company": "Pet Circle",
-   "id": "8587435",
-   "title": "Customer Specialist (Call Center - Remote)",
-   "location": "Sydney (Remote), Sydney, Australia",
-   "url": "https://petcircle-1744336448.teamtailor.com/jobs/8587435-customer-specialist-call-center-remote"
-  },
-  {
-   "company": "Koala",
-   "id": "8669583",
-   "title": "Category Manager, Australia",
-   "location": "Sydney, Alexandria, Australia",
-   "url": "https://careers.koala.com/jobs/8669583-category-manager-australia"
+   "url": "https://jobs.ashbyhq.com/legora/1b2e302c-2f65-4d7a-8070-46d241f108cd"
   }
  ],
  "openIds": {
@@ -505,7 +309,6 @@
    "0d233b80-0970-49a5-adf0-dd43c9d5ab19",
    "a34e20a3-a7cf-4d62-afc1-1122822d388f",
    "c75ddb78-49cf-441f-831c-4c47b823fd8c",
-   "d54974b3-42fc-49ad-aa9e-1fba630b210e",
    "e97edf32-9db8-4792-9aa3-201a551f6f87"
   ],
   "PEXA": [],
@@ -592,7 +395,6 @@
    "4005906201",
    "4005907201",
    "4005909201",
-   "4007744201",
    "4008605201"
   ],
   "CDC Data Centres": [
@@ -634,13 +436,11 @@
    "468c853d-a9d7-4848-b663-656825ea985e",
    "476734a4-efd8-488c-ac6a-20c52bc07a5d",
    "4f9a785e-0cd4-4e96-ba9e-d0cccc2e29e5",
-   "5513fbd6-3063-4fb4-9b02-400f094ab25a",
    "5a81fcc0-a3a5-410e-8f96-22afd2c09116",
    "5e7fb1a2-f9fc-4e82-b2e4-aeff0201e9ac",
    "61a20e41-cd05-4637-951d-34737c8e17eb",
    "65b39783-4a06-4bae-8dbe-48afb916886f",
    "6ab308ab-38ab-434e-a7a8-63c624be51ab",
-   "8747af12-6df3-45ae-a9ce-434df384c8ca",
    "8fed11a8-5109-4787-8a2a-a75d860703e2",
    "989f4292-f94c-48e2-9094-cdeba8c79578",
    "9eef7111-d180-4e9e-a3df-f5f36f8b61f8",
@@ -728,6 +528,7 @@
   ],
   "Legora": [
    "045b2b5a-1347-4d37-b1cd-7fe77a60154e",
+   "1b2e302c-2f65-4d7a-8070-46d241f108cd",
    "3f8ea448-a415-4358-8daa-88fbdeb39a16",
    "5454001c-481c-490a-8ba5-63a3a80d3d05",
    "8fa7b485-0429-470c-90d0-671ba14aed9a",
@@ -884,7 +685,6 @@
    "8226013",
    "8370294",
    "8514235",
-   "8534433",
    "8534442",
    "8541728",
    "8654410",
@@ -901,8 +701,7 @@
    "8348739",
    "8348741",
    "8593500",
-   "8620788",
-   "8685813"
+   "8620788"
   ],
   "Orro Group": [
    "7968016",
