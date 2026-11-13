@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-13T12:25:03+00:00",
- "sydneyDate": "2026-11-13",
+ "generatedAt": "2026-11-13T16:43:52+00:00",
+ "sydneyDate": "2026-11-14",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 17,
+ "newCount": 1,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -83,12 +83,12 @@
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 61,
-   "australia": 21
+   "total": 62,
+   "australia": 22
   },
   "Xero": {
    "status": "ok",
-   "total": 98,
+   "total": 99,
    "australia": 33
   },
   "Airbnb": {
@@ -98,12 +98,12 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 787,
+   "total": 785,
    "australia": 24
   },
   "DoorDash": {
    "status": "ok",
-   "total": 23,
+   "total": 24,
    "australia": 18
   },
   "Block": {
@@ -118,7 +118,7 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 336,
+   "total": 338,
    "australia": 13
   },
   "Nebius": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2580,
+   "total": 2587,
    "australia": 72
   },
   "Cognition": {
@@ -148,7 +148,7 @@
   },
   "Quantium": {
    "status": "ok",
-   "total": 31,
+   "total": 32,
    "australia": 19
   },
   "Lyrebird Health": {
@@ -173,7 +173,7 @@
   },
   "Nuix": {
    "status": "ok",
-   "total": 25,
+   "total": 24,
    "australia": 12
   },
   "Orro Group": {
@@ -204,123 +204,11 @@
  },
  "newRoles": [
   {
-   "company": "AirTrunk",
-   "id": "8196354003",
-   "title": "Associate Director, Services & Commissioning",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196354003"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "673eda7c-eaa3-43d8-8eee-576c26bab99e",
-   "title": "Senior Talent Acquisition Consultant (Tech/Product) - Temporary Contract",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/673eda7c-eaa3-43d8-8eee-576c26bab99e"
-  },
-  {
-   "company": "Eucalyptus",
-   "id": "4753857005",
-   "title": "Senior Manager, ML Engineering",
-   "location": "AU - HQ - NSW",
-   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4753857005"
-  },
-  {
-   "company": "Silicon Quantum Computing",
-   "id": "4007736201",
-   "title": "AI Engineer",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4007736201"
-  },
-  {
-   "company": "Silicon Quantum Computing",
-   "id": "4009654201",
-   "title": "FP&A Analyst",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4009654201"
-  },
-  {
-   "company": "Silicon Quantum Computing",
-   "id": "4007744201",
-   "title": "Senior Financial Accountant",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4007744201"
-  },
-  {
    "company": "CDC Data Centres",
-   "id": "D864A113B5",
-   "title": "Executive Assistant and Board Administrator",
+   "id": "58E91C93FF",
+   "title": "Senior Legal Counsel - Mergers and Acquisitions",
    "location": "Sydney, New South Wales, Australia",
-   "url": "https://apply.workable.com/j/D864A113B5"
-  },
-  {
-   "company": "Xero",
-   "id": "eae69ea6-e9d2-42d9-ac73-ab375834d87f",
-   "title": "Senior Data & AI Governance Specialist",
-   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/eae69ea6-e9d2-42d9-ac73-ab375834d87f"
-  },
-  {
-   "company": "Xero",
-   "id": "23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d",
-   "title": "Communications Director, ANZ",
-   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d"
-  },
-  {
-   "company": "Block",
-   "id": "5481026008",
-   "title": "Business Development Representative",
-   "location": "Sydney, Australia",
-   "url": "http://block.xyz/careers/jobs/5481026008?gh_jid=5481026008"
-  },
-  {
-   "company": "Block",
-   "id": "5423707008",
-   "title": "Senior Mid-Market Account Executive",
-   "location": "Sydney, Australia",
-   "url": "http://block.xyz/careers/jobs/5423707008?gh_jid=5423707008"
-  },
-  {
-   "company": "Legora",
-   "id": "8495d2a9-a06b-4564-87d9-72a57b0517df",
-   "title": "Strategic Account Executive, APAC ",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/8495d2a9-a06b-4564-87d9-72a57b0517df"
-  },
-  {
-   "company": "Legora",
-   "id": "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
-   "title": "Account Executive, SMB",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/64abd634-cc9e-4917-9fa0-25cc31d13ca7"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5294144007",
-   "title": "Senior Leadership Recruiter, Supply Chain/Mission Readiness",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294144007?gh_jid=5294144007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5015257007",
-   "title": "Technical Recruiter, Sydney",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5015257007?gh_jid=5015257007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5294105007",
-   "title": "Training Specialist",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294105007?gh_jid=5294105007"
-  },
-  {
-   "company": "Nuix",
-   "id": "8724102",
-   "title": "Senior AI Engineer (Sydney-Based)",
-   "location": "Sydney (AU), Sydney, Australia",
-   "url": "https://careers.nuix.com/jobs/8724102-senior-ai-engineer-sydney-based"
+   "url": "https://apply.workable.com/j/58E91C93FF"
   }
  ],
  "openIds": {
@@ -518,6 +406,7 @@
    "358675DA81",
    "43322843D4",
    "468A56A229",
+   "58E91C93FF",
    "5C34BF3173",
    "5FF5E535C6",
    "6A788D3403",
