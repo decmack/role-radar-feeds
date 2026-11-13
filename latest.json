@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-12T17:03:47+00:00",
+ "generatedAt": "2026-11-13T12:25:03+00:00",
  "sydneyDate": "2026-11-13",
  "baseline": false,
- "feedsOk": 33,
+ "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 17,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 66,
-   "australia": 22
+   "total": 67,
+   "australia": 23
   },
   "Deputy": {
    "status": "ok",
@@ -43,8 +43,8 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 26,
-   "australia": 4
+   "total": 29,
+   "australia": 5
   },
   "PEXA": {
    "status": "ok",
@@ -53,8 +53,8 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 71,
-   "australia": 31
+   "total": 70,
+   "australia": 30
   },
   "First Focus": {
    "status": "ok",
@@ -63,8 +63,8 @@
   },
   "Rokt": {
    "status": "ok",
-   "total": 11,
-   "australia": 3
+   "total": 9,
+   "australia": 1
   },
   "Immutable": {
    "status": "ok",
@@ -78,38 +78,38 @@
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 7,
-   "australia": 7
+   "total": 10,
+   "australia": 10
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 63,
+   "total": 61,
    "australia": 21
   },
   "Xero": {
    "status": "ok",
-   "total": 100,
-   "australia": 32
+   "total": 98,
+   "australia": 33
   },
   "Airbnb": {
    "status": "ok",
-   "total": 215,
+   "total": 214,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 783,
+   "total": 787,
    "australia": 24
   },
   "DoorDash": {
    "status": "ok",
-   "total": 26,
-   "australia": 21
+   "total": 23,
+   "australia": 18
   },
   "Block": {
    "status": "ok",
-   "total": 192,
-   "australia": 11
+   "total": 191,
+   "australia": 12
   },
   "Haast": {
    "status": "ok",
@@ -118,27 +118,27 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 330,
-   "australia": 11
+   "total": 336,
+   "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 372,
+   "total": 376,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 113,
+   "total": 115,
    "australia": 9
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2582,
-   "australia": 69
+   "total": 2580,
+   "australia": 72
   },
   "Cognition": {
    "status": "ok",
-   "total": 116,
+   "total": 114,
    "australia": 5
   },
   "Neara": {
@@ -167,28 +167,34 @@
    "australia": 0
   },
   "Tyro Payments": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "status": "ok",
+   "total": 10,
+   "australia": 9
   },
   "Nuix": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "status": "ok",
+   "total": 25,
+   "australia": 12
   },
   "Orro Group": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "status": "ok",
+   "total": 9,
+   "australia": 3
   },
   "Pet Circle": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "status": "ok",
+   "total": 9,
+   "australia": 6
   },
   "Koala": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "status": "ok",
+   "total": 8,
+   "australia": 5
   },
   "DiUS": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "status": "ok",
+   "total": 1,
+   "australia": 1
   },
   "Global Switch": {
    "status": "ok",
@@ -196,7 +202,127 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "AirTrunk",
+   "id": "8196354003",
+   "title": "Associate Director, Services & Commissioning",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196354003"
+  },
+  {
+   "company": "SiteMinder",
+   "id": "673eda7c-eaa3-43d8-8eee-576c26bab99e",
+   "title": "Senior Talent Acquisition Consultant (Tech/Product) - Temporary Contract",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/SiteMinder/673eda7c-eaa3-43d8-8eee-576c26bab99e"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4753857005",
+   "title": "Senior Manager, ML Engineering",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4753857005"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4007736201",
+   "title": "AI Engineer",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4007736201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4009654201",
+   "title": "FP&A Analyst",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4009654201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4007744201",
+   "title": "Senior Financial Accountant",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4007744201"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "D864A113B5",
+   "title": "Executive Assistant and Board Administrator",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/D864A113B5"
+  },
+  {
+   "company": "Xero",
+   "id": "eae69ea6-e9d2-42d9-ac73-ab375834d87f",
+   "title": "Senior Data & AI Governance Specialist",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/eae69ea6-e9d2-42d9-ac73-ab375834d87f"
+  },
+  {
+   "company": "Xero",
+   "id": "23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d",
+   "title": "Communications Director, ANZ",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d"
+  },
+  {
+   "company": "Block",
+   "id": "5481026008",
+   "title": "Business Development Representative",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5481026008?gh_jid=5481026008"
+  },
+  {
+   "company": "Block",
+   "id": "5423707008",
+   "title": "Senior Mid-Market Account Executive",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5423707008?gh_jid=5423707008"
+  },
+  {
+   "company": "Legora",
+   "id": "8495d2a9-a06b-4564-87d9-72a57b0517df",
+   "title": "Strategic Account Executive, APAC ",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/8495d2a9-a06b-4564-87d9-72a57b0517df"
+  },
+  {
+   "company": "Legora",
+   "id": "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
+   "title": "Account Executive, SMB",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/64abd634-cc9e-4917-9fa0-25cc31d13ca7"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5294144007",
+   "title": "Senior Leadership Recruiter, Supply Chain/Mission Readiness",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294144007?gh_jid=5294144007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5015257007",
+   "title": "Technical Recruiter, Sydney",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5015257007?gh_jid=5015257007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5294105007",
+   "title": "Training Specialist",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294105007?gh_jid=5294105007"
+  },
+  {
+   "company": "Nuix",
+   "id": "8724102",
+   "title": "Senior AI Engineer (Sydney-Based)",
+   "location": "Sydney (AU), Sydney, Australia",
+   "url": "https://careers.nuix.com/jobs/8724102-senior-ai-engineer-sydney-based"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -219,6 +345,7 @@
    "8060506003",
    "8168410003",
    "8168553003",
+   "8196354003",
    "8197364003",
    "8198727003"
   ],
@@ -293,6 +420,7 @@
   ],
   "SiteMinder": [
    "0d233b80-0970-49a5-adf0-dd43c9d5ab19",
+   "673eda7c-eaa3-43d8-8eee-576c26bab99e",
    "a34e20a3-a7cf-4d62-afc1-1122822d388f",
    "c75ddb78-49cf-441f-831c-4c47b823fd8c",
    "e97edf32-9db8-4792-9aa3-201a551f6f87"
@@ -326,7 +454,6 @@
    "5463220008",
    "5464397008",
    "5464412008",
-   "5464479008",
    "5464482008",
    "5466634008",
    "5472075008"
@@ -340,8 +467,6 @@
    "CFC1EECB82"
   ],
   "Rokt": [
-   "470376CA23",
-   "6172DB985A",
    "78589A4D7B"
   ],
   "Immutable": [
@@ -349,7 +474,6 @@
    "8fcf6f7a-8cd4-45f8-a799-f731ca476b3a"
   ],
   "Eucalyptus": [
-   "4663594005",
    "4709366005",
    "4721018005",
    "4732639005",
@@ -372,7 +496,8 @@
    "4751733005",
    "4751734005",
    "4751736005",
-   "4751738005"
+   "4751738005",
+   "4753857005"
   ],
   "Silicon Quantum Computing": [
    "4005048201",
@@ -381,10 +506,12 @@
    "4005906201",
    "4005907201",
    "4005909201",
-   "4008605201"
+   "4007736201",
+   "4007744201",
+   "4008605201",
+   "4009654201"
   ],
   "CDC Data Centres": [
-   "05626A9CFB",
    "11628F1A69",
    "1D49986404",
    "3530EDC7A5",
@@ -401,6 +528,7 @@
    "C0CE6208F9",
    "C7E86CA821",
    "C982410A4F",
+   "D864A113B5",
    "DA657E3219",
    "DF6EF7FEFB",
    "EC98ABBFE8",
@@ -415,9 +543,9 @@
    "138b9018-6c2a-47cc-93f0-53545fa604a9",
    "1c62a5d8-3fa7-4ff7-a3b6-366198904eed",
    "21751d35-7851-4c2d-a2ab-1ac68cfcdcec",
+   "23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d",
    "2ed8d301-092a-4717-92c1-39568e06e7c6",
    "3954a3b2-6f34-4b29-984c-77f5d5ca813e",
-   "3bd7a8c4-25c5-4c3d-829b-feea427ac753",
    "4208d853-f717-4cae-bbc1-126275760ecf",
    "468c853d-a9d7-4848-b663-656825ea985e",
    "476734a4-efd8-488c-ac6a-20c52bc07a5d",
@@ -438,6 +566,7 @@
    "e068b107-cf80-4f07-bcfb-947fd05afaa0",
    "e34c8306-7101-477d-b590-b1077a4afc06",
    "e878c8be-687d-459d-a7b0-3578dcc6b3b1",
+   "eae69ea6-e9d2-42d9-ac73-ab375834d87f",
    "ef013117-4e51-4d60-81e3-6dd78f9cbede"
   ],
   "Airbnb": [
@@ -487,11 +616,8 @@
    "8143160",
    "8155274",
    "8185846",
-   "8201352",
    "8232945",
    "8232996",
-   "8256095",
-   "8258640",
    "8279393",
    "8300413",
    "8301351"
@@ -502,12 +628,13 @@
    "5183756008",
    "5373378008",
    "5414720008",
-   "5428149008",
+   "5423707008",
    "5428275008",
    "5431559008",
    "5467707008",
    "5471298008",
-   "5474380008"
+   "5474380008",
+   "5481026008"
   ],
   "Haast": [
    "2e9b6ff7-9564-4f39-a009-0ae9d501b76f"
@@ -517,6 +644,8 @@
    "1b2e302c-2f65-4d7a-8070-46d241f108cd",
    "3f8ea448-a415-4358-8daa-88fbdeb39a16",
    "5454001c-481c-490a-8ba5-63a3a80d3d05",
+   "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
+   "8495d2a9-a06b-4564-87d9-72a57b0517df",
    "8fa7b485-0429-470c-90d0-671ba14aed9a",
    "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
    "abc14660-111d-4c03-a86a-a249039dedef",
@@ -552,6 +681,7 @@
    "4961600007",
    "4961601007",
    "4961602007",
+   "5015257007",
    "5016403007",
    "5032254007",
    "5053420007",
@@ -611,7 +741,9 @@
    "5288663007",
    "5288672007",
    "5290454007",
-   "5292048007"
+   "5292048007",
+   "5294105007",
+   "5294144007"
   ],
   "Cognition": [
    "392b0b95-26e6-4fb8-841f-97e528acd711",
@@ -665,6 +797,54 @@
    "744000160544864"
   ],
   "Presien": [],
+  "Tyro Payments": [
+   "7801758",
+   "8027776",
+   "8226013",
+   "8370294",
+   "8514235",
+   "8534442",
+   "8541728",
+   "8654410",
+   "8676668"
+  ],
+  "Nuix": [
+   "8093426",
+   "8093495",
+   "8093595",
+   "8093715",
+   "8202008",
+   "8263046",
+   "8294799",
+   "8348739",
+   "8348741",
+   "8593500",
+   "8620788",
+   "8724102"
+  ],
+  "Orro Group": [
+   "7968016",
+   "8686294",
+   "8701348"
+  ],
+  "Pet Circle": [
+   "8514210",
+   "8534392",
+   "8586986",
+   "8587435",
+   "8654874",
+   "8661315"
+  ],
+  "Koala": [
+   "8326480",
+   "8482499",
+   "8612236",
+   "8633202",
+   "8669583"
+  ],
+  "DiUS": [
+   "8305897"
+  ],
   "Global Switch": []
  }
 }
