@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-14T11:38:45+00:00",
- "sydneyDate": "2026-11-14",
+ "generatedAt": "2026-11-14T15:20:12+00:00",
+ "sydneyDate": "2026-11-15",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 2,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -202,22 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "Legora",
-   "id": "08d0be3f-4212-4627-97d0-b190006a5e33",
-   "title": "Legal Data Strategy Director ",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/08d0be3f-4212-4627-97d0-b190006a5e33"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5216647007",
-   "title": "Senior Airworthiness Engineer - Advanced Effects",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216647007?gh_jid=5216647007"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
