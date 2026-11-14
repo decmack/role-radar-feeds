@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-13T16:43:52+00:00",
+ "generatedAt": "2026-11-14T11:38:45+00:00",
  "sydneyDate": "2026-11-14",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 1,
+ "newCount": 2,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -98,7 +98,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 785,
+   "total": 786,
    "australia": 24
   },
   "DoorDash": {
@@ -118,28 +118,28 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 338,
-   "australia": 13
+   "total": 341,
+   "australia": 14
   },
   "Nebius": {
    "status": "ok",
-   "total": 376,
+   "total": 374,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 115,
-   "australia": 9
+   "total": 99,
+   "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2587,
+   "total": 2599,
    "australia": 72
   },
   "Cognition": {
    "status": "ok",
-   "total": 114,
-   "australia": 5
+   "total": 112,
+   "australia": 4
   },
   "Neara": {
    "status": "ok",
@@ -204,11 +204,18 @@
  },
  "newRoles": [
   {
-   "company": "CDC Data Centres",
-   "id": "58E91C93FF",
-   "title": "Senior Legal Counsel - Mergers and Acquisitions",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://apply.workable.com/j/58E91C93FF"
+   "company": "Legora",
+   "id": "08d0be3f-4212-4627-97d0-b190006a5e33",
+   "title": "Legal Data Strategy Director ",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/08d0be3f-4212-4627-97d0-b190006a5e33"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5216647007",
+   "title": "Senior Airworthiness Engineer - Advanced Effects",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216647007?gh_jid=5216647007"
   }
  ],
  "openIds": {
@@ -530,6 +537,7 @@
   ],
   "Legora": [
    "045b2b5a-1347-4d37-b1cd-7fe77a60154e",
+   "08d0be3f-4212-4627-97d0-b190006a5e33",
    "1b2e302c-2f65-4d7a-8070-46d241f108cd",
    "3f8ea448-a415-4358-8daa-88fbdeb39a16",
    "5454001c-481c-490a-8ba5-63a3a80d3d05",
@@ -555,7 +563,6 @@
    "45abdab8-6d12-4e46-8108-e23aba34cec1",
    "65be8830-8f83-4420-baf3-5070fe19097d",
    "6d31e7ae-d3fb-483c-a62a-b1bc843b329e",
-   "79b07509-13dc-49d3-b133-2bc10d161f6f",
    "7b7362e4-d422-4c82-b536-6c0b40da177c",
    "8790d158-7bdc-43c0-bcb1-bbacb6e8f720",
    "a59371c8-cd50-48e3-9f21-4b79a6f0e3b2"
@@ -596,6 +603,7 @@
    "5209970007",
    "5210043007",
    "5214661007",
+   "5216647007",
    "5223352007",
    "5224758007",
    "5229521007",
@@ -613,7 +621,6 @@
    "5268176007",
    "5268178007",
    "5270752007",
-   "5272019007",
    "5272031007",
    "5274685007",
    "5275748007",
@@ -635,7 +642,6 @@
    "5294144007"
   ],
   "Cognition": [
-   "392b0b95-26e6-4fb8-841f-97e528acd711",
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
    "4bf50602-b880-40d2-9c8c-18d4372a8b02",
    "8e4c141b-ca44-459d-a842-474f6e090da1",
