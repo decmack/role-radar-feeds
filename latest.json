@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-15T12:04:34+00:00",
- "sydneyDate": "2026-11-15",
+ "generatedAt": "2026-11-15T15:51:59+00:00",
+ "sydneyDate": "2026-11-16",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
@@ -123,7 +123,7 @@
   },
   "Nebius": {
    "status": "ok",
-   "total": 373,
+   "total": 371,
    "australia": 4
   },
   "Cursor (Anysphere)": {
