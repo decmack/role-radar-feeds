@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T15:20:12+00:00",
+ "generatedAt": "2026-11-15T12:04:34+00:00",
  "sydneyDate": "2026-11-15",
  "baseline": false,
  "feedsOk": 39,
@@ -43,7 +43,7 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 29,
+   "total": 28,
    "australia": 5
   },
   "PEXA": {
@@ -98,7 +98,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 786,
+   "total": 785,
    "australia": 24
   },
   "DoorDash": {
@@ -123,7 +123,7 @@
   },
   "Nebius": {
    "status": "ok",
-   "total": 374,
+   "total": 373,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2599,
+   "total": 2598,
    "australia": 72
   },
   "Cognition": {
