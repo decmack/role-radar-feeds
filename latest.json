@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-16T12:57:50+00:00",
- "sydneyDate": "2026-11-16",
+ "generatedAt": "2026-11-16T18:53:11+00:00",
+ "sydneyDate": "2026-11-17",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 7,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -73,7 +73,7 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 93,
+   "total": 94,
    "australia": 24
   },
   "Silicon Quantum Computing": {
@@ -88,17 +88,17 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 99,
+   "total": 98,
    "australia": 33
   },
   "Airbnb": {
    "status": "ok",
-   "total": 209,
+   "total": 206,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 788,
+   "total": 789,
    "australia": 24
   },
   "DoorDash": {
@@ -108,7 +108,7 @@
   },
   "Block": {
    "status": "ok",
-   "total": 191,
+   "total": 184,
    "australia": 12
   },
   "Haast": {
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 342,
+   "total": 340,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 374,
+   "total": 372,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2593,
+   "total": 2603,
    "australia": 72
   },
   "Cognition": {
@@ -202,57 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "AirTrunk",
-   "id": "8201231003",
-   "title": "Senior Manager, Marketing",
-   "location": "AirTrunk HQ - North Sydney; North Shore, Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8201231003"
-  },
-  {
-   "company": "Legora",
-   "id": "ee5271ac-8205-4f44-983a-f8a4f2385d37",
-   "title": "Senior Manager - Partnerships APJ",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/ee5271ac-8205-4f44-983a-f8a4f2385d37"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5295926007",
-   "title": "Mechanical Design Engineer",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295926007?gh_jid=5295926007"
-  },
-  {
-   "company": "Quantium",
-   "id": "4008904201",
-   "title": "Category Insights Consultant | FMCG",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4008904201"
-  },
-  {
-   "company": "Nuix",
-   "id": "8744561",
-   "title": "Technical Trainer",
-   "location": "Sydney (AU), Sydney, Australia",
-   "url": "https://careers.nuix.com/jobs/8744561-technical-trainer"
-  },
-  {
-   "company": "Nuix",
-   "id": "8143423",
-   "title": "Sales Trainer - APAC",
-   "location": "Sydney (AU), Sydney, Australia",
-   "url": "https://careers.nuix.com/jobs/8143423-sales-trainer-apac"
-  },
-  {
-   "company": "Koala",
-   "id": "8694303",
-   "title": "Talent Acquisition Manager (Parental Cover)",
-   "location": "Sydney, Alexandria, Australia",
-   "url": "https://careers.koala.com/jobs/8694303-talent-acquisition-manager-parental-cover"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
