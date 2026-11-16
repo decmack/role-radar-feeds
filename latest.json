@@ -1,25 +1,25 @@
 {
- "generatedAt": "2026-11-15T15:51:59+00:00",
+ "generatedAt": "2026-11-16T12:57:50+00:00",
  "sydneyDate": "2026-11-16",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 7,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 67,
-   "australia": 23
+   "total": 68,
+   "australia": 24
   },
   "Deputy": {
    "status": "ok",
-   "total": 2,
+   "total": 3,
    "australia": 2
   },
   "Q-CTRL": {
    "status": "ok",
    "total": 34,
-   "australia": 17
+   "australia": 16
   },
   "Objective Corporation": {
    "status": "ok",
@@ -44,7 +44,7 @@
   "SiteMinder": {
    "status": "ok",
    "total": 28,
-   "australia": 5
+   "australia": 4
   },
   "PEXA": {
    "status": "ok",
@@ -58,7 +58,7 @@
   },
   "First Focus": {
    "status": "ok",
-   "total": 58,
+   "total": 59,
    "australia": 6
   },
   "Rokt": {
@@ -73,7 +73,7 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 95,
+   "total": 93,
    "australia": 24
   },
   "Silicon Quantum Computing": {
@@ -93,12 +93,12 @@
   },
   "Airbnb": {
    "status": "ok",
-   "total": 214,
+   "total": 209,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 785,
+   "total": 788,
    "australia": 24
   },
   "DoorDash": {
@@ -118,22 +118,22 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 341,
-   "australia": 14
+   "total": 342,
+   "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 371,
+   "total": 374,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 99,
+   "total": 97,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2598,
+   "total": 2593,
    "australia": 72
   },
   "Cognition": {
@@ -149,16 +149,16 @@
   "Quantium": {
    "status": "ok",
    "total": 32,
-   "australia": 19
+   "australia": 20
   },
   "Lyrebird Health": {
    "status": "ok",
-   "total": 8,
+   "total": 7,
    "australia": 0
   },
   "NEXTDC": {
    "status": "ok",
-   "total": 11,
+   "total": 10,
    "australia": 6
   },
   "Presien": {
@@ -173,8 +173,8 @@
   },
   "Nuix": {
    "status": "ok",
-   "total": 24,
-   "australia": 12
+   "total": 26,
+   "australia": 14
   },
   "Orro Group": {
    "status": "ok",
@@ -188,8 +188,8 @@
   },
   "Koala": {
    "status": "ok",
-   "total": 8,
-   "australia": 5
+   "total": 9,
+   "australia": 6
   },
   "DiUS": {
    "status": "ok",
@@ -202,7 +202,57 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "AirTrunk",
+   "id": "8201231003",
+   "title": "Senior Manager, Marketing",
+   "location": "AirTrunk HQ - North Sydney; North Shore, Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8201231003"
+  },
+  {
+   "company": "Legora",
+   "id": "ee5271ac-8205-4f44-983a-f8a4f2385d37",
+   "title": "Senior Manager - Partnerships APJ",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/ee5271ac-8205-4f44-983a-f8a4f2385d37"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5295926007",
+   "title": "Mechanical Design Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295926007?gh_jid=5295926007"
+  },
+  {
+   "company": "Quantium",
+   "id": "4008904201",
+   "title": "Category Insights Consultant | FMCG",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4008904201"
+  },
+  {
+   "company": "Nuix",
+   "id": "8744561",
+   "title": "Technical Trainer",
+   "location": "Sydney (AU), Sydney, Australia",
+   "url": "https://careers.nuix.com/jobs/8744561-technical-trainer"
+  },
+  {
+   "company": "Nuix",
+   "id": "8143423",
+   "title": "Sales Trainer - APAC",
+   "location": "Sydney (AU), Sydney, Australia",
+   "url": "https://careers.nuix.com/jobs/8143423-sales-trainer-apac"
+  },
+  {
+   "company": "Koala",
+   "id": "8694303",
+   "title": "Talent Acquisition Manager (Parental Cover)",
+   "location": "Sydney, Alexandria, Australia",
+   "url": "https://careers.koala.com/jobs/8694303-talent-acquisition-manager-parental-cover"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -227,7 +277,8 @@
    "8168553003",
    "8196354003",
    "8197364003",
-   "8198727003"
+   "8198727003",
+   "8201231003"
   ],
   "Deputy": [
    "73af4076-6528-4e07-ac5d-5cfcc215d0a5",
@@ -242,7 +293,6 @@
    "876f51d6-7e6c-410f-8fcb-b5dd31a4c107",
    "9fdb655f-6d02-44d6-8871-f28d18d2e253",
    "a3911edb-d50d-4151-af5c-791495e897d3",
-   "ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef",
    "c37ecfcd-a083-496e-bffa-d31f9473bec1",
    "c415bb14-9895-4e9e-b294-2a66c905561e",
    "d50cfb67-4b37-4ba9-9974-5e27659dd991",
@@ -300,7 +350,6 @@
   ],
   "SiteMinder": [
    "0d233b80-0970-49a5-adf0-dd43c9d5ab19",
-   "673eda7c-eaa3-43d8-8eee-576c26bab99e",
    "a34e20a3-a7cf-4d62-afc1-1122822d388f",
    "c75ddb78-49cf-441f-831c-4c47b823fd8c",
    "e97edf32-9db8-4792-9aa3-201a551f6f87"
@@ -532,9 +581,8 @@
    "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
    "abc14660-111d-4c03-a86a-a249039dedef",
    "df085356-554f-4d5b-97c0-50db79c83a00",
-   "e9ff9dde-62b4-4c8b-9c43-832ab60e3e9d",
    "eac71565-6fd2-40e6-a50c-7c4ea009e286",
-   "f95543e1-ea7a-46d3-b141-a1cb91f35136"
+   "ee5271ac-8205-4f44-983a-f8a4f2385d37"
   ],
   "Nebius": [
    "4902513101",
@@ -589,7 +637,6 @@
    "5210043007",
    "5214661007",
    "5216647007",
-   "5223352007",
    "5224758007",
    "5229521007",
    "5234247007",
@@ -624,7 +671,8 @@
    "5290454007",
    "5292048007",
    "5294105007",
-   "5294144007"
+   "5294144007",
+   "5295926007"
   ],
   "Cognition": [
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
@@ -665,7 +713,8 @@
    "4007692201",
    "4007897201",
    "4008590201",
-   "4008629201"
+   "4008629201",
+   "4008904201"
   ],
   "Lyrebird Health": [],
   "NEXTDC": [
@@ -693,6 +742,7 @@
    "8093495",
    "8093595",
    "8093715",
+   "8143423",
    "8202008",
    "8263046",
    "8294799",
@@ -700,7 +750,8 @@
    "8348741",
    "8593500",
    "8620788",
-   "8724102"
+   "8724102",
+   "8744561"
   ],
   "Orro Group": [
    "7968016",
@@ -720,7 +771,8 @@
    "8482499",
    "8612236",
    "8633202",
-   "8669583"
+   "8669583",
+   "8694303"
   ],
   "DiUS": [
    "8305897"
