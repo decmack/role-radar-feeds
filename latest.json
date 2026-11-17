@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-16T18:53:11+00:00",
- "sydneyDate": "2026-11-17",
+ "generatedAt": "2026-11-17T13:40:07+00:00",
+ "sydneyDate": "2026-11-18",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 7,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 68,
-   "australia": 24
+   "total": 66,
+   "australia": 22
   },
   "Deputy": {
    "status": "ok",
@@ -38,7 +38,7 @@
   },
   "Harrison.ai": {
    "status": "ok",
-   "total": 6,
+   "total": 8,
    "australia": 3
   },
   "SiteMinder": {
@@ -48,7 +48,7 @@
   },
   "PEXA": {
    "status": "ok",
-   "total": 3,
+   "total": 4,
    "australia": 0
   },
   "Firmus": {
@@ -89,26 +89,26 @@
   "Xero": {
    "status": "ok",
    "total": 98,
-   "australia": 33
+   "australia": 32
   },
   "Airbnb": {
    "status": "ok",
-   "total": 206,
+   "total": 205,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 789,
+   "total": 794,
    "australia": 24
   },
   "DoorDash": {
    "status": "ok",
-   "total": 24,
-   "australia": 18
+   "total": 20,
+   "australia": 15
   },
   "Block": {
    "status": "ok",
-   "total": 184,
+   "total": 185,
    "australia": 12
   },
   "Haast": {
@@ -118,23 +118,23 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 340,
+   "total": 345,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 372,
+   "total": 369,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 97,
+   "total": 95,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2603,
-   "australia": 72
+   "total": 2614,
+   "australia": 71
   },
   "Cognition": {
    "status": "ok",
@@ -144,16 +144,16 @@
   "Neara": {
    "status": "ok",
    "total": 39,
-   "australia": 12
+   "australia": 11
   },
   "Quantium": {
    "status": "ok",
-   "total": 32,
-   "australia": 20
+   "total": 35,
+   "australia": 23
   },
   "Lyrebird Health": {
    "status": "ok",
-   "total": 7,
+   "total": 8,
    "australia": 0
   },
   "NEXTDC": {
@@ -178,8 +178,8 @@
   },
   "Orro Group": {
    "status": "ok",
-   "total": 9,
-   "australia": 3
+   "total": 8,
+   "australia": 2
   },
   "Pet Circle": {
    "status": "ok",
@@ -202,12 +202,61 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "Macquarie Technology Group",
+   "id": "d5cc9e79-acfd-4a2b-8fff-8e09786897d7",
+   "title": "Graduate Program: Networking, Operations and Cyber",
+   "location": "Sydney, NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/d5cc9e79-acfd-4a2b-8fff-8e09786897d7"
+  },
+  {
+   "company": "Xero",
+   "id": "b5d8ca65-c368-4dae-9e48-307b426e6147",
+   "title": "Principal Engineer",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/b5d8ca65-c368-4dae-9e48-307b426e6147"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5294748007",
+   "title": "Senior Airworthiness Engineer - Autonomous Airpower",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294748007?gh_jid=5294748007"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5179637007",
+   "title": "Technical Recruiter,  Production - Air Dominance and Strike  (Contract)",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179637007?gh_jid=5179637007"
+  },
+  {
+   "company": "Quantium",
+   "id": "4006039201",
+   "title": "Engineering Lead",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4006039201"
+  },
+  {
+   "company": "Quantium",
+   "id": "4009540201",
+   "title": "Principal Security Engineer - AI Security (6-month Contract)",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4009540201"
+  },
+  {
+   "company": "Quantium",
+   "id": "4009697201",
+   "title": "Sales Specialist - Scam, Fraud & Identity ",
+   "location": "Sydney ",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4009697201"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
    "7671493003",
-   "7724233003",
    "7796557003",
    "7807675003",
    "7983006003",
@@ -219,7 +268,6 @@
    "8014196003",
    "8028949003",
    "8032434003",
-   "8034263003",
    "8042310003",
    "8045767003",
    "8060506003",
@@ -268,11 +316,11 @@
    "0a392b11-72eb-4a21-9f5c-225a0bdead29",
    "26edad82-7b7e-447b-a6c9-0cde4d304f8f",
    "438402ef-83e3-4759-a131-ab19a053d4d9",
-   "4abeb8aa-d10a-4432-b1c0-aaca9931d334",
    "63f40f56-736b-4629-ad66-fe07963336ab",
    "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
    "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
    "d2da8d92-a2e2-4702-95b5-02a06d0eb0f3",
+   "d5cc9e79-acfd-4a2b-8fff-8e09786897d7",
    "e231d96a-44ef-4e02-a952-311272a62954",
    "e6df010f-441e-4061-9799-fc62385d0598"
   ],
@@ -419,7 +467,6 @@
    "0950bd50-2ea2-41c3-8bba-4afd9cf060d6",
    "09fa178b-b997-4f48-ae19-b8a61919cef0",
    "0c345d63-dcc1-4fa0-b521-a0fb6fff29ca",
-   "1034dc04-f897-47a6-a965-033b61cfc212",
    "138b9018-6c2a-47cc-93f0-53545fa604a9",
    "1c62a5d8-3fa7-4ff7-a3b6-366198904eed",
    "21751d35-7851-4c2d-a2ab-1ac68cfcdcec",
@@ -427,7 +474,6 @@
    "2ed8d301-092a-4717-92c1-39568e06e7c6",
    "3954a3b2-6f34-4b29-984c-77f5d5ca813e",
    "4208d853-f717-4cae-bbc1-126275760ecf",
-   "468c853d-a9d7-4848-b663-656825ea985e",
    "476734a4-efd8-488c-ac6a-20c52bc07a5d",
    "4f9a785e-0cd4-4e96-ba9e-d0cccc2e29e5",
    "5a81fcc0-a3a5-410e-8f96-22afd2c09116",
@@ -440,6 +486,7 @@
    "9eef7111-d180-4e9e-a3df-f5f36f8b61f8",
    "a08cc01c-ad36-485e-9442-d661bfa4cf3a",
    "ad759cb7-dde3-40d9-b5e7-fb73c907a668",
+   "b5d8ca65-c368-4dae-9e48-307b426e6147",
    "b8dda96e-f152-49a8-822b-aaa6c178c0db",
    "c1e862f2-feab-4940-b822-fd265f2fb1f3",
    "ce864d81-9870-412d-85da-c71538790961",
@@ -490,16 +537,13 @@
    "7300101",
    "7518634",
    "7821986",
-   "7967490",
    "8048483",
    "8105485",
-   "8143160",
    "8155274",
    "8185846",
    "8232945",
    "8232996",
    "8279393",
-   "8300413",
    "8301351"
   ],
   "Block": [
@@ -560,7 +604,6 @@
    "4961600007",
    "4961601007",
    "4961602007",
-   "5015257007",
    "5016403007",
    "5032254007",
    "5053420007",
@@ -579,6 +622,7 @@
    "5176757007",
    "5176763007",
    "5176765007",
+   "5179637007",
    "5198217007",
    "5201424007",
    "5206616007",
@@ -594,8 +638,6 @@
    "5241796007",
    "5246828007",
    "5247862007",
-   "5253771007",
-   "5253779007",
    "5254411007",
    "5263771007",
    "5263876007",
@@ -622,6 +664,7 @@
    "5292048007",
    "5294105007",
    "5294144007",
+   "5294748007",
    "5295926007"
   ],
   "Cognition": [
@@ -634,7 +677,6 @@
    "11e025a4-7697-46f1-b9ad-bbf3f0980949",
    "196f8d8c-6556-4eca-8b03-b34e1946e76a",
    "1ea30af7-974f-49cf-8742-edcfc4230c52",
-   "250fc7e8-efa6-4af6-a643-cb029133e0d6",
    "357478aa-cfae-42c0-b2b9-b90dd9be1e38",
    "42e1da92-26a4-44ff-87c4-d6295de17fb8",
    "5d5bc539-94cc-46dc-b3cb-8336e03e6378",
@@ -653,6 +695,7 @@
    "4005586201",
    "4005587201",
    "4005991201",
+   "4006039201",
    "4006746201",
    "4006762201",
    "4006772201",
@@ -664,7 +707,9 @@
    "4007897201",
    "4008590201",
    "4008629201",
-   "4008904201"
+   "4008904201",
+   "4009540201",
+   "4009697201"
   ],
   "Lyrebird Health": [],
   "NEXTDC": [
@@ -704,7 +749,6 @@
    "8744561"
   ],
   "Orro Group": [
-   "7968016",
    "8686294",
    "8701348"
   ],
