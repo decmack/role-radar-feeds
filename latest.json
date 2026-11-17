@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-17T13:40:07+00:00",
+ "generatedAt": "2026-11-17T17:51:42+00:00",
  "sydneyDate": "2026-11-18",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 7,
+ "newCount": 2,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -88,12 +88,12 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 98,
+   "total": 103,
    "australia": 32
   },
   "Airbnb": {
    "status": "ok",
-   "total": 205,
+   "total": 203,
    "australia": 5
   },
   "Stripe": {
@@ -103,12 +103,12 @@
   },
   "DoorDash": {
    "status": "ok",
-   "total": 20,
-   "australia": 15
+   "total": 19,
+   "australia": 14
   },
   "Block": {
    "status": "ok",
-   "total": 185,
+   "total": 188,
    "australia": 12
   },
   "Haast": {
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 345,
+   "total": 347,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 369,
+   "total": 371,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -134,7 +134,7 @@
   "Anduril Industries": {
    "status": "ok",
    "total": 2614,
-   "australia": 71
+   "australia": 73
   },
   "Cognition": {
    "status": "ok",
@@ -143,7 +143,7 @@
   },
   "Neara": {
    "status": "ok",
-   "total": 39,
+   "total": 38,
    "australia": 11
   },
   "Quantium": {
@@ -198,59 +198,24 @@
   },
   "Global Switch": {
    "status": "ok",
-   "total": 18,
+   "total": 19,
    "australia": 0
   }
  },
  "newRoles": [
   {
-   "company": "Macquarie Technology Group",
-   "id": "d5cc9e79-acfd-4a2b-8fff-8e09786897d7",
-   "title": "Graduate Program: Networking, Operations and Cyber",
-   "location": "Sydney, NSW 2000",
-   "url": "https://jobs.lever.co/macquarietechnologygroup/d5cc9e79-acfd-4a2b-8fff-8e09786897d7"
-  },
-  {
-   "company": "Xero",
-   "id": "b5d8ca65-c368-4dae-9e48-307b426e6147",
-   "title": "Principal Engineer",
-   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/b5d8ca65-c368-4dae-9e48-307b426e6147"
+   "company": "Anduril Industries",
+   "id": "5298294007",
+   "title": "Security Outcomes Program Lead",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298294007?gh_jid=5298294007"
   },
   {
    "company": "Anduril Industries",
-   "id": "5294748007",
-   "title": "Senior Airworthiness Engineer - Autonomous Airpower",
+   "id": "5298282007",
+   "title": "Vulnerability Security Engineer",
    "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294748007?gh_jid=5294748007"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5179637007",
-   "title": "Technical Recruiter,  Production - Air Dominance and Strike  (Contract)",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179637007?gh_jid=5179637007"
-  },
-  {
-   "company": "Quantium",
-   "id": "4006039201",
-   "title": "Engineering Lead",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4006039201"
-  },
-  {
-   "company": "Quantium",
-   "id": "4009540201",
-   "title": "Principal Security Engineer - AI Security (6-month Contract)",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4009540201"
-  },
-  {
-   "company": "Quantium",
-   "id": "4009697201",
-   "title": "Sales Specialist - Scam, Fraud & Identity ",
-   "location": "Sydney ",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4009697201"
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298282007?gh_jid=5298282007"
   }
  ],
  "openIds": {
@@ -538,7 +503,6 @@
    "7518634",
    "7821986",
    "8048483",
-   "8105485",
    "8155274",
    "8185846",
    "8232945",
@@ -665,7 +629,9 @@
    "5294105007",
    "5294144007",
    "5294748007",
-   "5295926007"
+   "5295926007",
+   "5298282007",
+   "5298294007"
   ],
   "Cognition": [
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
