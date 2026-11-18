@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-18T13:14:30+00:00",
+ "generatedAt": "2026-11-18T17:31:12+00:00",
  "sydneyDate": "2026-11-19",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 8,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -33,7 +33,7 @@
   },
   "SafetyCulture (Mitti)": {
    "status": "ok",
-   "total": 31,
+   "total": 34,
    "australia": 15
   },
   "Harrison.ai": {
@@ -93,12 +93,12 @@
   },
   "Airbnb": {
    "status": "ok",
-   "total": 199,
+   "total": 202,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 788,
+   "total": 792,
    "australia": 25
   },
   "DoorDash": {
@@ -108,7 +108,7 @@
   },
   "Block": {
    "status": "ok",
-   "total": 187,
+   "total": 186,
    "australia": 13
   },
   "Haast": {
@@ -118,22 +118,22 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 340,
+   "total": 341,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 371,
+   "total": 369,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 94,
+   "total": 95,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2613,
+   "total": 2615,
    "australia": 74
   },
   "Cognition": {
@@ -173,7 +173,7 @@
   },
   "Nuix": {
    "status": "ok",
-   "total": 26,
+   "total": 25,
    "australia": 14
   },
   "Orro Group": {
@@ -202,64 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "AirTrunk",
-   "id": "8207762003",
-   "title": "Associate Director, Environment, Health and Safety Data Centre Operations",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207762003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "8197366003",
-   "title": "Senior Technical Services Manager",
-   "location": "Western Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197366003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "8197359003",
-   "title": "Technical Services Manager",
-   "location": "Western Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197359003"
-  },
-  {
-   "company": "Stripe",
-   "id": "8355353",
-   "title": "Account Executive Product - Radar (AUNZ)",
-   "location": "Australia",
-   "url": "https://stripe.com/jobs/search?gh_jid=8355353"
-  },
-  {
-   "company": "Block",
-   "id": "5485447008",
-   "title": "Channel Sales Support Agent",
-   "location": "Sydney, Australia",
-   "url": "http://block.xyz/careers/jobs/5485447008?gh_jid=5485447008"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5299201007",
-   "title": "Senior Manager, Corporate Technology APAC",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5299201007?gh_jid=5299201007"
-  },
-  {
-   "company": "Quantium",
-   "id": "4006250201",
-   "title": "Senior FP&A and Reporting Analyst",
-   "location": "Sydney ",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4006250201"
-  },
-  {
-   "company": "Tyro Payments",
-   "id": "8758695",
-   "title": "Engineering Lead- Core Payments",
-   "location": "Sydney, Australia",
-   "url": "https://careers.tyro.com/jobs/8758695-engineering-lead-core-payments"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
