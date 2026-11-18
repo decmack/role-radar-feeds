@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-17T17:51:42+00:00",
- "sydneyDate": "2026-11-18",
+ "generatedAt": "2026-11-18T13:14:30+00:00",
+ "sydneyDate": "2026-11-19",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 2,
+ "newCount": 8,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 66,
-   "australia": 22
+   "total": 68,
+   "australia": 25
   },
   "Deputy": {
    "status": "ok",
@@ -23,8 +23,8 @@
   },
   "Objective Corporation": {
    "status": "ok",
-   "total": 13,
-   "australia": 10
+   "total": 12,
+   "australia": 9
   },
   "Macquarie Technology Group": {
    "status": "ok",
@@ -43,7 +43,7 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 28,
+   "total": 30,
    "australia": 4
   },
   "PEXA": {
@@ -83,8 +83,8 @@
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 62,
-   "australia": 22
+   "total": 61,
+   "australia": 21
   },
   "Xero": {
    "status": "ok",
@@ -93,13 +93,13 @@
   },
   "Airbnb": {
    "status": "ok",
-   "total": 203,
+   "total": 199,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 794,
-   "australia": 24
+   "total": 788,
+   "australia": 25
   },
   "DoorDash": {
    "status": "ok",
@@ -108,8 +108,8 @@
   },
   "Block": {
    "status": "ok",
-   "total": 188,
-   "australia": 12
+   "total": 187,
+   "australia": 13
   },
   "Haast": {
    "status": "ok",
@@ -118,7 +118,7 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 347,
+   "total": 340,
    "australia": 13
   },
   "Nebius": {
@@ -128,17 +128,17 @@
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 95,
+   "total": 94,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2614,
-   "australia": 73
+   "total": 2613,
+   "australia": 74
   },
   "Cognition": {
    "status": "ok",
-   "total": 112,
+   "total": 110,
    "australia": 4
   },
   "Neara": {
@@ -193,8 +193,8 @@
   },
   "DiUS": {
    "status": "ok",
-   "total": 1,
-   "australia": 1
+   "total": 0,
+   "australia": 0
   },
   "Global Switch": {
    "status": "ok",
@@ -204,18 +204,60 @@
  },
  "newRoles": [
   {
-   "company": "Anduril Industries",
-   "id": "5298294007",
-   "title": "Security Outcomes Program Lead",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298294007?gh_jid=5298294007"
+   "company": "AirTrunk",
+   "id": "8207762003",
+   "title": "Associate Director, Environment, Health and Safety Data Centre Operations",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207762003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8197366003",
+   "title": "Senior Technical Services Manager",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197366003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8197359003",
+   "title": "Technical Services Manager",
+   "location": "Western Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197359003"
+  },
+  {
+   "company": "Stripe",
+   "id": "8355353",
+   "title": "Account Executive Product - Radar (AUNZ)",
+   "location": "Australia",
+   "url": "https://stripe.com/jobs/search?gh_jid=8355353"
+  },
+  {
+   "company": "Block",
+   "id": "5485447008",
+   "title": "Channel Sales Support Agent",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5485447008?gh_jid=5485447008"
   },
   {
    "company": "Anduril Industries",
-   "id": "5298282007",
-   "title": "Vulnerability Security Engineer",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5298282007?gh_jid=5298282007"
+   "id": "5299201007",
+   "title": "Senior Manager, Corporate Technology APAC",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5299201007?gh_jid=5299201007"
+  },
+  {
+   "company": "Quantium",
+   "id": "4006250201",
+   "title": "Senior FP&A and Reporting Analyst",
+   "location": "Sydney ",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4006250201"
+  },
+  {
+   "company": "Tyro Payments",
+   "id": "8758695",
+   "title": "Engineering Lead- Core Payments",
+   "location": "Sydney, Australia",
+   "url": "https://careers.tyro.com/jobs/8758695-engineering-lead-core-payments"
   }
  ],
  "openIds": {
@@ -239,9 +281,12 @@
    "8168410003",
    "8168553003",
    "8196354003",
+   "8197359003",
    "8197364003",
+   "8197366003",
    "8198727003",
-   "8201231003"
+   "8201231003",
+   "8207762003"
   ],
   "Deputy": [
    "73af4076-6528-4e07-ac5d-5cfcc215d0a5",
@@ -271,7 +316,6 @@
    "1271fa98-e7c3-4d05-841e-231cfc25d392",
    "21d3b66a-af8d-4ec8-b98c-b60b8e0d9f01",
    "2bd11560-d0a6-4947-89b2-91bfb7a2e097",
-   "6c7dda47-fe65-4368-af44-4acb394185c5",
    "9f5190e5-1186-4838-bef4-e0c285a0f1a8",
    "bc3aeea3-4e1c-47aa-a7ce-13443d41add1",
    "c7568f5f-dc2b-412f-bee0-9b8182f2efb8",
@@ -408,7 +452,6 @@
    "1D49986404",
    "3530EDC7A5",
    "358675DA81",
-   "43322843D4",
    "468A56A229",
    "58E91C93FF",
    "5C34BF3173",
@@ -492,7 +535,8 @@
    "8336023",
    "8351500",
    "8352045",
-   "8352148"
+   "8352148",
+   "8355353"
   ],
   "DoorDash": [
    "7123179",
@@ -522,7 +566,8 @@
    "5467707008",
    "5471298008",
    "5474380008",
-   "5481026008"
+   "5481026008",
+   "5485447008"
   ],
   "Haast": [
    "2e9b6ff7-9564-4f39-a009-0ae9d501b76f"
@@ -631,7 +676,8 @@
    "5294748007",
    "5295926007",
    "5298282007",
-   "5298294007"
+   "5298294007",
+   "5299201007"
   ],
   "Cognition": [
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
@@ -654,7 +700,6 @@
   ],
   "Quantium": [
    "4003817201",
-   "4004455201",
    "4005506201",
    "4005542201",
    "4005581201",
@@ -662,6 +707,7 @@
    "4005587201",
    "4005991201",
    "4006039201",
+   "4006250201",
    "4006746201",
    "4006762201",
    "4006772201",
@@ -689,14 +735,14 @@
   "Presien": [],
   "Tyro Payments": [
    "7801758",
-   "8027776",
    "8226013",
    "8370294",
    "8514235",
    "8534442",
    "8541728",
    "8654410",
-   "8676668"
+   "8676668",
+   "8758695"
   ],
   "Nuix": [
    "8093426",
@@ -734,9 +780,7 @@
    "8669583",
    "8694303"
   ],
-  "DiUS": [
-   "8305897"
-  ],
+  "DiUS": [],
   "Global Switch": []
  }
 }
