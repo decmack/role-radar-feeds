@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-19T13:35:37+00:00",
+ "generatedAt": "2026-11-19T17:38:10+00:00",
  "sydneyDate": "2026-11-20",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 4,
+ "newCount": 1,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -88,27 +88,27 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 102,
+   "total": 101,
    "australia": 32
   },
   "Airbnb": {
    "status": "ok",
-   "total": 197,
+   "total": 199,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 780,
+   "total": 781,
    "australia": 24
   },
   "DoorDash": {
    "status": "ok",
-   "total": 19,
-   "australia": 14
+   "total": 20,
+   "australia": 15
   },
   "Block": {
    "status": "ok",
-   "total": 187,
+   "total": 186,
    "australia": 13
   },
   "Haast": {
@@ -118,22 +118,22 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 344,
+   "total": 342,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 372,
+   "total": 371,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 92,
+   "total": 90,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2620,
+   "total": 2610,
    "australia": 74
   },
   "Cognition": {
@@ -204,32 +204,11 @@
  },
  "newRoles": [
   {
-   "company": "Objective Corporation",
-   "id": "c7c8f875-5e32-43af-ae5f-d1107c8a3974",
-   "title": "Account Manager",
-   "location": "Sydney | Wellington",
-   "url": "https://jobs.lever.co/objective/c7c8f875-5e32-43af-ae5f-d1107c8a3974"
-  },
-  {
-   "company": "SafetyCulture (Mitti)",
-   "id": "0faee637-985f-4ee5-9bfa-dda75d0a19a1",
-   "title": "Staff Platform Engineer",
-   "location": "Sydney | Sydney | NSW | Australia",
-   "url": "https://jobs.ashbyhq.com/mitti/0faee637-985f-4ee5-9bfa-dda75d0a19a1"
-  },
-  {
-   "company": "Eucalyptus",
-   "id": "4755905005",
-   "title": "Product Designer",
-   "location": "AU - HQ - NSW",
-   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4755905005"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5281238007",
-   "title": "Senior Production Manager",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281238007?gh_jid=5281238007"
+   "company": "DoorDash",
+   "id": "8399131",
+   "title": "Critical Incident Response Agent",
+   "location": "Sydney, NSW",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8399131"
   }
  ],
  "openIds": {
@@ -524,7 +503,8 @@
    "8232945",
    "8232996",
    "8279393",
-   "8301351"
+   "8301351",
+   "8399131"
   ],
   "Block": [
    "4983725008",
