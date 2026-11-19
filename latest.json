@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-18T17:31:12+00:00",
- "sydneyDate": "2026-11-19",
+ "generatedAt": "2026-11-19T13:35:37+00:00",
+ "sydneyDate": "2026-11-20",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 4,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
    "total": 68,
-   "australia": 25
+   "australia": 24
   },
   "Deputy": {
    "status": "ok",
@@ -23,8 +23,8 @@
   },
   "Objective Corporation": {
    "status": "ok",
-   "total": 12,
-   "australia": 9
+   "total": 13,
+   "australia": 10
   },
   "Macquarie Technology Group": {
    "status": "ok",
@@ -33,7 +33,7 @@
   },
   "SafetyCulture (Mitti)": {
    "status": "ok",
-   "total": 34,
+   "total": 33,
    "australia": 15
   },
   "Harrison.ai": {
@@ -43,12 +43,12 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 30,
+   "total": 32,
    "australia": 4
   },
   "PEXA": {
    "status": "ok",
-   "total": 4,
+   "total": 3,
    "australia": 0
   },
   "Firmus": {
@@ -58,7 +58,7 @@
   },
   "First Focus": {
    "status": "ok",
-   "total": 59,
+   "total": 61,
    "australia": 6
   },
   "Rokt": {
@@ -73,8 +73,8 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 94,
-   "australia": 24
+   "total": 95,
+   "australia": 25
   },
   "Silicon Quantum Computing": {
    "status": "ok",
@@ -88,18 +88,18 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 103,
+   "total": 102,
    "australia": 32
   },
   "Airbnb": {
    "status": "ok",
-   "total": 202,
+   "total": 197,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 792,
-   "australia": 25
+   "total": 780,
+   "australia": 24
   },
   "DoorDash": {
    "status": "ok",
@@ -108,7 +108,7 @@
   },
   "Block": {
    "status": "ok",
-   "total": 186,
+   "total": 187,
    "australia": 13
   },
   "Haast": {
@@ -118,27 +118,27 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 341,
+   "total": 344,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 369,
+   "total": 372,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 95,
+   "total": 92,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2615,
+   "total": 2620,
    "australia": 74
   },
   "Cognition": {
    "status": "ok",
-   "total": 110,
+   "total": 109,
    "australia": 4
   },
   "Neara": {
@@ -148,12 +148,12 @@
   },
   "Quantium": {
    "status": "ok",
-   "total": 35,
-   "australia": 23
+   "total": 34,
+   "australia": 22
   },
   "Lyrebird Health": {
    "status": "ok",
-   "total": 8,
+   "total": 9,
    "australia": 0
   },
   "NEXTDC": {
@@ -168,8 +168,8 @@
   },
   "Tyro Payments": {
    "status": "ok",
-   "total": 10,
-   "australia": 9
+   "total": 9,
+   "australia": 8
   },
   "Nuix": {
    "status": "ok",
@@ -202,7 +202,36 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "Objective Corporation",
+   "id": "c7c8f875-5e32-43af-ae5f-d1107c8a3974",
+   "title": "Account Manager",
+   "location": "Sydney | Wellington",
+   "url": "https://jobs.lever.co/objective/c7c8f875-5e32-43af-ae5f-d1107c8a3974"
+  },
+  {
+   "company": "SafetyCulture (Mitti)",
+   "id": "0faee637-985f-4ee5-9bfa-dda75d0a19a1",
+   "title": "Staff Platform Engineer",
+   "location": "Sydney | Sydney | NSW | Australia",
+   "url": "https://jobs.ashbyhq.com/mitti/0faee637-985f-4ee5-9bfa-dda75d0a19a1"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4755905005",
+   "title": "Product Designer",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4755905005"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5281238007",
+   "title": "Senior Production Manager",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281238007?gh_jid=5281238007"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -213,7 +242,6 @@
    "7997901003",
    "8004119003",
    "8004124003",
-   "8009001003",
    "8010160003",
    "8014196003",
    "8028949003",
@@ -262,6 +290,7 @@
    "9f5190e5-1186-4838-bef4-e0c285a0f1a8",
    "bc3aeea3-4e1c-47aa-a7ce-13443d41add1",
    "c7568f5f-dc2b-412f-bee0-9b8182f2efb8",
+   "c7c8f875-5e32-43af-ae5f-d1107c8a3974",
    "ec91cce4-a9b0-4386-9495-4400f1a72a49"
   ],
   "Macquarie Technology Group": [
@@ -279,13 +308,13 @@
   "SafetyCulture (Mitti)": [
    "01f6c3d5-6c06-47c2-b6c5-d97b92635772",
    "0da9a784-d6ed-47a6-a6df-3b3ae6a94c5e",
+   "0faee637-985f-4ee5-9bfa-dda75d0a19a1",
    "1792b6c6-535c-4e9b-9f74-594d7939ee06",
    "3288caef-85bc-41f1-9107-ab65c1c5c247",
    "4dd0ebe0-b04b-4b83-9952-9d4251a7a58e",
    "5a73bfb8-28df-4e89-9864-ca9002cf790b",
    "645682ac-10cb-4dd4-a741-b46bc661c4c1",
    "6b5e07ab-8da4-419f-bff5-7a7cdc9bb623",
-   "6c88ed9e-6f3d-478d-8155-e325067171fb",
    "905e6a1c-f6dd-4c99-a146-8341eecca06b",
    "9c69b527-1554-448e-848c-144539c9a0f0",
    "aa6353e6-0db4-4d0d-a090-d3ef32927436",
@@ -376,7 +405,8 @@
    "4751734005",
    "4751736005",
    "4751738005",
-   "4753857005"
+   "4753857005",
+   "4755905005"
   ],
   "Silicon Quantum Computing": [
    "4005048201",
@@ -465,7 +495,6 @@
    "8175647",
    "8175824",
    "8179347",
-   "8212672",
    "8224617",
    "8238733",
    "8258078",
@@ -591,7 +620,6 @@
    "5246828007",
    "5247862007",
    "5254411007",
-   "5263771007",
    "5263876007",
    "5267096007",
    "5268176007",
@@ -602,6 +630,7 @@
    "5275748007",
    "5275941007",
    "5278315007",
+   "5281238007",
    "5281256007",
    "5282977007",
    "5283885007",
@@ -660,7 +689,6 @@
    "4007653201",
    "4007692201",
    "4007897201",
-   "4008590201",
    "4008629201",
    "4008904201",
    "4009540201",
@@ -677,7 +705,6 @@
   ],
   "Presien": [],
   "Tyro Payments": [
-   "7801758",
    "8226013",
    "8370294",
    "8514235",
