@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T13:16:22+00:00",
+ "generatedAt": "2026-11-20T17:14:36+00:00",
  "sydneyDate": "2026-11-21",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 11,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -93,12 +93,12 @@
   },
   "Airbnb": {
    "status": "ok",
-   "total": 201,
+   "total": 202,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 773,
+   "total": 778,
    "australia": 24
   },
   "DoorDash": {
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 340,
+   "total": 338,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 369,
+   "total": 368,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2623,
+   "total": 2637,
    "australia": 73
   },
   "Cognition": {
@@ -202,85 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "AirTrunk",
-   "id": "8209808003",
-   "title": "Senior Manager, Reward",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8209808003"
-  },
-  {
-   "company": "Macquarie Technology Group",
-   "id": "4acef10d-d48d-4d46-babc-eaa3d3963bed",
-   "title": "Design Delivery Manager - Data Centres",
-   "location": "2 Market Street, Sydney NSW 2000",
-   "url": "https://jobs.lever.co/macquarietechnologygroup/4acef10d-d48d-4d46-babc-eaa3d3963bed"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "f0f45d41-9cda-4f84-ac23-b9f608c29841",
-   "title": "Head of Design",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/f0f45d41-9cda-4f84-ac23-b9f608c29841"
-  },
-  {
-   "company": "Eucalyptus",
-   "id": "4757149005",
-   "title": "Medical Researcher, Australia",
-   "location": "AU - HQ - NSW",
-   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4757149005"
-  },
-  {
-   "company": "Xero",
-   "id": "dbfc4c14-2b57-4542-b4bf-e9d54e2bb9fd",
-   "title": "Data & Analytics Enablement Lead, G&A",
-   "location": "AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/dbfc4c14-2b57-4542-b4bf-e9d54e2bb9fd"
-  },
-  {
-   "company": "Xero",
-   "id": "a7d02205-19ea-40ba-80e0-1c9a448998c3",
-   "title": "Data & Analytics Enablement Lead, G&A",
-   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/a7d02205-19ea-40ba-80e0-1c9a448998c3"
-  },
-  {
-   "company": "Xero",
-   "id": "6c8a857d-0e7a-4d6e-a6de-3bff8193adab",
-   "title": "Data & Analytics Enablement Lead, G&A",
-   "location": "NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Auckland | Auckland | New Zealand",
-   "url": "https://jobs.ashbyhq.com/xero/6c8a857d-0e7a-4d6e-a6de-3bff8193adab"
-  },
-  {
-   "company": "Xero",
-   "id": "de66e942-0596-4038-91f0-b2d328a7463d",
-   "title": "Administrative Assistant (10 month Fixed Term Contract)",
-   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/de66e942-0596-4038-91f0-b2d328a7463d"
-  },
-  {
-   "company": "Xero",
-   "id": "a739d7b6-a36e-4ae7-a5b5-57c85586ba5b",
-   "title": "Administrative Assistant (10 month Fixed Term Contract)",
-   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/a739d7b6-a36e-4ae7-a5b5-57c85586ba5b"
-  },
-  {
-   "company": "Block",
-   "id": "5490210008",
-   "title": "Account Manager, SMB",
-   "location": "Sydney, Australia",
-   "url": "http://block.xyz/careers/jobs/5490210008?gh_jid=5490210008"
-  },
-  {
-   "company": "Block",
-   "id": "5317296008",
-   "title": "Account Manager, SMB",
-   "location": "Sydney, Australia",
-   "url": "http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
