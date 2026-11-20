@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-19T17:38:10+00:00",
- "sydneyDate": "2026-11-20",
+ "generatedAt": "2026-11-20T13:16:22+00:00",
+ "sydneyDate": "2026-11-21",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 1,
+ "newCount": 11,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 68,
-   "australia": 24
+   "total": 70,
+   "australia": 25
   },
   "Deputy": {
    "status": "ok",
@@ -28,8 +28,8 @@
   },
   "Macquarie Technology Group": {
    "status": "ok",
-   "total": 12,
-   "australia": 10
+   "total": 13,
+   "australia": 11
   },
   "SafetyCulture (Mitti)": {
    "status": "ok",
@@ -44,7 +44,7 @@
   "SiteMinder": {
    "status": "ok",
    "total": 32,
-   "australia": 4
+   "australia": 5
   },
   "PEXA": {
    "status": "ok",
@@ -53,8 +53,8 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 70,
-   "australia": 30
+   "total": 66,
+   "australia": 27
   },
   "First Focus": {
    "status": "ok",
@@ -73,13 +73,13 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 95,
-   "australia": 25
+   "total": 94,
+   "australia": 26
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 10,
-   "australia": 10
+   "total": 5,
+   "australia": 5
   },
   "CDC Data Centres": {
    "status": "ok",
@@ -88,28 +88,28 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 101,
-   "australia": 32
+   "total": 108,
+   "australia": 37
   },
   "Airbnb": {
    "status": "ok",
-   "total": 199,
+   "total": 201,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 781,
+   "total": 773,
    "australia": 24
   },
   "DoorDash": {
    "status": "ok",
-   "total": 20,
-   "australia": 15
+   "total": 19,
+   "australia": 14
   },
   "Block": {
    "status": "ok",
-   "total": 186,
-   "australia": 13
+   "total": 184,
+   "australia": 15
   },
   "Haast": {
    "status": "ok",
@@ -118,27 +118,27 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 342,
+   "total": 340,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 371,
+   "total": 369,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 90,
+   "total": 88,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2610,
-   "australia": 74
+   "total": 2623,
+   "australia": 73
   },
   "Cognition": {
    "status": "ok",
-   "total": 109,
+   "total": 108,
    "australia": 4
   },
   "Neara": {
@@ -158,7 +158,7 @@
   },
   "NEXTDC": {
    "status": "ok",
-   "total": 10,
+   "total": 11,
    "australia": 6
   },
   "Presien": {
@@ -173,12 +173,12 @@
   },
   "Nuix": {
    "status": "ok",
-   "total": 25,
+   "total": 24,
    "australia": 14
   },
   "Orro Group": {
    "status": "ok",
-   "total": 8,
+   "total": 10,
    "australia": 2
   },
   "Pet Circle": {
@@ -188,7 +188,7 @@
   },
   "Koala": {
    "status": "ok",
-   "total": 9,
+   "total": 10,
    "australia": 6
   },
   "DiUS": {
@@ -204,11 +204,81 @@
  },
  "newRoles": [
   {
-   "company": "DoorDash",
-   "id": "8399131",
-   "title": "Critical Incident Response Agent",
-   "location": "Sydney, NSW",
-   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8399131"
+   "company": "AirTrunk",
+   "id": "8209808003",
+   "title": "Senior Manager, Reward",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8209808003"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "4acef10d-d48d-4d46-babc-eaa3d3963bed",
+   "title": "Design Delivery Manager - Data Centres",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/4acef10d-d48d-4d46-babc-eaa3d3963bed"
+  },
+  {
+   "company": "SiteMinder",
+   "id": "f0f45d41-9cda-4f84-ac23-b9f608c29841",
+   "title": "Head of Design",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/SiteMinder/f0f45d41-9cda-4f84-ac23-b9f608c29841"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4757149005",
+   "title": "Medical Researcher, Australia",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4757149005"
+  },
+  {
+   "company": "Xero",
+   "id": "dbfc4c14-2b57-4542-b4bf-e9d54e2bb9fd",
+   "title": "Data & Analytics Enablement Lead, G&A",
+   "location": "AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/dbfc4c14-2b57-4542-b4bf-e9d54e2bb9fd"
+  },
+  {
+   "company": "Xero",
+   "id": "a7d02205-19ea-40ba-80e0-1c9a448998c3",
+   "title": "Data & Analytics Enablement Lead, G&A",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/a7d02205-19ea-40ba-80e0-1c9a448998c3"
+  },
+  {
+   "company": "Xero",
+   "id": "6c8a857d-0e7a-4d6e-a6de-3bff8193adab",
+   "title": "Data & Analytics Enablement Lead, G&A",
+   "location": "NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) | AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Auckland | Auckland | New Zealand",
+   "url": "https://jobs.ashbyhq.com/xero/6c8a857d-0e7a-4d6e-a6de-3bff8193adab"
+  },
+  {
+   "company": "Xero",
+   "id": "de66e942-0596-4038-91f0-b2d328a7463d",
+   "title": "Administrative Assistant (10 month Fixed Term Contract)",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/de66e942-0596-4038-91f0-b2d328a7463d"
+  },
+  {
+   "company": "Xero",
+   "id": "a739d7b6-a36e-4ae7-a5b5-57c85586ba5b",
+   "title": "Administrative Assistant (10 month Fixed Term Contract)",
+   "location": "AU: Sydney (45 Clarence St) | AU: Melbourne: (260 Burwood Rd) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/a739d7b6-a36e-4ae7-a5b5-57c85586ba5b"
+  },
+  {
+   "company": "Block",
+   "id": "5490210008",
+   "title": "Account Manager, SMB",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5490210008?gh_jid=5490210008"
+  },
+  {
+   "company": "Block",
+   "id": "5317296008",
+   "title": "Account Manager, SMB",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008"
   }
  ],
  "openIds": {
@@ -236,7 +306,8 @@
    "8197366003",
    "8198727003",
    "8201231003",
-   "8207762003"
+   "8207762003",
+   "8209808003"
   ],
   "Deputy": [
    "73af4076-6528-4e07-ac5d-5cfcc215d0a5",
@@ -276,6 +347,7 @@
    "0a392b11-72eb-4a21-9f5c-225a0bdead29",
    "26edad82-7b7e-447b-a6c9-0cde4d304f8f",
    "438402ef-83e3-4759-a131-ab19a053d4d9",
+   "4acef10d-d48d-4d46-babc-eaa3d3963bed",
    "63f40f56-736b-4629-ad66-fe07963336ab",
    "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
    "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
@@ -310,7 +382,8 @@
    "0d233b80-0970-49a5-adf0-dd43c9d5ab19",
    "a34e20a3-a7cf-4d62-afc1-1122822d388f",
    "c75ddb78-49cf-441f-831c-4c47b823fd8c",
-   "e97edf32-9db8-4792-9aa3-201a551f6f87"
+   "e97edf32-9db8-4792-9aa3-201a551f6f87",
+   "f0f45d41-9cda-4f84-ac23-b9f608c29841"
   ],
   "PEXA": [],
   "Firmus": [
@@ -321,11 +394,9 @@
    "5385655008",
    "5388740008",
    "5407489008",
-   "5414787008",
    "5416201008",
    "5417463008",
    "5417755008",
-   "5425421008",
    "5429666008",
    "5429668008",
    "5429675008",
@@ -339,7 +410,6 @@
    "5453541008",
    "5460680008",
    "5463220008",
-   "5464397008",
    "5464412008",
    "5464482008",
    "5466634008",
@@ -385,15 +455,11 @@
    "4751736005",
    "4751738005",
    "4753857005",
-   "4755905005"
+   "4755905005",
+   "4757149005"
   ],
   "Silicon Quantum Computing": [
-   "4005048201",
    "4005060201",
-   "4005904201",
-   "4005906201",
-   "4005907201",
-   "4005909201",
    "4007736201",
    "4007744201",
    "4008605201",
@@ -441,15 +507,20 @@
    "61a20e41-cd05-4637-951d-34737c8e17eb",
    "65b39783-4a06-4bae-8dbe-48afb916886f",
    "6ab308ab-38ab-434e-a7a8-63c624be51ab",
+   "6c8a857d-0e7a-4d6e-a6de-3bff8193adab",
    "8fed11a8-5109-4787-8a2a-a75d860703e2",
    "989f4292-f94c-48e2-9094-cdeba8c79578",
    "9eef7111-d180-4e9e-a3df-f5f36f8b61f8",
    "a08cc01c-ad36-485e-9442-d661bfa4cf3a",
+   "a739d7b6-a36e-4ae7-a5b5-57c85586ba5b",
+   "a7d02205-19ea-40ba-80e0-1c9a448998c3",
    "ad759cb7-dde3-40d9-b5e7-fb73c907a668",
    "b5d8ca65-c368-4dae-9e48-307b426e6147",
    "b8dda96e-f152-49a8-822b-aaa6c178c0db",
    "c1e862f2-feab-4940-b822-fd265f2fb1f3",
    "ce864d81-9870-412d-85da-c71538790961",
+   "dbfc4c14-2b57-4542-b4bf-e9d54e2bb9fd",
+   "de66e942-0596-4038-91f0-b2d328a7463d",
    "e068b107-cf80-4f07-bcfb-947fd05afaa0",
    "e34c8306-7101-477d-b590-b1077a4afc06",
    "e878c8be-687d-459d-a7b0-3578dcc6b3b1",
@@ -499,7 +570,6 @@
    "7821986",
    "8048483",
    "8155274",
-   "8185846",
    "8232945",
    "8232996",
    "8279393",
@@ -510,6 +580,7 @@
    "4983725008",
    "5043053008",
    "5183756008",
+   "5317296008",
    "5373378008",
    "5414720008",
    "5423707008",
@@ -519,7 +590,8 @@
    "5471298008",
    "5474380008",
    "5481026008",
-   "5485447008"
+   "5485447008",
+   "5490210008"
   ],
   "Haast": [
    "2e9b6ff7-9564-4f39-a009-0ae9d501b76f"
@@ -609,7 +681,6 @@
    "5274685007",
    "5275748007",
    "5275941007",
-   "5278315007",
    "5281238007",
    "5281256007",
    "5282977007",
