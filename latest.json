@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T17:14:36+00:00",
+ "generatedAt": "2026-11-21T12:51:15+00:00",
  "sydneyDate": "2026-11-21",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 6,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -78,8 +78,8 @@
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 5,
-   "australia": 5
+   "total": 10,
+   "australia": 10
   },
   "CDC Data Centres": {
    "status": "ok",
@@ -88,7 +88,7 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 108,
+   "total": 109,
    "australia": 37
   },
   "Airbnb": {
@@ -118,23 +118,23 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 338,
+   "total": 341,
    "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 368,
+   "total": 367,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 88,
+   "total": 89,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2637,
-   "australia": 73
+   "total": 2631,
+   "australia": 74
   },
   "Cognition": {
    "status": "ok",
@@ -143,7 +143,7 @@
   },
   "Neara": {
    "status": "ok",
-   "total": 38,
+   "total": 37,
    "australia": 11
   },
   "Quantium": {
@@ -202,7 +202,50 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005909201",
+   "title": "Infrastructure Engineer, Hardware & Networks",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005909201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005048201",
+   "title": "Senior Device Processing Engineer",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005048201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005907201",
+   "title": "Senior Platform Engineer, Monitoring & Telemetry",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005907201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005906201",
+   "title": "Software Engineer, Compiler Services",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005906201"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005904201",
+   "title": "Software Engineer, Control & Error Correction",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005904201"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5304367007",
+   "title": "Senior Recruiter, Business Development",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5304367007?gh_jid=5304367007"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -381,7 +424,12 @@
    "4757149005"
   ],
   "Silicon Quantum Computing": [
+   "4005048201",
    "4005060201",
+   "4005904201",
+   "4005906201",
+   "4005907201",
+   "4005909201",
    "4007736201",
    "4007744201",
    "4008605201",
@@ -622,7 +670,8 @@
    "5295926007",
    "5298282007",
    "5298294007",
-   "5299201007"
+   "5299201007",
+   "5304367007"
   ],
   "Cognition": [
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
