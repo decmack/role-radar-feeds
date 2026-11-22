@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T16:22:36+00:00",
+ "generatedAt": "2026-11-22T12:43:06+00:00",
  "sydneyDate": "2026-11-22",
  "baseline": false,
  "feedsOk": 39,
@@ -83,7 +83,7 @@
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 61,
+   "total": 59,
    "australia": 21
   },
   "Xero": {
@@ -98,7 +98,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 778,
+   "total": 777,
    "australia": 24
   },
   "DoorDash": {
@@ -118,7 +118,7 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 341,
+   "total": 342,
    "australia": 13
   },
   "Nebius": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2632,
+   "total": 2633,
    "australia": 74
   },
   "Cognition": {
