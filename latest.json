@@ -1,24 +1,24 @@
 {
- "generatedAt": "2026-11-22T16:37:23+00:00",
- "sydneyDate": "2026-11-23",
+ "generatedAt": "2026-11-23T14:59:57+00:00",
+ "sydneyDate": "2026-11-24",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 5,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 70,
-   "australia": 25
+   "total": 71,
+   "australia": 28
   },
   "Deputy": {
    "status": "ok",
-   "total": 3,
+   "total": 2,
    "australia": 2
   },
   "Q-CTRL": {
    "status": "ok",
-   "total": 34,
+   "total": 33,
    "australia": 16
   },
   "Objective Corporation": {
@@ -34,7 +34,7 @@
   "SafetyCulture (Mitti)": {
    "status": "ok",
    "total": 33,
-   "australia": 15
+   "australia": 14
   },
   "Harrison.ai": {
    "status": "ok",
@@ -43,7 +43,7 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 32,
+   "total": 33,
    "australia": 5
   },
   "PEXA": {
@@ -53,12 +53,12 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 66,
+   "total": 65,
    "australia": 27
   },
   "First Focus": {
    "status": "ok",
-   "total": 61,
+   "total": 55,
    "australia": 6
   },
   "Rokt": {
@@ -73,7 +73,7 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 94,
+   "total": 88,
    "australia": 26
   },
   "Silicon Quantum Computing": {
@@ -88,23 +88,23 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 109,
-   "australia": 37
+   "total": 107,
+   "australia": 35
   },
   "Airbnb": {
    "status": "ok",
-   "total": 202,
+   "total": 199,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 777,
+   "total": 778,
    "australia": 24
   },
   "DoorDash": {
    "status": "ok",
-   "total": 19,
-   "australia": 14
+   "total": 18,
+   "australia": 13
   },
   "Block": {
    "status": "ok",
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 342,
-   "australia": 13
+   "total": 335,
+   "australia": 10
   },
   "Nebius": {
    "status": "ok",
-   "total": 367,
+   "total": 362,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -173,8 +173,8 @@
   },
   "Nuix": {
    "status": "ok",
-   "total": 24,
-   "australia": 14
+   "total": 23,
+   "australia": 13
   },
   "Orro Group": {
    "status": "ok",
@@ -202,7 +202,43 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "AirTrunk",
+   "id": "8064212003",
+   "title": "Expression of Interest - Development Team - Kurri Kurri",
+   "location": "Newcastle, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8064212003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8206254003",
+   "title": "Expression of Interest - Operations Team",
+   "location": "North Shore, Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8206254003"
+  },
+  {
+   "company": "AirTrunk",
+   "id": "8213830003",
+   "title": "Expression of Interest - Operations Team",
+   "location": "Newcastle, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8213830003"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5059054007",
+   "title": "Integration and Test Engineer (Software)",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5059054007?gh_jid=5059054007"
+  },
+  {
+   "company": "Quantium",
+   "id": "4008590201",
+   "title": "Senior Category Insights Consultant | FMCG ",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4008590201"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -220,6 +256,7 @@
    "8042310003",
    "8045767003",
    "8060506003",
+   "8064212003",
    "8168410003",
    "8168553003",
    "8196354003",
@@ -228,8 +265,10 @@
    "8197366003",
    "8198727003",
    "8201231003",
+   "8206254003",
    "8207762003",
-   "8209808003"
+   "8209808003",
+   "8213830003"
   ],
   "Deputy": [
    "73af4076-6528-4e07-ac5d-5cfcc215d0a5",
@@ -285,7 +324,6 @@
    "1792b6c6-535c-4e9b-9f74-594d7939ee06",
    "3288caef-85bc-41f1-9107-ab65c1c5c247",
    "4dd0ebe0-b04b-4b83-9952-9d4251a7a58e",
-   "5a73bfb8-28df-4e89-9864-ca9002cf790b",
    "645682ac-10cb-4dd4-a741-b46bc661c4c1",
    "6b5e07ab-8da4-419f-bff5-7a7cdc9bb623",
    "905e6a1c-f6dd-4c99-a146-8341eecca06b",
@@ -419,7 +457,6 @@
    "03e1237c-db16-4cd5-8cc8-0a1eef12e36e",
    "0950bd50-2ea2-41c3-8bba-4afd9cf060d6",
    "09fa178b-b997-4f48-ae19-b8a61919cef0",
-   "0c345d63-dcc1-4fa0-b521-a0fb6fff29ca",
    "138b9018-6c2a-47cc-93f0-53545fa604a9",
    "1c62a5d8-3fa7-4ff7-a3b6-366198904eed",
    "21751d35-7851-4c2d-a2ab-1ac68cfcdcec",
@@ -433,7 +470,6 @@
    "5e7fb1a2-f9fc-4e82-b2e4-aeff0201e9ac",
    "61a20e41-cd05-4637-951d-34737c8e17eb",
    "65b39783-4a06-4bae-8dbe-48afb916886f",
-   "6ab308ab-38ab-434e-a7a8-63c624be51ab",
    "6c8a857d-0e7a-4d6e-a6de-3bff8193adab",
    "8fed11a8-5109-4787-8a2a-a75d860703e2",
    "989f4292-f94c-48e2-9094-cdeba8c79578",
@@ -492,7 +528,6 @@
    "7126705",
    "7154008",
    "7195841",
-   "7300101",
    "7518634",
    "7821986",
    "8048483",
@@ -526,11 +561,8 @@
   "Legora": [
    "045b2b5a-1347-4d37-b1cd-7fe77a60154e",
    "08d0be3f-4212-4627-97d0-b190006a5e33",
-   "1b2e302c-2f65-4d7a-8070-46d241f108cd",
    "3f8ea448-a415-4358-8daa-88fbdeb39a16",
    "5454001c-481c-490a-8ba5-63a3a80d3d05",
-   "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
-   "8495d2a9-a06b-4564-87d9-72a57b0517df",
    "8fa7b485-0429-470c-90d0-671ba14aed9a",
    "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
    "abc14660-111d-4c03-a86a-a249039dedef",
@@ -570,6 +602,7 @@
    "5053421007",
    "5055818007",
    "5056468007",
+   "5059054007",
    "5064818007",
    "5067380007",
    "5079841007",
@@ -577,7 +610,6 @@
    "5090414007",
    "5090415007",
    "5161842007",
-   "5171132007",
    "5172478007",
    "5176757007",
    "5176763007",
@@ -657,7 +689,6 @@
    "4005586201",
    "4005587201",
    "4005991201",
-   "4006039201",
    "4006250201",
    "4006746201",
    "4006762201",
@@ -668,6 +699,7 @@
    "4007653201",
    "4007692201",
    "4007897201",
+   "4008590201",
    "4008629201",
    "4008904201",
    "4009540201",
@@ -704,7 +736,6 @@
    "8294799",
    "8348739",
    "8348741",
-   "8593500",
    "8620788",
    "8724102",
    "8744561"
