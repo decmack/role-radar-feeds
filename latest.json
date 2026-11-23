@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-23T14:59:57+00:00",
+ "generatedAt": "2026-11-23T20:31:50+00:00",
  "sydneyDate": "2026-11-24",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 5,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -73,7 +73,7 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 88,
+   "total": 89,
    "australia": 26
   },
   "Silicon Quantum Computing": {
@@ -88,18 +88,18 @@
   },
   "Xero": {
    "status": "ok",
-   "total": 107,
+   "total": 106,
    "australia": 35
   },
   "Airbnb": {
    "status": "ok",
-   "total": 199,
+   "total": 196,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 778,
-   "australia": 24
+   "total": 774,
+   "australia": 23
   },
   "DoorDash": {
    "status": "ok",
@@ -118,32 +118,32 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 335,
+   "total": 329,
    "australia": 10
   },
   "Nebius": {
    "status": "ok",
-   "total": 362,
+   "total": 360,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 89,
+   "total": 88,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2633,
+   "total": 2614,
    "australia": 74
   },
   "Cognition": {
    "status": "ok",
-   "total": 108,
+   "total": 110,
    "australia": 4
   },
   "Neara": {
    "status": "ok",
-   "total": 37,
+   "total": 36,
    "australia": 11
   },
   "Quantium": {
@@ -202,43 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "AirTrunk",
-   "id": "8064212003",
-   "title": "Expression of Interest - Development Team - Kurri Kurri",
-   "location": "Newcastle, New South Wales, Australia",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8064212003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "8206254003",
-   "title": "Expression of Interest - Operations Team",
-   "location": "North Shore, Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8206254003"
-  },
-  {
-   "company": "AirTrunk",
-   "id": "8213830003",
-   "title": "Expression of Interest - Operations Team",
-   "location": "Newcastle, New South Wales, Australia",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8213830003"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5059054007",
-   "title": "Integration and Test Engineer (Software)",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5059054007?gh_jid=5059054007"
-  },
-  {
-   "company": "Quantium",
-   "id": "4008590201",
-   "title": "Senior Category Insights Consultant | FMCG ",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4008590201"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -506,7 +470,6 @@
    "8174141",
    "8174148",
    "8175647",
-   "8175824",
    "8179347",
    "8224617",
    "8238733",
