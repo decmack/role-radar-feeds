@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-23T20:31:50+00:00",
- "sydneyDate": "2026-11-24",
+ "generatedAt": "2026-11-24T15:01:27+00:00",
+ "sydneyDate": "2026-11-25",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 5,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 71,
-   "australia": 28
+   "total": 68,
+   "australia": 26
   },
   "Deputy": {
    "status": "ok",
@@ -18,8 +18,8 @@
   },
   "Q-CTRL": {
    "status": "ok",
-   "total": 33,
-   "australia": 16
+   "total": 32,
+   "australia": 15
   },
   "Objective Corporation": {
    "status": "ok",
@@ -28,18 +28,18 @@
   },
   "Macquarie Technology Group": {
    "status": "ok",
-   "total": 13,
-   "australia": 11
+   "total": 15,
+   "australia": 13
   },
   "SafetyCulture (Mitti)": {
    "status": "ok",
-   "total": 33,
-   "australia": 14
+   "total": 31,
+   "australia": 12
   },
   "Harrison.ai": {
    "status": "ok",
-   "total": 8,
-   "australia": 3
+   "total": 7,
+   "australia": 2
   },
   "SiteMinder": {
    "status": "ok",
@@ -53,8 +53,8 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 65,
-   "australia": 27
+   "total": 63,
+   "australia": 26
   },
   "First Focus": {
    "status": "ok",
@@ -73,42 +73,42 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 89,
+   "total": 87,
    "australia": 26
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 10,
-   "australia": 10
+   "total": 11,
+   "australia": 11
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 59,
-   "australia": 21
+   "total": 60,
+   "australia": 22
   },
   "Xero": {
    "status": "ok",
-   "total": 106,
+   "total": 116,
    "australia": 35
   },
   "Airbnb": {
    "status": "ok",
-   "total": 196,
+   "total": 199,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 774,
+   "total": 769,
    "australia": 23
   },
   "DoorDash": {
    "status": "ok",
-   "total": 18,
+   "total": 19,
    "australia": 13
   },
   "Block": {
    "status": "ok",
-   "total": 184,
+   "total": 183,
    "australia": 15
   },
   "Haast": {
@@ -118,23 +118,23 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 329,
-   "australia": 10
+   "total": 325,
+   "australia": 9
   },
   "Nebius": {
    "status": "ok",
-   "total": 360,
+   "total": 354,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
-   "total": 88,
+   "total": 87,
    "australia": 8
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2614,
-   "australia": 74
+   "total": 2604,
+   "australia": 73
   },
   "Cognition": {
    "status": "ok",
@@ -143,13 +143,13 @@
   },
   "Neara": {
    "status": "ok",
-   "total": 36,
+   "total": 37,
    "australia": 11
   },
   "Quantium": {
    "status": "ok",
-   "total": 34,
-   "australia": 22
+   "total": 32,
+   "australia": 20
   },
   "Lyrebird Health": {
    "status": "ok",
@@ -158,8 +158,8 @@
   },
   "NEXTDC": {
    "status": "ok",
-   "total": 11,
-   "australia": 6
+   "total": 10,
+   "australia": 5
   },
   "Presien": {
    "status": "ok",
@@ -168,13 +168,13 @@
   },
   "Tyro Payments": {
    "status": "ok",
-   "total": 9,
-   "australia": 8
+   "total": 7,
+   "australia": 6
   },
   "Nuix": {
    "status": "ok",
-   "total": 23,
-   "australia": 13
+   "total": 24,
+   "australia": 14
   },
   "Orro Group": {
    "status": "ok",
@@ -183,13 +183,13 @@
   },
   "Pet Circle": {
    "status": "ok",
-   "total": 9,
-   "australia": 6
+   "total": 8,
+   "australia": 5
   },
   "Koala": {
    "status": "ok",
-   "total": 10,
-   "australia": 6
+   "total": 9,
+   "australia": 5
   },
   "DiUS": {
    "status": "ok",
@@ -202,7 +202,43 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "Macquarie Technology Group",
+   "id": "53951192-668f-47a2-b476-f40bafcffcaf",
+   "title": "Associate Full Stack AI Engineer",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/53951192-668f-47a2-b476-f40bafcffcaf"
+  },
+  {
+   "company": "Macquarie Technology Group",
+   "id": "b5c7c81f-c961-4605-9c2b-01c6fa908b07",
+   "title": "Head of Cyber Security",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/b5c7c81f-c961-4605-9c2b-01c6fa908b07"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4005861201",
+   "title": "People Operations Partner",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005861201"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "4CF99286D9",
+   "title": "INTERNAL: Design Specialist",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/4CF99286D9"
+  },
+  {
+   "company": "Nuix",
+   "id": "8785751",
+   "title": "Curriculum & Digital Learning Specialist",
+   "location": "Sydney (AU), Sydney, Australia",
+   "url": "https://careers.nuix.com/jobs/8785751-curriculum-digital-learning-specialist"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -219,7 +255,6 @@
    "8032434003",
    "8042310003",
    "8045767003",
-   "8060506003",
    "8064212003",
    "8168410003",
    "8168553003",
@@ -230,7 +265,6 @@
    "8198727003",
    "8201231003",
    "8206254003",
-   "8207762003",
    "8209808003",
    "8213830003"
   ],
@@ -253,8 +287,7 @@
    "d6729274-cba8-4000-af87-79501e6ab194",
    "d98559d7-c8c7-4227-b627-c67cb773d110",
    "dbd3451a-b3ee-442e-96bd-6c0ce874eac7",
-   "ed3f07cf-7d4d-47ee-b354-ee2542057793",
-   "fd79db6d-8a53-4fc8-a518-b50441613e0c"
+   "ed3f07cf-7d4d-47ee-b354-ee2542057793"
   ],
   "Objective Corporation": [
    "0ae31271-c49b-4819-bd59-0373287366a6",
@@ -273,20 +306,20 @@
    "26edad82-7b7e-447b-a6c9-0cde4d304f8f",
    "438402ef-83e3-4759-a131-ab19a053d4d9",
    "4acef10d-d48d-4d46-babc-eaa3d3963bed",
+   "53951192-668f-47a2-b476-f40bafcffcaf",
    "63f40f56-736b-4629-ad66-fe07963336ab",
    "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
    "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
+   "b5c7c81f-c961-4605-9c2b-01c6fa908b07",
    "d2da8d92-a2e2-4702-95b5-02a06d0eb0f3",
    "d5cc9e79-acfd-4a2b-8fff-8e09786897d7",
    "e231d96a-44ef-4e02-a952-311272a62954",
    "e6df010f-441e-4061-9799-fc62385d0598"
   ],
   "SafetyCulture (Mitti)": [
-   "01f6c3d5-6c06-47c2-b6c5-d97b92635772",
    "0da9a784-d6ed-47a6-a6df-3b3ae6a94c5e",
    "0faee637-985f-4ee5-9bfa-dda75d0a19a1",
    "1792b6c6-535c-4e9b-9f74-594d7939ee06",
-   "3288caef-85bc-41f1-9107-ab65c1c5c247",
    "4dd0ebe0-b04b-4b83-9952-9d4251a7a58e",
    "645682ac-10cb-4dd4-a741-b46bc661c4c1",
    "6b5e07ab-8da4-419f-bff5-7a7cdc9bb623",
@@ -298,7 +331,6 @@
    "fe75ca9d-887d-4094-aa19-739c9d90e572"
   ],
   "Harrison.ai": [
-   "0728ecf1-a56e-475a-995a-4a76363c7c74",
    "f8a1eddc-ca1a-4ad6-b85f-ca9ee50a7605",
    "f93ebf53-acb2-48a1-8409-2f316b0f743c"
   ],
@@ -313,7 +345,6 @@
   "Firmus": [
    "5253313008",
    "5368270008",
-   "5371157008",
    "5385648008",
    "5385655008",
    "5388740008",
@@ -385,6 +416,7 @@
   "Silicon Quantum Computing": [
    "4005048201",
    "4005060201",
+   "4005861201",
    "4005904201",
    "4005906201",
    "4005907201",
@@ -400,6 +432,7 @@
    "3530EDC7A5",
    "358675DA81",
    "468A56A229",
+   "4CF99286D9",
    "58E91C93FF",
    "5C34BF3173",
    "5FF5E535C6",
@@ -526,7 +559,6 @@
    "08d0be3f-4212-4627-97d0-b190006a5e33",
    "3f8ea448-a415-4358-8daa-88fbdeb39a16",
    "5454001c-481c-490a-8ba5-63a3a80d3d05",
-   "8fa7b485-0429-470c-90d0-671ba14aed9a",
    "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
    "abc14660-111d-4c03-a86a-a249039dedef",
    "df085356-554f-4d5b-97c0-50db79c83a00",
@@ -610,7 +642,6 @@
    "5283890007",
    "5285571007",
    "5286595007",
-   "5286672007",
    "5286928007",
    "5288663007",
    "5288672007",
@@ -645,13 +676,11 @@
    "e36a2d43-e6fe-442d-b2cc-34a76b76e57d"
   ],
   "Quantium": [
-   "4003817201",
    "4005506201",
    "4005542201",
    "4005581201",
    "4005586201",
    "4005587201",
-   "4005991201",
    "4006250201",
    "4006746201",
    "4006762201",
@@ -674,14 +703,11 @@
    "744000159746959",
    "744000160124819",
    "744000160125310",
-   "744000160543109",
-   "744000160544864"
+   "744000160543109"
   ],
   "Presien": [],
   "Tyro Payments": [
    "8226013",
-   "8370294",
-   "8514235",
    "8534442",
    "8541728",
    "8654410",
@@ -701,14 +727,14 @@
    "8348741",
    "8620788",
    "8724102",
-   "8744561"
+   "8744561",
+   "8785751"
   ],
   "Orro Group": [
    "8686294",
    "8701348"
   ],
   "Pet Circle": [
-   "8514210",
    "8534392",
    "8586986",
    "8587435",
@@ -717,7 +743,6 @@
   ],
   "Koala": [
    "8326480",
-   "8482499",
    "8612236",
    "8633202",
    "8669583",
