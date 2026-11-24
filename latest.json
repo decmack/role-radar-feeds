@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-24T15:01:27+00:00",
+ "generatedAt": "2026-11-24T19:41:25+00:00",
  "sydneyDate": "2026-11-25",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 5,
+ "newCount": 2,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -43,7 +43,7 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 33,
+   "total": 34,
    "australia": 5
   },
   "PEXA": {
@@ -73,7 +73,7 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 87,
+   "total": 86,
    "australia": 26
   },
   "Silicon Quantum Computing": {
@@ -98,7 +98,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 769,
+   "total": 768,
    "australia": 23
   },
   "DoorDash": {
@@ -109,7 +109,7 @@
   "Block": {
    "status": "ok",
    "total": 183,
-   "australia": 15
+   "australia": 16
   },
   "Haast": {
    "status": "ok",
@@ -118,23 +118,23 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 325,
+   "total": 327,
    "australia": 9
   },
   "Nebius": {
    "status": "ok",
-   "total": 354,
+   "total": 350,
    "australia": 4
   },
   "Cursor (Anysphere)": {
    "status": "ok",
    "total": 87,
-   "australia": 8
+   "australia": 9
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2604,
-   "australia": 73
+   "total": 2607,
+   "australia": 72
   },
   "Cognition": {
    "status": "ok",
@@ -204,39 +204,18 @@
  },
  "newRoles": [
   {
-   "company": "Macquarie Technology Group",
-   "id": "53951192-668f-47a2-b476-f40bafcffcaf",
-   "title": "Associate Full Stack AI Engineer",
-   "location": "2 Market Street, Sydney NSW 2000",
-   "url": "https://jobs.lever.co/macquarietechnologygroup/53951192-668f-47a2-b476-f40bafcffcaf"
+   "company": "Block",
+   "id": "5493825008",
+   "title": "Square Content Marketing Manager",
+   "location": "Sydney, Australia",
+   "url": "http://block.xyz/careers/jobs/5493825008?gh_jid=5493825008"
   },
   {
-   "company": "Macquarie Technology Group",
-   "id": "b5c7c81f-c961-4605-9c2b-01c6fa908b07",
-   "title": "Head of Cyber Security",
-   "location": "2 Market Street, Sydney NSW 2000",
-   "url": "https://jobs.lever.co/macquarietechnologygroup/b5c7c81f-c961-4605-9c2b-01c6fa908b07"
-  },
-  {
-   "company": "Silicon Quantum Computing",
-   "id": "4005861201",
-   "title": "People Operations Partner",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4005861201"
-  },
-  {
-   "company": "CDC Data Centres",
-   "id": "4CF99286D9",
-   "title": "INTERNAL: Design Specialist",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://apply.workable.com/j/4CF99286D9"
-  },
-  {
-   "company": "Nuix",
-   "id": "8785751",
-   "title": "Curriculum & Digital Learning Specialist",
-   "location": "Sydney (AU), Sydney, Australia",
-   "url": "https://careers.nuix.com/jobs/8785751-curriculum-digital-learning-specialist"
+   "company": "Cursor (Anysphere)",
+   "id": "1d2b496f-c867-40ac-9ca7-cba8436ec2c4",
+   "title": "Integrated Campaigns, APJ",
+   "location": "Australia | Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/1d2b496f-c867-40ac-9ca7-cba8436ec2c4"
   }
  ],
  "openIds": {
@@ -549,7 +528,8 @@
    "5474380008",
    "5481026008",
    "5485447008",
-   "5490210008"
+   "5490210008",
+   "5493825008"
   ],
   "Haast": [
    "2e9b6ff7-9564-4f39-a009-0ae9d501b76f"
@@ -573,6 +553,7 @@
   ],
   "Cursor (Anysphere)": [
    "01396f08-3acd-4e0c-9782-a6944fd2a957",
+   "1d2b496f-c867-40ac-9ca7-cba8436ec2c4",
    "44264403-5674-40b7-8b8d-e60b0a86e9ec",
    "45abdab8-6d12-4e46-8108-e23aba34cec1",
    "65be8830-8f83-4420-baf3-5070fe19097d",
@@ -637,7 +618,6 @@
    "5275941007",
    "5281238007",
    "5281256007",
-   "5282977007",
    "5283885007",
    "5283890007",
    "5285571007",
