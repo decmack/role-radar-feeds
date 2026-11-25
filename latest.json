@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-25T14:39:58+00:00",
+ "generatedAt": "2026-11-25T18:49:39+00:00",
  "sydneyDate": "2026-11-26",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 5,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -93,12 +93,12 @@
   },
   "Airbnb": {
    "status": "ok",
-   "total": 200,
+   "total": 199,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 771,
+   "total": 772,
    "australia": 22
   },
   "DoorDash": {
@@ -108,7 +108,7 @@
   },
   "Block": {
    "status": "ok",
-   "total": 182,
+   "total": 186,
    "australia": 17
   },
   "Haast": {
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 325,
+   "total": 326,
    "australia": 9
   },
   "Nebius": {
    "status": "ok",
-   "total": 346,
+   "total": 344,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -202,43 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "SafetyCulture (Mitti)",
-   "id": "107abce5-d3a7-4f98-b5e6-4332edae3803",
-   "title": "Senior Product Marketing Manager",
-   "location": "Sydney | Sydney | NSW | Australia",
-   "url": "https://jobs.ashbyhq.com/mitti/107abce5-d3a7-4f98-b5e6-4332edae3803"
-  },
-  {
-   "company": "SiteMinder",
-   "id": "673eda7c-eaa3-43d8-8eee-576c26bab99e",
-   "title": "Senior Talent Acquisition Consultant (Tech/Product) - Temporary Contract",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/SiteMinder/673eda7c-eaa3-43d8-8eee-576c26bab99e"
-  },
-  {
-   "company": "DoorDash",
-   "id": "8416366",
-   "title": "Associate Manager, Merchant Strategy & Operations",
-   "location": "Melbourne, VIC; Sydney, NSW",
-   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8416366"
-  },
-  {
-   "company": "Block",
-   "id": "5481774008",
-   "title": "Seller Onboarding Expert",
-   "location": "Sydney, Australia",
-   "url": "http://block.xyz/careers/jobs/5481774008?gh_jid=5481774008"
-  },
-  {
-   "company": "Quantium",
-   "id": "4009694201",
-   "title": "Senior Workforce & Resourcing Analyst",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4009694201"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
