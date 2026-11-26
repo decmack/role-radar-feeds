@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-26T14:04:34+00:00",
+ "generatedAt": "2026-11-26T18:37:26+00:00",
  "sydneyDate": "2026-11-27",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 12,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -48,7 +48,7 @@
   },
   "PEXA": {
    "status": "ok",
-   "total": 3,
+   "total": 4,
    "australia": 0
   },
   "Firmus": {
@@ -93,12 +93,12 @@
   },
   "Airbnb": {
    "status": "ok",
-   "total": 199,
+   "total": 201,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 771,
+   "total": 768,
    "australia": 22
   },
   "DoorDash": {
@@ -118,7 +118,7 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 332,
+   "total": 333,
    "australia": 12
   },
   "Nebius": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2600,
+   "total": 2598,
    "australia": 70
   },
   "Cognition": {
@@ -202,92 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "AirTrunk",
-   "id": "8198731003",
-   "title": "Senior Manager, Commercial Assurance",
-   "location": "AirTrunk HQ - North Sydney",
-   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8198731003"
-  },
-  {
-   "company": "CDC Data Centres",
-   "id": "01695A4A31",
-   "title": "Design Project Manager - Data Centres",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://apply.workable.com/j/01695A4A31"
-  },
-  {
-   "company": "Xero",
-   "id": "230ab009-6369-4ea8-8fcd-e3a17476f118",
-   "title": "Head of Vibe & Community – Employee Experience & Brand Moments",
-   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/230ab009-6369-4ea8-8fcd-e3a17476f118"
-  },
-  {
-   "company": "DoorDash",
-   "id": "8385487",
-   "title": "Associate, Sales Strategy and Operations ",
-   "location": "Melbourne; Sydney",
-   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8385487"
-  },
-  {
-   "company": "Legora",
-   "id": "8fa7b485-0429-470c-90d0-671ba14aed9a",
-   "title": "GTM Manager - Public Sector",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/8fa7b485-0429-470c-90d0-671ba14aed9a"
-  },
-  {
-   "company": "Legora",
-   "id": "1b2e302c-2f65-4d7a-8070-46d241f108cd",
-   "title": "Applied AI Specialist, Legal Engineering",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/1b2e302c-2f65-4d7a-8070-46d241f108cd"
-  },
-  {
-   "company": "Legora",
-   "id": "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
-   "title": "Account Executive, SMB",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/64abd634-cc9e-4917-9fa0-25cc31d13ca7"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5309824007",
-   "title": "Senior Product Support Engineer",
-   "location": "Perth, Western Australia, Australia; Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5309824007?gh_jid=5309824007"
-  },
-  {
-   "company": "Quantium",
-   "id": "4006215201",
-   "title": "GTM Strategy Manager | Retail division",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4006215201"
-  },
-  {
-   "company": "Tyro Payments",
-   "id": "8797329",
-   "title": "People Partner",
-   "location": "Sydney, Australia",
-   "url": "https://careers.tyro.com/jobs/8797329-people-partner"
-  },
-  {
-   "company": "Tyro Payments",
-   "id": "8565620",
-   "title": "Lending Sales Associate",
-   "location": "Sydney, Australia",
-   "url": "https://careers.tyro.com/jobs/8565620-lending-sales-associate"
-  },
-  {
-   "company": "Orro Group",
-   "id": "8797152",
-   "title": "Network Security Consultant",
-   "location": "Brisbane, Brisbane City, Australia, Sydney HQ, Sydney, Melbourne",
-   "url": "https://orrogroup.teamtailor.com/jobs/8797152-network-security-consultant"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
