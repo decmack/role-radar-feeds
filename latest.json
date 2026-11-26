@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-25T18:49:39+00:00",
- "sydneyDate": "2026-11-26",
+ "generatedAt": "2026-11-26T14:04:34+00:00",
+ "sydneyDate": "2026-11-27",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 12,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
-   "total": 67,
-   "australia": 25
+   "total": 69,
+   "australia": 26
   },
   "Deputy": {
    "status": "ok",
@@ -18,7 +18,7 @@
   },
   "Q-CTRL": {
    "status": "ok",
-   "total": 32,
+   "total": 33,
    "australia": 14
   },
   "Objective Corporation": {
@@ -28,12 +28,12 @@
   },
   "Macquarie Technology Group": {
    "status": "ok",
-   "total": 14,
-   "australia": 12
+   "total": 13,
+   "australia": 11
   },
   "SafetyCulture (Mitti)": {
    "status": "ok",
-   "total": 32,
+   "total": 31,
    "australia": 13
   },
   "Harrison.ai": {
@@ -43,8 +43,8 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 34,
-   "australia": 6
+   "total": 35,
+   "australia": 5
   },
   "PEXA": {
    "status": "ok",
@@ -53,8 +53,8 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 62,
-   "australia": 25
+   "total": 61,
+   "australia": 24
   },
   "First Focus": {
    "status": "ok",
@@ -73,23 +73,23 @@
   },
   "Eucalyptus": {
    "status": "ok",
-   "total": 85,
+   "total": 84,
    "australia": 25
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 11,
-   "australia": 11
+   "total": 10,
+   "australia": 10
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 59,
-   "australia": 22
+   "total": 61,
+   "australia": 23
   },
   "Xero": {
    "status": "ok",
-   "total": 115,
-   "australia": 34
+   "total": 116,
+   "australia": 35
   },
   "Airbnb": {
    "status": "ok",
@@ -98,17 +98,17 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 772,
+   "total": 771,
    "australia": 22
   },
   "DoorDash": {
    "status": "ok",
    "total": 18,
-   "australia": 12
+   "australia": 13
   },
   "Block": {
    "status": "ok",
-   "total": 186,
+   "total": 183,
    "australia": 17
   },
   "Haast": {
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 326,
-   "australia": 9
+   "total": 332,
+   "australia": 12
   },
   "Nebius": {
    "status": "ok",
-   "total": 344,
+   "total": 343,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,8 +133,8 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2602,
-   "australia": 69
+   "total": 2600,
+   "australia": 70
   },
   "Cognition": {
    "status": "ok",
@@ -148,8 +148,8 @@
   },
   "Quantium": {
    "status": "ok",
-   "total": 31,
-   "australia": 19
+   "total": 32,
+   "australia": 20
   },
   "Lyrebird Health": {
    "status": "ok",
@@ -158,7 +158,7 @@
   },
   "NEXTDC": {
    "status": "ok",
-   "total": 11,
+   "total": 12,
    "australia": 5
   },
   "Presien": {
@@ -168,8 +168,8 @@
   },
   "Tyro Payments": {
    "status": "ok",
-   "total": 6,
-   "australia": 5
+   "total": 8,
+   "australia": 7
   },
   "Nuix": {
    "status": "ok",
@@ -178,13 +178,13 @@
   },
   "Orro Group": {
    "status": "ok",
-   "total": 11,
-   "australia": 2
+   "total": 12,
+   "australia": 3
   },
   "Pet Circle": {
    "status": "ok",
-   "total": 8,
-   "australia": 5
+   "total": 7,
+   "australia": 4
   },
   "Koala": {
    "status": "ok",
@@ -202,7 +202,92 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "AirTrunk",
+   "id": "8198731003",
+   "title": "Senior Manager, Commercial Assurance",
+   "location": "AirTrunk HQ - North Sydney",
+   "url": "https://job-boards.greenhouse.io/airtrunk/jobs/8198731003"
+  },
+  {
+   "company": "CDC Data Centres",
+   "id": "01695A4A31",
+   "title": "Design Project Manager - Data Centres",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://apply.workable.com/j/01695A4A31"
+  },
+  {
+   "company": "Xero",
+   "id": "230ab009-6369-4ea8-8fcd-e3a17476f118",
+   "title": "Head of Vibe & Community – Employee Experience & Brand Moments",
+   "location": "AU: Sydney (45 Clarence St) | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/230ab009-6369-4ea8-8fcd-e3a17476f118"
+  },
+  {
+   "company": "DoorDash",
+   "id": "8385487",
+   "title": "Associate, Sales Strategy and Operations ",
+   "location": "Melbourne; Sydney",
+   "url": "https://job-boards.greenhouse.io/doordashaustralia/jobs/8385487"
+  },
+  {
+   "company": "Legora",
+   "id": "8fa7b485-0429-470c-90d0-671ba14aed9a",
+   "title": "GTM Manager - Public Sector",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/8fa7b485-0429-470c-90d0-671ba14aed9a"
+  },
+  {
+   "company": "Legora",
+   "id": "1b2e302c-2f65-4d7a-8070-46d241f108cd",
+   "title": "Applied AI Specialist, Legal Engineering",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/1b2e302c-2f65-4d7a-8070-46d241f108cd"
+  },
+  {
+   "company": "Legora",
+   "id": "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
+   "title": "Account Executive, SMB",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/64abd634-cc9e-4917-9fa0-25cc31d13ca7"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5309824007",
+   "title": "Senior Product Support Engineer",
+   "location": "Perth, Western Australia, Australia; Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5309824007?gh_jid=5309824007"
+  },
+  {
+   "company": "Quantium",
+   "id": "4006215201",
+   "title": "GTM Strategy Manager | Retail division",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4006215201"
+  },
+  {
+   "company": "Tyro Payments",
+   "id": "8797329",
+   "title": "People Partner",
+   "location": "Sydney, Australia",
+   "url": "https://careers.tyro.com/jobs/8797329-people-partner"
+  },
+  {
+   "company": "Tyro Payments",
+   "id": "8565620",
+   "title": "Lending Sales Associate",
+   "location": "Sydney, Australia",
+   "url": "https://careers.tyro.com/jobs/8565620-lending-sales-associate"
+  },
+  {
+   "company": "Orro Group",
+   "id": "8797152",
+   "title": "Network Security Consultant",
+   "location": "Brisbane, Brisbane City, Australia, Sydney HQ, Sydney, Melbourne",
+   "url": "https://orrogroup.teamtailor.com/jobs/8797152-network-security-consultant"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -226,6 +311,7 @@
    "8197364003",
    "8197366003",
    "8198727003",
+   "8198731003",
    "8201231003",
    "8206254003",
    "8209808003",
@@ -267,7 +353,6 @@
    "26edad82-7b7e-447b-a6c9-0cde4d304f8f",
    "438402ef-83e3-4759-a131-ab19a053d4d9",
    "4acef10d-d48d-4d46-babc-eaa3d3963bed",
-   "63f40f56-736b-4629-ad66-fe07963336ab",
    "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
    "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
    "b5c7c81f-c961-4605-9c2b-01c6fa908b07",
@@ -300,8 +385,7 @@
    "673eda7c-eaa3-43d8-8eee-576c26bab99e",
    "a34e20a3-a7cf-4d62-afc1-1122822d388f",
    "c75ddb78-49cf-441f-831c-4c47b823fd8c",
-   "e97edf32-9db8-4792-9aa3-201a551f6f87",
-   "f0f45d41-9cda-4f84-ac23-b9f608c29841"
+   "e97edf32-9db8-4792-9aa3-201a551f6f87"
   ],
   "PEXA": [],
   "Firmus": [
@@ -324,7 +408,6 @@
    "5446130008",
    "5449673008",
    "5453541008",
-   "5460680008",
    "5463220008",
    "5464412008",
    "5464482008",
@@ -383,10 +466,10 @@
    "4005909201",
    "4007736201",
    "4007744201",
-   "4008605201",
    "4009654201"
   ],
   "CDC Data Centres": [
+   "01695A4A31",
    "11628F1A69",
    "1D49986404",
    "3530EDC7A5",
@@ -417,6 +500,7 @@
    "138b9018-6c2a-47cc-93f0-53545fa604a9",
    "1c62a5d8-3fa7-4ff7-a3b6-366198904eed",
    "21751d35-7851-4c2d-a2ab-1ac68cfcdcec",
+   "230ab009-6369-4ea8-8fcd-e3a17476f118",
    "23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d",
    "2ed8d301-092a-4717-92c1-39568e06e7c6",
    "3954a3b2-6f34-4b29-984c-77f5d5ca813e",
@@ -488,6 +572,7 @@
    "8232996",
    "8279393",
    "8301351",
+   "8385487",
    "8399131",
    "8416366"
   ],
@@ -516,8 +601,11 @@
   "Legora": [
    "045b2b5a-1347-4d37-b1cd-7fe77a60154e",
    "08d0be3f-4212-4627-97d0-b190006a5e33",
+   "1b2e302c-2f65-4d7a-8070-46d241f108cd",
    "3f8ea448-a415-4358-8daa-88fbdeb39a16",
    "5454001c-481c-490a-8ba5-63a3a80d3d05",
+   "64abd634-cc9e-4917-9fa0-25cc31d13ca7",
+   "8fa7b485-0429-470c-90d0-671ba14aed9a",
    "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
    "abc14660-111d-4c03-a86a-a249039dedef",
    "df085356-554f-4d5b-97c0-50db79c83a00",
@@ -610,7 +698,8 @@
    "5295926007",
    "5298282007",
    "5298294007",
-   "5299201007"
+   "5299201007",
+   "5309824007"
   ],
   "Cognition": [
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
@@ -636,6 +725,7 @@
    "4005542201",
    "4005586201",
    "4005587201",
+   "4006215201",
    "4006250201",
    "4006746201",
    "4006762201",
@@ -664,9 +754,11 @@
   "Tyro Payments": [
    "8534442",
    "8541728",
+   "8565620",
    "8654410",
    "8676668",
-   "8758695"
+   "8758695",
+   "8797329"
   ],
   "Nuix": [
    "8093426",
@@ -686,10 +778,10 @@
   ],
   "Orro Group": [
    "8686294",
-   "8701348"
+   "8701348",
+   "8797152"
   ],
   "Pet Circle": [
-   "8534392",
    "8586986",
    "8587435",
    "8654874",
