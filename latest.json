@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-27T14:02:23+00:00",
+ "generatedAt": "2026-11-27T18:26:28+00:00",
  "sydneyDate": "2026-11-28",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 8,
+ "newCount": 2,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -43,7 +43,7 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 37,
+   "total": 38,
    "australia": 5
   },
   "PEXA": {
@@ -98,7 +98,7 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 765,
+   "total": 767,
    "australia": 22
   },
   "DoorDash": {
@@ -123,7 +123,7 @@
   },
   "Nebius": {
    "status": "ok",
-   "total": 339,
+   "total": 340,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -138,8 +138,8 @@
   },
   "Cognition": {
    "status": "ok",
-   "total": 116,
-   "australia": 4
+   "total": 120,
+   "australia": 6
   },
   "Neara": {
    "status": "ok",
@@ -148,7 +148,7 @@
   },
   "Quantium": {
    "status": "ok",
-   "total": 31,
+   "total": 32,
    "australia": 19
   },
   "Lyrebird Health": {
@@ -204,60 +204,18 @@
  },
  "newRoles": [
   {
-   "company": "Macquarie Technology Group",
-   "id": "9b61b73e-7fcf-4ac9-a221-a3b6aa3b93f2",
-   "title": "Head of Secure Collaboration (SigBox)",
-   "location": "2 Market Street, Sydney NSW 2000",
-   "url": "https://jobs.lever.co/macquarietechnologygroup/9b61b73e-7fcf-4ac9-a221-a3b6aa3b93f2"
+   "company": "Cognition",
+   "id": "d5268384-d994-46aa-ac20-e1aee1ffa550",
+   "title": "Regional Sales Director - Enterprise Australia",
+   "location": "Sydney | Australia",
+   "url": "https://jobs.ashbyhq.com/cognition/d5268384-d994-46aa-ac20-e1aee1ffa550"
   },
   {
-   "company": "Firmus",
-   "id": "5480938008",
-   "title": "Development Manager, Site Origination",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://job-boards.greenhouse.io/firmus/jobs/5480938008"
-  },
-  {
-   "company": "Firmus",
-   "id": "5429673008",
-   "title": "Senior Kubernetes Platform Engineer",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://job-boards.greenhouse.io/firmus/jobs/5429673008"
-  },
-  {
-   "company": "Eucalyptus",
-   "id": "4758866005",
-   "title": "Growth Marketing Manager",
-   "location": "AU - HQ - NSW",
-   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4758866005"
-  },
-  {
-   "company": "Silicon Quantum Computing",
-   "id": "4008605201",
-   "title": "Technical Project Manager (Embedded)",
-   "location": "Sydney",
-   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4008605201"
-  },
-  {
-   "company": "Xero",
-   "id": "4208d853-f717-4cae-bbc1-126275760ecf",
-   "title": "Engineering Manager - Cloud Networks",
-   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
-   "url": "https://jobs.ashbyhq.com/xero/4208d853-f717-4cae-bbc1-126275760ecf"
-  },
-  {
-   "company": "Legora",
-   "id": "d1ace02b-12d8-4c3e-b0d5-abf90a3906e8",
-   "title": "Account Manager, Strategic Accounts (APAC)",
-   "location": "Sydney | Sydney | New South Wales | Australia",
-   "url": "https://jobs.ashbyhq.com/legora/d1ace02b-12d8-4c3e-b0d5-abf90a3906e8"
-  },
-  {
-   "company": "Anduril Industries",
-   "id": "5310639007",
-   "title": "Staff Software Engineer",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5310639007?gh_jid=5310639007"
+   "company": "Cognition",
+   "id": "dcb48772-f652-4bde-b215-e06bdd4775c3",
+   "title": "Regional Sales Director - Thailand",
+   "location": "International | APAC | Bangkok",
+   "url": "https://jobs.ashbyhq.com/cognition/dcb48772-f652-4bde-b215-e06bdd4775c3"
   }
  ],
  "openIds": {
@@ -678,7 +636,9 @@
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
    "4bf50602-b880-40d2-9c8c-18d4372a8b02",
    "8e4c141b-ca44-459d-a842-474f6e090da1",
-   "bcb56d79-24fd-46f9-8719-d389a3641f40"
+   "bcb56d79-24fd-46f9-8719-d389a3641f40",
+   "d5268384-d994-46aa-ac20-e1aee1ffa550",
+   "dcb48772-f652-4bde-b215-e06bdd4775c3"
   ],
   "Neara": [
    "11e025a4-7697-46f1-b9ad-bbf3f0980949",
