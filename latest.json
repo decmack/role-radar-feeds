@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-26T18:37:26+00:00",
- "sydneyDate": "2026-11-27",
+ "generatedAt": "2026-11-27T14:02:23+00:00",
+ "sydneyDate": "2026-11-28",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 0,
+ "newCount": 8,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -18,7 +18,7 @@
   },
   "Q-CTRL": {
    "status": "ok",
-   "total": 33,
+   "total": 32,
    "australia": 14
   },
   "Objective Corporation": {
@@ -28,13 +28,13 @@
   },
   "Macquarie Technology Group": {
    "status": "ok",
-   "total": 13,
-   "australia": 11
+   "total": 14,
+   "australia": 12
   },
   "SafetyCulture (Mitti)": {
    "status": "ok",
-   "total": 31,
-   "australia": 13
+   "total": 28,
+   "australia": 10
   },
   "Harrison.ai": {
    "status": "ok",
@@ -43,7 +43,7 @@
   },
   "SiteMinder": {
    "status": "ok",
-   "total": 35,
+   "total": 37,
    "australia": 5
   },
   "PEXA": {
@@ -53,8 +53,8 @@
   },
   "Firmus": {
    "status": "ok",
-   "total": 61,
-   "australia": 24
+   "total": 65,
+   "australia": 26
   },
   "First Focus": {
    "status": "ok",
@@ -74,37 +74,37 @@
   "Eucalyptus": {
    "status": "ok",
    "total": 84,
-   "australia": 25
+   "australia": 26
   },
   "Silicon Quantum Computing": {
    "status": "ok",
-   "total": 10,
-   "australia": 10
+   "total": 9,
+   "australia": 9
   },
   "CDC Data Centres": {
    "status": "ok",
-   "total": 61,
-   "australia": 23
+   "total": 60,
+   "australia": 22
   },
   "Xero": {
    "status": "ok",
-   "total": 116,
-   "australia": 35
+   "total": 117,
+   "australia": 36
   },
   "Airbnb": {
    "status": "ok",
-   "total": 201,
+   "total": 200,
    "australia": 5
   },
   "Stripe": {
    "status": "ok",
-   "total": 768,
+   "total": 765,
    "australia": 22
   },
   "DoorDash": {
    "status": "ok",
-   "total": 18,
-   "australia": 13
+   "total": 17,
+   "australia": 12
   },
   "Block": {
    "status": "ok",
@@ -118,12 +118,12 @@
   },
   "Legora": {
    "status": "ok",
-   "total": 333,
-   "australia": 12
+   "total": 332,
+   "australia": 13
   },
   "Nebius": {
    "status": "ok",
-   "total": 343,
+   "total": 339,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,8 +133,8 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2598,
-   "australia": 70
+   "total": 2599,
+   "australia": 71
   },
   "Cognition": {
    "status": "ok",
@@ -148,8 +148,8 @@
   },
   "Quantium": {
    "status": "ok",
-   "total": 32,
-   "australia": 20
+   "total": 31,
+   "australia": 19
   },
   "Lyrebird Health": {
    "status": "ok",
@@ -183,8 +183,8 @@
   },
   "Pet Circle": {
    "status": "ok",
-   "total": 7,
-   "australia": 4
+   "total": 6,
+   "australia": 3
   },
   "Koala": {
    "status": "ok",
@@ -202,7 +202,64 @@
    "australia": 0
   }
  },
- "newRoles": [],
+ "newRoles": [
+  {
+   "company": "Macquarie Technology Group",
+   "id": "9b61b73e-7fcf-4ac9-a221-a3b6aa3b93f2",
+   "title": "Head of Secure Collaboration (SigBox)",
+   "location": "2 Market Street, Sydney NSW 2000",
+   "url": "https://jobs.lever.co/macquarietechnologygroup/9b61b73e-7fcf-4ac9-a221-a3b6aa3b93f2"
+  },
+  {
+   "company": "Firmus",
+   "id": "5480938008",
+   "title": "Development Manager, Site Origination",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5480938008"
+  },
+  {
+   "company": "Firmus",
+   "id": "5429673008",
+   "title": "Senior Kubernetes Platform Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://job-boards.greenhouse.io/firmus/jobs/5429673008"
+  },
+  {
+   "company": "Eucalyptus",
+   "id": "4758866005",
+   "title": "Growth Marketing Manager",
+   "location": "AU - HQ - NSW",
+   "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4758866005"
+  },
+  {
+   "company": "Silicon Quantum Computing",
+   "id": "4008605201",
+   "title": "Technical Project Manager (Embedded)",
+   "location": "Sydney",
+   "url": "https://job-boards.anz.greenhouse.io/sqc/jobs/4008605201"
+  },
+  {
+   "company": "Xero",
+   "id": "4208d853-f717-4cae-bbc1-126275760ecf",
+   "title": "Engineering Manager - Cloud Networks",
+   "location": "AU: Melbourne: (260 Burwood Rd) | AU: Sydney (45 Clarence St) | Melbourne | Victoria | Australia",
+   "url": "https://jobs.ashbyhq.com/xero/4208d853-f717-4cae-bbc1-126275760ecf"
+  },
+  {
+   "company": "Legora",
+   "id": "d1ace02b-12d8-4c3e-b0d5-abf90a3906e8",
+   "title": "Account Manager, Strategic Accounts (APAC)",
+   "location": "Sydney | Sydney | New South Wales | Australia",
+   "url": "https://jobs.ashbyhq.com/legora/d1ace02b-12d8-4c3e-b0d5-abf90a3906e8"
+  },
+  {
+   "company": "Anduril Industries",
+   "id": "5310639007",
+   "title": "Staff Software Engineer",
+   "location": "Sydney, New South Wales, Australia",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5310639007?gh_jid=5310639007"
+  }
+ ],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -270,6 +327,7 @@
    "4acef10d-d48d-4d46-babc-eaa3d3963bed",
    "72bf66fd-a1d9-4e30-8b19-50368357ee9f",
    "75562216-ed57-4cad-9a12-e3ea7f8a5d6d",
+   "9b61b73e-7fcf-4ac9-a221-a3b6aa3b93f2",
    "b5c7c81f-c961-4605-9c2b-01c6fa908b07",
    "d2da8d92-a2e2-4702-95b5-02a06d0eb0f3",
    "d5cc9e79-acfd-4a2b-8fff-8e09786897d7",
@@ -281,9 +339,6 @@
    "0faee637-985f-4ee5-9bfa-dda75d0a19a1",
    "107abce5-d3a7-4f98-b5e6-4332edae3803",
    "1792b6c6-535c-4e9b-9f74-594d7939ee06",
-   "4dd0ebe0-b04b-4b83-9952-9d4251a7a58e",
-   "645682ac-10cb-4dd4-a741-b46bc661c4c1",
-   "6b5e07ab-8da4-419f-bff5-7a7cdc9bb623",
    "905e6a1c-f6dd-4c99-a146-8341eecca06b",
    "9c69b527-1554-448e-848c-144539c9a0f0",
    "aa6353e6-0db4-4d0d-a090-d3ef32927436",
@@ -315,6 +370,7 @@
    "5417755008",
    "5429666008",
    "5429668008",
+   "5429673008",
    "5429675008",
    "5435947008",
    "5435949008",
@@ -327,7 +383,8 @@
    "5464412008",
    "5464482008",
    "5466634008",
-   "5472075008"
+   "5472075008",
+   "5480938008"
   ],
   "First Focus": [
    "278145312B",
@@ -369,7 +426,8 @@
    "4751738005",
    "4753857005",
    "4755905005",
-   "4757149005"
+   "4757149005",
+   "4758866005"
   ],
   "Silicon Quantum Computing": [
    "4005048201",
@@ -378,10 +436,9 @@
    "4005904201",
    "4005906201",
    "4005907201",
-   "4005909201",
    "4007736201",
    "4007744201",
-   "4009654201"
+   "4008605201"
   ],
   "CDC Data Centres": [
    "01695A4A31",
@@ -389,7 +446,6 @@
    "1D49986404",
    "3530EDC7A5",
    "358675DA81",
-   "468A56A229",
    "4CF99286D9",
    "58E91C93FF",
    "5C34BF3173",
@@ -419,6 +475,7 @@
    "23d049aa-8e0a-4a38-9c2b-f19b0ed3a54d",
    "2ed8d301-092a-4717-92c1-39568e06e7c6",
    "3954a3b2-6f34-4b29-984c-77f5d5ca813e",
+   "4208d853-f717-4cae-bbc1-126275760ecf",
    "476734a4-efd8-488c-ac6a-20c52bc07a5d",
    "4f9a785e-0cd4-4e96-ba9e-d0cccc2e29e5",
    "5a81fcc0-a3a5-410e-8f96-22afd2c09116",
@@ -483,7 +540,6 @@
    "7195841",
    "7518634",
    "7821986",
-   "8232945",
    "8232996",
    "8279393",
    "8301351",
@@ -523,6 +579,7 @@
    "8fa7b485-0429-470c-90d0-671ba14aed9a",
    "9a66506b-d584-4d7a-a64d-c284a3dc1b64",
    "abc14660-111d-4c03-a86a-a249039dedef",
+   "d1ace02b-12d8-4c3e-b0d5-abf90a3906e8",
    "df085356-554f-4d5b-97c0-50db79c83a00",
    "eac71565-6fd2-40e6-a50c-7c4ea009e286",
    "ee5271ac-8205-4f44-983a-f8a4f2385d37"
@@ -614,7 +671,8 @@
    "5298282007",
    "5298294007",
    "5299201007",
-   "5309824007"
+   "5309824007",
+   "5310639007"
   ],
   "Cognition": [
    "42be09bc-f25a-4b4b-8b78-d247d773d126",
@@ -636,7 +694,6 @@
    "e36a2d43-e6fe-442d-b2cc-34a76b76e57d"
   ],
   "Quantium": [
-   "4005506201",
    "4005542201",
    "4005586201",
    "4005587201",
@@ -698,7 +755,6 @@
   ],
   "Pet Circle": [
    "8586986",
-   "8587435",
    "8654874",
    "8661315"
   ],
