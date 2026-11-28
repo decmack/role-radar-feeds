@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-27T18:26:28+00:00",
- "sydneyDate": "2026-11-28",
+ "generatedAt": "2026-11-28T13:20:18+00:00",
+ "sydneyDate": "2026-11-29",
  "baseline": false,
  "feedsOk": 39,
  "feedsTotal": 39,
- "newCount": 2,
+ "newCount": 0,
  "feeds": {
   "AirTrunk": {
    "status": "ok",
@@ -98,13 +98,13 @@
   },
   "Stripe": {
    "status": "ok",
-   "total": 767,
+   "total": 771,
    "australia": 22
   },
   "DoorDash": {
    "status": "ok",
-   "total": 17,
-   "australia": 12
+   "total": 16,
+   "australia": 11
   },
   "Block": {
    "status": "ok",
@@ -123,7 +123,7 @@
   },
   "Nebius": {
    "status": "ok",
-   "total": 340,
+   "total": 342,
    "australia": 4
   },
   "Cursor (Anysphere)": {
@@ -133,7 +133,7 @@
   },
   "Anduril Industries": {
    "status": "ok",
-   "total": 2599,
+   "total": 2598,
    "australia": 71
   },
   "Cognition": {
@@ -202,22 +202,7 @@
    "australia": 0
   }
  },
- "newRoles": [
-  {
-   "company": "Cognition",
-   "id": "d5268384-d994-46aa-ac20-e1aee1ffa550",
-   "title": "Regional Sales Director - Enterprise Australia",
-   "location": "Sydney | Australia",
-   "url": "https://jobs.ashbyhq.com/cognition/d5268384-d994-46aa-ac20-e1aee1ffa550"
-  },
-  {
-   "company": "Cognition",
-   "id": "dcb48772-f652-4bde-b215-e06bdd4775c3",
-   "title": "Regional Sales Director - Thailand",
-   "location": "International | APAC | Bangkok",
-   "url": "https://jobs.ashbyhq.com/cognition/dcb48772-f652-4bde-b215-e06bdd4775c3"
-  }
- ],
+ "newRoles": [],
  "openIds": {
   "AirTrunk": [
    "7633479003",
@@ -502,7 +487,6 @@
    "8279393",
    "8301351",
    "8385487",
-   "8399131",
    "8416366"
   ],
   "Block": [
